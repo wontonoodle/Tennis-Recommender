@@ -1,0 +1,3858 @@
+{
+  "version": 1,
+  "locale": "en_US.cp1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.9.13",
+    "package_manager": {
+      "name": "pip",
+      "version": "22.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "549d2276c34dbc1098f01378b52a455e"
+    },
+    ".git\\COMMIT_EDITMSG": {
+      "checksum": "d778d8b1f42d0dd1bb284e5ca9549187"
+    },
+    ".git\\FETCH_HEAD": {
+      "checksum": "477e1d127a3f5a41d246f96c21d6eb95"
+    },
+    ".git\\HEAD": {
+      "checksum": "cf7dd3ce51958c5f13fece957cc417fb"
+    },
+    ".git\\config": {
+      "checksum": "fcf361ca23e2e8b9ff28922c9577f497"
+    },
+    ".git\\description": {
+      "checksum": "a0a7c3fff21f2aea3cfa1d0316dd816c"
+    },
+    ".git\\hooks\\applypatch-msg.sample": {
+      "checksum": "ce562e08d8098926a3862fc6e7905199"
+    },
+    ".git\\hooks\\commit-msg.sample": {
+      "checksum": "579a3c1e12a1e74a98169175fb913012"
+    },
+    ".git\\hooks\\fsmonitor-watchman.sample": {
+      "checksum": "ea587b0fae70333bce92257152996e70"
+    },
+    ".git\\hooks\\post-update.sample": {
+      "checksum": "2b7ea5cee3c49ff53d41e00785eb974c"
+    },
+    ".git\\hooks\\pre-applypatch.sample": {
+      "checksum": "054f9ffb8bfe04a599751cc757226dda"
+    },
+    ".git\\hooks\\pre-commit.sample": {
+      "checksum": "305eadbbcd6f6d2567e033ad12aabbc4"
+    },
+    ".git\\hooks\\pre-merge-commit.sample": {
+      "checksum": "39cb268e2a85d436b9eb6f47614c3cbc"
+    },
+    ".git\\hooks\\pre-push.sample": {
+      "checksum": "2c642152299a94e05ea26eae11993b13"
+    },
+    ".git\\hooks\\pre-rebase.sample": {
+      "checksum": "56e45f2bcbc8226d2b4200f7c46371bf"
+    },
+    ".git\\hooks\\pre-receive.sample": {
+      "checksum": "2ad18ec82c20af7b5926ed9cea6aeedd"
+    },
+    ".git\\hooks\\prepare-commit-msg.sample": {
+      "checksum": "2b5c047bdb474555e1787db32b2d2fc5"
+    },
+    ".git\\hooks\\push-to-checkout.sample": {
+      "checksum": "c7ab00c7784efeadad3ae9b228d4b4db"
+    },
+    ".git\\hooks\\update.sample": {
+      "checksum": "647ae13c682f7827c22f5fc08a03674e"
+    },
+    ".git\\index": {
+      "checksum": "fa1ce0a8ac03d43017de76fe35e8641a"
+    },
+    ".git\\info\\exclude": {
+      "checksum": "036208b4a1ab4a235d75c181e685e5a3"
+    },
+    ".git\\logs\\HEAD": {
+      "checksum": "4388f59f540f5ef248bc8b635221bed5"
+    },
+    ".git\\logs\\refs\\heads\\main": {
+      "checksum": "4388f59f540f5ef248bc8b635221bed5"
+    },
+    ".git\\logs\\refs\\remotes\\origin\\HEAD": {
+      "checksum": "134d32da233103aa2db41ef195f915af"
+    },
+    ".git\\logs\\refs\\remotes\\origin\\main": {
+      "checksum": "e273e101145e3cbcccb50d97b2dcd840"
+    },
+    ".git\\objects\\01\\76aeab2cd14654cb838979005572339d1f6627": {
+      "checksum": "467caa211195689589c549788ec7e5d1"
+    },
+    ".git\\objects\\35\\2d255b0d0122a101f0a3e27baca5b434112377": {
+      "checksum": "273f04779eb7b6a484ca0902e787728f"
+    },
+    ".git\\objects\\46\\0970505a817162be976e15495dd3dec94fa5c2": {
+      "checksum": "861ab0ccdff4bf9737c660cb23f87fd4"
+    },
+    ".git\\objects\\4d\\2aa52784d35f8d7f66a5c52138c0800613e964": {
+      "checksum": "33e549dabba305622422dc97b7ac4577"
+    },
+    ".git\\objects\\73\\41b962b8daade7ec8a3d164fb40aed22246b93": {
+      "checksum": "36f7c28b86093cd7ebc25eea2961704d"
+    },
+    ".git\\objects\\7a\\98f6ba67ff239817544075b54ce38f436cbdf5": {
+      "checksum": "a64b26b3ad7a704aea63dacf0eaf89b8"
+    },
+    ".git\\objects\\7e\\fbd411a7ac399d265d6bfda554d5049b037c7a": {
+      "checksum": "377a2454ed6d4da3ddd7eb5d75978c74"
+    },
+    ".git\\objects\\7f\\d57934bac88003d1a3db569b4cc8e4930530b2": {
+      "checksum": "6a933b08a28d2d72da20e36c39db3c3f"
+    },
+    ".git\\objects\\9e\\da48b33178bc293c648daa6157e4a35a0f3af1": {
+      "checksum": "7938a15cb4400b898ab2b79ce0ba75e4"
+    },
+    ".git\\objects\\a0\\2719ea8b1986895f93e064d4df3c90963391d9": {
+      "checksum": "4b9c8b58ef59c75ac9293fc88b4615f8"
+    },
+    ".git\\objects\\a7\\90c4965559e2c5ec962a8eb4a177cfb6dcd1a4": {
+      "checksum": "d12c15cc271349159e269a064c8cc3eb"
+    },
+    ".git\\objects\\a9\\c0a96549465fad6e0260b705b57ea87f493fad": {
+      "checksum": "318d97a61721b59a28ecd93e35f53adf"
+    },
+    ".git\\objects\\b1\\a6f1e41c4650128319dbfba28dacbe6ef9d020": {
+      "checksum": "82ced27347ddf597ba792ae972b2a87f"
+    },
+    ".git\\objects\\bc\\8dd202159e58c4024326c02d473b0fd885aebb": {
+      "checksum": "c544a89fd2b4b038952a9b4bfd827401"
+    },
+    ".git\\objects\\df\\e0770424b2a19faf507a501ebfc23be8f54e7b": {
+      "checksum": "76f8baefc49c326b504db7bf751c967d"
+    },
+    ".git\\objects\\e6\\db87421501ae8a0ab4687c5d07dc5ae1b6fa2d": {
+      "checksum": "bf8d2689748bb230d569779b1ebdad95"
+    },
+    ".git\\objects\\eb\\7536d2d1f9eb3e82f8c285ec790261350a984b": {
+      "checksum": "1181b7097db4ab062adb029641b89c0e"
+    },
+    ".git\\objects\\f7\\afd5a763a9eb83b8c18376fe4a0ae329a62662": {
+      "checksum": "060f8d2f904cf99f73a9c145e914ce71"
+    },
+    ".git\\refs\\heads\\main": {
+      "checksum": "80878ac59b4adaa1a62f4f220be348fb"
+    },
+    ".git\\refs\\remotes\\origin\\HEAD": {
+      "checksum": "98b16e0b650190870f1b40bc8f4aec4e"
+    },
+    ".git\\refs\\remotes\\origin\\main": {
+      "checksum": "80878ac59b4adaa1a62f4f220be348fb"
+    },
+    ".gitattributes": {
+      "checksum": "05bdb783ee6514c8c072e47680af8ff7"
+    },
+    ".mypy_cache\\.gitignore": {
+      "checksum": "374bb7923bcd4e801d848873950de2c1"
+    },
+    ".mypy_cache\\3.10\\@plugins_snapshot.json": {
+      "checksum": "99914b932bd37a50b983c5e7c90ae93b"
+    },
+    ".mypy_cache\\3.10\\_ast.data.json": {
+      "checksum": "a3626bf0133050814e6df4200d590dd4"
+    },
+    ".mypy_cache\\3.10\\_ast.meta.json": {
+      "checksum": "cb806719ddb9b6755bc79a707ec6bf53"
+    },
+    ".mypy_cache\\3.10\\_codecs.data.json": {
+      "checksum": "e5d395da70ebc64d9f1072cd7aa13a9e"
+    },
+    ".mypy_cache\\3.10\\_codecs.meta.json": {
+      "checksum": "cbbd6dd02c0865681b901c4b1b0cb9a4"
+    },
+    ".mypy_cache\\3.10\\_collections_abc.data.json": {
+      "checksum": "91bb327767623735843d46e6eee19bd4"
+    },
+    ".mypy_cache\\3.10\\_collections_abc.meta.json": {
+      "checksum": "e23c7c7e4db6449b743d70f362e0fbdc"
+    },
+    ".mypy_cache\\3.10\\_typeshed\\__init__.data.json": {
+      "checksum": "b0fa5f6453ee2a023178b0fcd756e8fa"
+    },
+    ".mypy_cache\\3.10\\_typeshed\\__init__.meta.json": {
+      "checksum": "aa6e88988a3a13c3f85c562e5c511301"
+    },
+    ".mypy_cache\\3.10\\_winapi.data.json": {
+      "checksum": "c25774a169a90c6bec07ce523fcc8c50"
+    },
+    ".mypy_cache\\3.10\\_winapi.meta.json": {
+      "checksum": "f124cd5fe09e37b4e9d2496162c7fce0"
+    },
+    ".mypy_cache\\3.10\\abc.data.json": {
+      "checksum": "064b6398917dda63008cc3ddf6bbccfc"
+    },
+    ".mypy_cache\\3.10\\abc.meta.json": {
+      "checksum": "a9c99b9e7d1034848876846d10647fa6"
+    },
+    ".mypy_cache\\3.10\\app.data.json": {
+      "checksum": "5dd2330fda134a99e56d49a90a607eb9"
+    },
+    ".mypy_cache\\3.10\\app.meta.json": {
+      "checksum": "4abb2838716cd7c9147107f1c6dc769e"
+    },
+    ".mypy_cache\\3.10\\array.data.json": {
+      "checksum": "4819f0bfe3cc6b9b897706f26d6c32df"
+    },
+    ".mypy_cache\\3.10\\array.meta.json": {
+      "checksum": "d6d5b9301346f42689c5c5bb4cb31a69"
+    },
+    ".mypy_cache\\3.10\\builtins.data.json": {
+      "checksum": "3fecdd5ee2f093ffaa7375b8c5e1d451"
+    },
+    ".mypy_cache\\3.10\\builtins.meta.json": {
+      "checksum": "9aa9e73ba098c17024b51759c2614d5a"
+    },
+    ".mypy_cache\\3.10\\codecs.data.json": {
+      "checksum": "5a430479ccd1b77ca6481daaf5b91fe6"
+    },
+    ".mypy_cache\\3.10\\codecs.meta.json": {
+      "checksum": "40e6cd93768b0101befa45ef36e6ead5"
+    },
+    ".mypy_cache\\3.10\\collections\\__init__.data.json": {
+      "checksum": "117b1787c0d748c5ef953b8c34e23e8a"
+    },
+    ".mypy_cache\\3.10\\collections\\__init__.meta.json": {
+      "checksum": "f8f42137d09e6d668858e5a700a3d39b"
+    },
+    ".mypy_cache\\3.10\\collections\\abc.data.json": {
+      "checksum": "dabbf128e18763fbe64a99365f97ba42"
+    },
+    ".mypy_cache\\3.10\\collections\\abc.meta.json": {
+      "checksum": "d2ee2680e8d7eceaa9d7b3c2b6807c2a"
+    },
+    ".mypy_cache\\3.10\\contextlib.data.json": {
+      "checksum": "cb54c4d786659084329206c3235bac2a"
+    },
+    ".mypy_cache\\3.10\\contextlib.meta.json": {
+      "checksum": "3b76ab5d465e5845915c75088c4cd829"
+    },
+    ".mypy_cache\\3.10\\ctypes\\__init__.data.json": {
+      "checksum": "eacb7a85c4fcdedbbea325b29deca018"
+    },
+    ".mypy_cache\\3.10\\ctypes\\__init__.meta.json": {
+      "checksum": "c1a352893ec75da762b2ca5cf0b87072"
+    },
+    ".mypy_cache\\3.10\\email\\__init__.data.json": {
+      "checksum": "75ee85ac555ae70b4e8b192618171cd2"
+    },
+    ".mypy_cache\\3.10\\email\\__init__.meta.json": {
+      "checksum": "9744c31cff582e4363470f95a812d149"
+    },
+    ".mypy_cache\\3.10\\email\\charset.data.json": {
+      "checksum": "97ba8c83f2f41ad9a22dfa877a6ef16c"
+    },
+    ".mypy_cache\\3.10\\email\\charset.meta.json": {
+      "checksum": "e7e523d43114755dd5049a97ba434e12"
+    },
+    ".mypy_cache\\3.10\\email\\contentmanager.data.json": {
+      "checksum": "be7387a974c2f50488b84ca868ec84fc"
+    },
+    ".mypy_cache\\3.10\\email\\contentmanager.meta.json": {
+      "checksum": "43bd8644df8b8e5f4ac17792fa055264"
+    },
+    ".mypy_cache\\3.10\\email\\errors.data.json": {
+      "checksum": "e8dd5efe5ad41a481b0d12018eff20bc"
+    },
+    ".mypy_cache\\3.10\\email\\errors.meta.json": {
+      "checksum": "53233df29b4f9582c87244200f0dce0c"
+    },
+    ".mypy_cache\\3.10\\email\\header.data.json": {
+      "checksum": "975a07a5cc3ba831e31d71a0ab858ced"
+    },
+    ".mypy_cache\\3.10\\email\\header.meta.json": {
+      "checksum": "75e9fe74c42eae1fed13632772431f0e"
+    },
+    ".mypy_cache\\3.10\\email\\message.data.json": {
+      "checksum": "452cebf2ab17e923722a7cc9ae461824"
+    },
+    ".mypy_cache\\3.10\\email\\message.meta.json": {
+      "checksum": "0734478b4f0341a9127c957f12f9f008"
+    },
+    ".mypy_cache\\3.10\\email\\policy.data.json": {
+      "checksum": "513639c51f8d0194eef3013bdd30ab6a"
+    },
+    ".mypy_cache\\3.10\\email\\policy.meta.json": {
+      "checksum": "8eb5bd9e3fd2fdc4cee4409a15564c6f"
+    },
+    ".mypy_cache\\3.10\\enum.data.json": {
+      "checksum": "2fb146bd20c788e38552b6a1ede129d7"
+    },
+    ".mypy_cache\\3.10\\enum.meta.json": {
+      "checksum": "8fc57f711752b40244d1c9f00959f306"
+    },
+    ".mypy_cache\\3.10\\genericpath.data.json": {
+      "checksum": "40da5cdb2757edc0768b609aa8a1e2e5"
+    },
+    ".mypy_cache\\3.10\\genericpath.meta.json": {
+      "checksum": "adbf77dfe84c15fa0c4b80f0acf6a286"
+    },
+    ".mypy_cache\\3.10\\importlib\\__init__.data.json": {
+      "checksum": "88ea2f41db6fbfb1407a70495ec566fd"
+    },
+    ".mypy_cache\\3.10\\importlib\\__init__.meta.json": {
+      "checksum": "017afbcc21c839529158f7d056be663e"
+    },
+    ".mypy_cache\\3.10\\importlib\\abc.data.json": {
+      "checksum": "489a717bf3e2de245aecee2d6ec16945"
+    },
+    ".mypy_cache\\3.10\\importlib\\abc.meta.json": {
+      "checksum": "d30e7edaa764b31297b3f7144902ed7c"
+    },
+    ".mypy_cache\\3.10\\importlib\\machinery.data.json": {
+      "checksum": "666cf6922321e1e2159a3b9301788f2f"
+    },
+    ".mypy_cache\\3.10\\importlib\\machinery.meta.json": {
+      "checksum": "9f6c15b3ed0f6ffdc109b2be023f8647"
+    },
+    ".mypy_cache\\3.10\\importlib\\metadata\\__init__.data.json": {
+      "checksum": "f000853d3e4aef9288eac2eb25892bc9"
+    },
+    ".mypy_cache\\3.10\\importlib\\metadata\\__init__.meta.json": {
+      "checksum": "a640a32a35aaf0989d573c922cd69955"
+    },
+    ".mypy_cache\\3.10\\importlib\\metadata\\_meta.data.json": {
+      "checksum": "80fa89e94ca55c4cd9f8e32fe1e454d0"
+    },
+    ".mypy_cache\\3.10\\importlib\\metadata\\_meta.meta.json": {
+      "checksum": "00d656bb983406af252090a4904f0b91"
+    },
+    ".mypy_cache\\3.10\\io.data.json": {
+      "checksum": "eb2a80b609b2963ad6b26327533bcaa1"
+    },
+    ".mypy_cache\\3.10\\io.meta.json": {
+      "checksum": "3f4b19b9797430c1caf30f656c948c00"
+    },
+    ".mypy_cache\\3.10\\mmap.data.json": {
+      "checksum": "0e084726cd3ecfd664cca67097f8c594"
+    },
+    ".mypy_cache\\3.10\\mmap.meta.json": {
+      "checksum": "689037a6f2b310047b4953ae14c58eeb"
+    },
+    ".mypy_cache\\3.10\\ntpath.data.json": {
+      "checksum": "c8f94eed2647591c05b7883f646dc561"
+    },
+    ".mypy_cache\\3.10\\ntpath.meta.json": {
+      "checksum": "3e86d5079b032171ec8d8dd04678f81b"
+    },
+    ".mypy_cache\\3.10\\os\\__init__.data.json": {
+      "checksum": "696fca14fe02f5910bf23506e10c79c4"
+    },
+    ".mypy_cache\\3.10\\os\\__init__.meta.json": {
+      "checksum": "0f1a22ff69e2cd8b941a20cf517e7c0c"
+    },
+    ".mypy_cache\\3.10\\os\\path.data.json": {
+      "checksum": "2d2b379328028b53d4a7551a70829871"
+    },
+    ".mypy_cache\\3.10\\os\\path.meta.json": {
+      "checksum": "637395395ecd93f0b070003cd75e0a2c"
+    },
+    ".mypy_cache\\3.10\\pathlib.data.json": {
+      "checksum": "a14a1dc577f3150a28d0d6181cdc4bea"
+    },
+    ".mypy_cache\\3.10\\pathlib.meta.json": {
+      "checksum": "b2fb0941e721da703b9eed75c1d2fbb2"
+    },
+    ".mypy_cache\\3.10\\pickle.data.json": {
+      "checksum": "483b8b747f81315859a612000d6430c9"
+    },
+    ".mypy_cache\\3.10\\pickle.meta.json": {
+      "checksum": "7b0643b09b004e379e8a0ef0dc38b9da"
+    },
+    ".mypy_cache\\3.10\\posixpath.data.json": {
+      "checksum": "ce20529644732b3772950c4d810c7532"
+    },
+    ".mypy_cache\\3.10\\posixpath.meta.json": {
+      "checksum": "ef6248a9e0ddd99f4305857db52adf8a"
+    },
+    ".mypy_cache\\3.10\\re.data.json": {
+      "checksum": "223a2768b3fccdd04d6deb1d3ac3d7e2"
+    },
+    ".mypy_cache\\3.10\\re.meta.json": {
+      "checksum": "4c0be1a9a90650ccb0cb72f12fe7b6b9"
+    },
+    ".mypy_cache\\3.10\\sre_compile.data.json": {
+      "checksum": "5556530c15b0220727cbf26ea6926bc5"
+    },
+    ".mypy_cache\\3.10\\sre_compile.meta.json": {
+      "checksum": "17686fc8f39a7aac1495366be92505d4"
+    },
+    ".mypy_cache\\3.10\\sre_constants.data.json": {
+      "checksum": "550c99315daa71ad499cf20f9bcba6d8"
+    },
+    ".mypy_cache\\3.10\\sre_constants.meta.json": {
+      "checksum": "45890d0155469ae648be123d6c803dd1"
+    },
+    ".mypy_cache\\3.10\\sre_parse.data.json": {
+      "checksum": "9bd8e4710fe017ed76bda4c9072ae0cf"
+    },
+    ".mypy_cache\\3.10\\sre_parse.meta.json": {
+      "checksum": "afce9091aa60cf4a6c28aaf4f64968ce"
+    },
+    ".mypy_cache\\3.10\\subprocess.data.json": {
+      "checksum": "354f63bbfdb57fbb14eb50a331d64a22"
+    },
+    ".mypy_cache\\3.10\\subprocess.meta.json": {
+      "checksum": "d9a4ef38c419405a7b4ee5bfad58db5e"
+    },
+    ".mypy_cache\\3.10\\sys.data.json": {
+      "checksum": "9ebe874857e239edfe82a764d24ee299"
+    },
+    ".mypy_cache\\3.10\\sys.meta.json": {
+      "checksum": "b0062dd88fe13614a86a27f9bac248ee"
+    },
+    ".mypy_cache\\3.10\\types.data.json": {
+      "checksum": "8b626454624700533722f18532ce4084"
+    },
+    ".mypy_cache\\3.10\\types.meta.json": {
+      "checksum": "f28639975458bae42cad1c0cd424e719"
+    },
+    ".mypy_cache\\3.10\\typing.data.json": {
+      "checksum": "ca0ff991776dd6a006fde7166c20fb01"
+    },
+    ".mypy_cache\\3.10\\typing.meta.json": {
+      "checksum": "a64fea4319e94900e7fe245da9b9f88f"
+    },
+    ".mypy_cache\\3.10\\typing_extensions.data.json": {
+      "checksum": "bc92a100f3e63939b7fa18ac4b65a642"
+    },
+    ".mypy_cache\\3.10\\typing_extensions.meta.json": {
+      "checksum": "159df55e61f2039f7a615baeb63ec8d9"
+    },
+    ".mypy_cache\\3.9\\@plugins_snapshot.json": {
+      "checksum": "99914b932bd37a50b983c5e7c90ae93b"
+    },
+    ".mypy_cache\\3.9\\__future__.data.json": {
+      "checksum": "b75593ffa3f1a5bb9f343c6ce565c33f"
+    },
+    ".mypy_cache\\3.9\\__future__.meta.json": {
+      "checksum": "95e5ed949884a8c71b03437567c41caf"
+    },
+    ".mypy_cache\\3.9\\_ast.data.json": {
+      "checksum": "5ab9b646c1465eaccb4129035546328d"
+    },
+    ".mypy_cache\\3.9\\_ast.meta.json": {
+      "checksum": "14a5245c7922f6ab0d21b56e24e6b2d4"
+    },
+    ".mypy_cache\\3.9\\_bisect.data.json": {
+      "checksum": "cf568534b53faa05ce3eb1318c707d14"
+    },
+    ".mypy_cache\\3.9\\_bisect.meta.json": {
+      "checksum": "1784e8df9331ba1e45cae94006fe8341"
+    },
+    ".mypy_cache\\3.9\\_codecs.data.json": {
+      "checksum": "658b74433cb735d84dc194712c2fac39"
+    },
+    ".mypy_cache\\3.9\\_codecs.meta.json": {
+      "checksum": "f55fbd5cc0c1399de61bc7babd1a40dc"
+    },
+    ".mypy_cache\\3.9\\_collections_abc.data.json": {
+      "checksum": "01f0ef52078a47e2906ce274a2f5384f"
+    },
+    ".mypy_cache\\3.9\\_collections_abc.meta.json": {
+      "checksum": "d4df15aec2d8f5843cc42bd18627e208"
+    },
+    ".mypy_cache\\3.9\\_csv.data.json": {
+      "checksum": "0008e92265298d67bf47e98cc01954ca"
+    },
+    ".mypy_cache\\3.9\\_csv.meta.json": {
+      "checksum": "68d6b41ca6f01fdd9ee136e5332ae7c1"
+    },
+    ".mypy_cache\\3.9\\_decimal.data.json": {
+      "checksum": "8770da9adb2e42346fbdb299cf8c8534"
+    },
+    ".mypy_cache\\3.9\\_decimal.meta.json": {
+      "checksum": "7a444698cd823e05cb737cd5887e2285"
+    },
+    ".mypy_cache\\3.9\\_operator.data.json": {
+      "checksum": "5e88600bbdd143feb5374c45cea57dca"
+    },
+    ".mypy_cache\\3.9\\_operator.meta.json": {
+      "checksum": "531ec290ae4f8bf21a73cf91713d5763"
+    },
+    ".mypy_cache\\3.9\\_random.data.json": {
+      "checksum": "56bbbfbeab17547d31dab7397ded03e4"
+    },
+    ".mypy_cache\\3.9\\_random.meta.json": {
+      "checksum": "97640010a50a6606e7d46f0437e653ee"
+    },
+    ".mypy_cache\\3.9\\_socket.data.json": {
+      "checksum": "3704ea1e2ea6e893a2926a107243c2db"
+    },
+    ".mypy_cache\\3.9\\_socket.meta.json": {
+      "checksum": "413a68355af0dd822a698359dbcf9d44"
+    },
+    ".mypy_cache\\3.9\\_stat.data.json": {
+      "checksum": "a05b3338b28ad9216e6e0867000d801d"
+    },
+    ".mypy_cache\\3.9\\_stat.meta.json": {
+      "checksum": "76288e3499b9d0b69793c3b8d298a1d3"
+    },
+    ".mypy_cache\\3.9\\_thread.data.json": {
+      "checksum": "6a4de60a4543a61cedcf0642903b2acc"
+    },
+    ".mypy_cache\\3.9\\_thread.meta.json": {
+      "checksum": "6df6c0ac907cec128d73a65080cec4d5"
+    },
+    ".mypy_cache\\3.9\\_typeshed\\__init__.data.json": {
+      "checksum": "e596ac3802b7082ff33ead4e1527e671"
+    },
+    ".mypy_cache\\3.9\\_typeshed\\__init__.meta.json": {
+      "checksum": "cc488c53c03578793fb3a0ee3b3eda54"
+    },
+    ".mypy_cache\\3.9\\_warnings.data.json": {
+      "checksum": "308290c82b48a08af7fd97ecbefa6596"
+    },
+    ".mypy_cache\\3.9\\_warnings.meta.json": {
+      "checksum": "ce67963fec3851c4759fab2fa3590f5f"
+    },
+    ".mypy_cache\\3.9\\_weakref.data.json": {
+      "checksum": "542bc7bb2658a95957f2609e302072f4"
+    },
+    ".mypy_cache\\3.9\\_weakref.meta.json": {
+      "checksum": "d9e8f6ab9da50c346a34f3c97f9e660a"
+    },
+    ".mypy_cache\\3.9\\_weakrefset.data.json": {
+      "checksum": "d4b8fa0eb8b452adefd11d5b39281559"
+    },
+    ".mypy_cache\\3.9\\_weakrefset.meta.json": {
+      "checksum": "ed00a02b1300cadf4871a6b780b6b6ff"
+    },
+    ".mypy_cache\\3.9\\_winapi.data.json": {
+      "checksum": "842b35f49430d33cb5e7b184400b14b9"
+    },
+    ".mypy_cache\\3.9\\_winapi.meta.json": {
+      "checksum": "96577000b8dec10168d0cbf8bb2e4266"
+    },
+    ".mypy_cache\\3.9\\abc.data.json": {
+      "checksum": "0121c2d1388dcab7a433f10d23a861fd"
+    },
+    ".mypy_cache\\3.9\\abc.meta.json": {
+      "checksum": "ed9bc35e7df452846e24e45ec3a8efce"
+    },
+    ".mypy_cache\\3.9\\anyio\\__init__.data.json": {
+      "checksum": "f5130c9e745331267d2572be790091a6"
+    },
+    ".mypy_cache\\3.9\\anyio\\__init__.meta.json": {
+      "checksum": "8a20e33542335bdd17d6b995b3826c13"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\__init__.data.json": {
+      "checksum": "87e92c31fb94b423753194ac14d000bd"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\__init__.meta.json": {
+      "checksum": "d8b8c5fecbb96a358d709fa2c98c9222"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_compat.data.json": {
+      "checksum": "144b276b1105c7a9ec9cd37d464de083"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_compat.meta.json": {
+      "checksum": "26ffe9e907a35bb75e9a36620a15fa24"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_eventloop.data.json": {
+      "checksum": "e7826a09cdcd576ab8d14ad90467bfb5"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_eventloop.meta.json": {
+      "checksum": "56fb89e8f748a87301a084ec6ba04cb3"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_exceptions.data.json": {
+      "checksum": "e551bb78406789adbf66114ff21ad810"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_exceptions.meta.json": {
+      "checksum": "0b79e43eb9de02e416ef47f4189a01d8"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_fileio.data.json": {
+      "checksum": "a6d7bcdba68712a076d13df208c6096f"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_fileio.meta.json": {
+      "checksum": "f20fb1bf893ac4791c29ca726fd041b4"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_resources.data.json": {
+      "checksum": "11cb72cf97223ac812b7629e495466c5"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_resources.meta.json": {
+      "checksum": "eb80c554c9ba8fdbc2e3c64ff71d14da"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_signals.data.json": {
+      "checksum": "784a3844f64a535ea3334f0d384680d5"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_signals.meta.json": {
+      "checksum": "c38d3b768fb1f2a0ea55f2977b654cad"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_sockets.data.json": {
+      "checksum": "02c1c6bc26bcd470b00f42d4802b2303"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_sockets.meta.json": {
+      "checksum": "3a49e24d5ad1bf235936a95b001409ff"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_streams.data.json": {
+      "checksum": "d20a65505dfa5eea4f723f23b146fb4d"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_streams.meta.json": {
+      "checksum": "7717600f882b6fad0bfd3f1f5e2ca4ab"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_subprocesses.data.json": {
+      "checksum": "90e15fea37f8b8c4480c2fb739c58035"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_subprocesses.meta.json": {
+      "checksum": "f3960ea87a696bfe26681233800ad93c"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_synchronization.data.json": {
+      "checksum": "834a550c9ccc5629f7dd15860c02ff33"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_synchronization.meta.json": {
+      "checksum": "371f41465385351a5376309073d8930b"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_tasks.data.json": {
+      "checksum": "99bc74b033c78f5f872559277936067f"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_tasks.meta.json": {
+      "checksum": "7e8f0627e2c72aff42ef7d2187093b42"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_testing.data.json": {
+      "checksum": "d7aae3ba48d91fd7f6134c98fafcd128"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_testing.meta.json": {
+      "checksum": "69e27f694f39bac3f314922ba567c3b2"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_typedattr.data.json": {
+      "checksum": "ab931755570e80bcb12566fcb5162ee5"
+    },
+    ".mypy_cache\\3.9\\anyio\\_core\\_typedattr.meta.json": {
+      "checksum": "c06fb6e1dc0168d4a95d0c817f05555d"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\__init__.data.json": {
+      "checksum": "d963a441dfbfa6a78fbe8e3c14b236bd"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\__init__.meta.json": {
+      "checksum": "bd53155606d92e3a33300cc2c7f71ca4"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_resources.data.json": {
+      "checksum": "f5a932fdba49b6e27c4b5377119f1c06"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_resources.meta.json": {
+      "checksum": "a536c47c8aea0ac11a7ba82378c68bb4"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_sockets.data.json": {
+      "checksum": "5346d9899cec3aa0358b349345b6a8ee"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_sockets.meta.json": {
+      "checksum": "27d7084addbfabe11fd747ec53f12539"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_streams.data.json": {
+      "checksum": "d95c16836925f1a86d2156dac361908e"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_streams.meta.json": {
+      "checksum": "75c2115cddbe2164a6a7e3588cc16542"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_subprocesses.data.json": {
+      "checksum": "d9b3522d041c3a51c6a2ba4cd014235f"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_subprocesses.meta.json": {
+      "checksum": "063f660f6b15926c618c0b153ddcb95b"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_tasks.data.json": {
+      "checksum": "57260d4dc08d8e9f2a14c78a9369d93d"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_tasks.meta.json": {
+      "checksum": "d8cbacfeda723da07ab5391f905be047"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_testing.data.json": {
+      "checksum": "8e6f85a571dbb3d8010701d88008da26"
+    },
+    ".mypy_cache\\3.9\\anyio\\abc\\_testing.meta.json": {
+      "checksum": "f49b11c781e6c7d189732cbc5df9b366"
+    },
+    ".mypy_cache\\3.9\\anyio\\from_thread.data.json": {
+      "checksum": "4a03e8d119effc60baff27c892195666"
+    },
+    ".mypy_cache\\3.9\\anyio\\from_thread.meta.json": {
+      "checksum": "1cb7b6a1add5b5b1049cc2c822e78b54"
+    },
+    ".mypy_cache\\3.9\\anyio\\lowlevel.data.json": {
+      "checksum": "da818e8ce10ea4b8aa92944ec075edef"
+    },
+    ".mypy_cache\\3.9\\anyio\\lowlevel.meta.json": {
+      "checksum": "b18875d6c76b21e0d5cd18ce1595bd8d"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\__init__.data.json": {
+      "checksum": "7ca6f2c9eb636ac89b39f4cde40f1dc9"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\__init__.meta.json": {
+      "checksum": "e4d08a94b8cc9ffde5c1d194f17028b9"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\memory.data.json": {
+      "checksum": "ece3f2968f903cd785de45a1c47d4e75"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\memory.meta.json": {
+      "checksum": "0c7a615a4b3252ed525561614f78bb1b"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\stapled.data.json": {
+      "checksum": "12065d87c3ee21f8d2ff3f2df0675c27"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\stapled.meta.json": {
+      "checksum": "0ee87cc8851b86516f95b73f1c0f5389"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\tls.data.json": {
+      "checksum": "4cdf8580caa66760a82e8a0eb8e74c9d"
+    },
+    ".mypy_cache\\3.9\\anyio\\streams\\tls.meta.json": {
+      "checksum": "252cdc7eaf4b9bfbb2676f204c1754bb"
+    },
+    ".mypy_cache\\3.9\\anyio\\to_thread.data.json": {
+      "checksum": "c5b1a359051fcee5afde7acd16d13aa5"
+    },
+    ".mypy_cache\\3.9\\anyio\\to_thread.meta.json": {
+      "checksum": "09922076cd37d82d5ab4109e90b19b0a"
+    },
+    ".mypy_cache\\3.9\\app.data.json": {
+      "checksum": "8baf263c734ad2693c0c56b1bdf1fb8e"
+    },
+    ".mypy_cache\\3.9\\app.meta.json": {
+      "checksum": "5f09ba5d343809f56f3cdb1dd70d85b8"
+    },
+    ".mypy_cache\\3.9\\array.data.json": {
+      "checksum": "ddbf71ae0f94590f1a4228d3af4fdf92"
+    },
+    ".mypy_cache\\3.9\\array.meta.json": {
+      "checksum": "cc91d3b05cb141afa16166ece60e7a05"
+    },
+    ".mypy_cache\\3.9\\asgiref\\__init__.data.json": {
+      "checksum": "e82c68857aec8ef570d2ae09664a08dd"
+    },
+    ".mypy_cache\\3.9\\asgiref\\__init__.meta.json": {
+      "checksum": "d640638455b6a65c7c011d10eab72ab6"
+    },
+    ".mypy_cache\\3.9\\asgiref\\typing.data.json": {
+      "checksum": "116260ddfffbdb8a13b62cb094638e4a"
+    },
+    ".mypy_cache\\3.9\\asgiref\\typing.meta.json": {
+      "checksum": "20d0894af35503d388713aee9970eca1"
+    },
+    ".mypy_cache\\3.9\\ast.data.json": {
+      "checksum": "8d5f6b77a4c1e7276adbef69466e4f1c"
+    },
+    ".mypy_cache\\3.9\\ast.meta.json": {
+      "checksum": "a36ee73de221137a9c08a33a6a96aeff"
+    },
+    ".mypy_cache\\3.9\\asyncio\\__init__.data.json": {
+      "checksum": "efe78eed5f1a195db1762e19ce7adf5f"
+    },
+    ".mypy_cache\\3.9\\asyncio\\__init__.meta.json": {
+      "checksum": "556dd814b903d57f0be94b3b371354a7"
+    },
+    ".mypy_cache\\3.9\\asyncio\\base_events.data.json": {
+      "checksum": "5600f7e20bf7ed15f3757b1e890d9395"
+    },
+    ".mypy_cache\\3.9\\asyncio\\base_events.meta.json": {
+      "checksum": "a34fc402a938cf1c6b989c6a508d9249"
+    },
+    ".mypy_cache\\3.9\\asyncio\\constants.data.json": {
+      "checksum": "baee83d469467197b06a992ed12929ae"
+    },
+    ".mypy_cache\\3.9\\asyncio\\constants.meta.json": {
+      "checksum": "0329367960c3df6c9f384df7d8ac31a6"
+    },
+    ".mypy_cache\\3.9\\asyncio\\coroutines.data.json": {
+      "checksum": "29b9fbbe7144d21970ed681b4151b748"
+    },
+    ".mypy_cache\\3.9\\asyncio\\coroutines.meta.json": {
+      "checksum": "324ad51f881f74d3a37ddc7da7484a5d"
+    },
+    ".mypy_cache\\3.9\\asyncio\\events.data.json": {
+      "checksum": "48510e3d506d37ec5becb39e29eb7506"
+    },
+    ".mypy_cache\\3.9\\asyncio\\events.meta.json": {
+      "checksum": "63d522b2a6e2d20c4ce2ea0703d7a3c4"
+    },
+    ".mypy_cache\\3.9\\asyncio\\exceptions.data.json": {
+      "checksum": "d5a8a94cab55c413aabc6c9c5968da8a"
+    },
+    ".mypy_cache\\3.9\\asyncio\\exceptions.meta.json": {
+      "checksum": "f2d18e8921a90e7f22ee882fff659a3b"
+    },
+    ".mypy_cache\\3.9\\asyncio\\futures.data.json": {
+      "checksum": "b3827b220ce1ea0508872949d6057694"
+    },
+    ".mypy_cache\\3.9\\asyncio\\futures.meta.json": {
+      "checksum": "5adb7f977891f9d69ea288e185457b92"
+    },
+    ".mypy_cache\\3.9\\asyncio\\locks.data.json": {
+      "checksum": "a8d29839ee3e8f8ee005c481dedd537c"
+    },
+    ".mypy_cache\\3.9\\asyncio\\locks.meta.json": {
+      "checksum": "505c6048e55f538d0579e371563e7d1d"
+    },
+    ".mypy_cache\\3.9\\asyncio\\proactor_events.data.json": {
+      "checksum": "7c66c67a7ae767a937d51fc929e1dc7c"
+    },
+    ".mypy_cache\\3.9\\asyncio\\proactor_events.meta.json": {
+      "checksum": "56152b58c2ff596e362597b675bcec5c"
+    },
+    ".mypy_cache\\3.9\\asyncio\\protocols.data.json": {
+      "checksum": "70faed765426d78b3618e8b1ee395eba"
+    },
+    ".mypy_cache\\3.9\\asyncio\\protocols.meta.json": {
+      "checksum": "0643d3c8ecede48215ae64aed1e8c84d"
+    },
+    ".mypy_cache\\3.9\\asyncio\\queues.data.json": {
+      "checksum": "972e7b013988fa6c4379803839ef3cc7"
+    },
+    ".mypy_cache\\3.9\\asyncio\\queues.meta.json": {
+      "checksum": "da990c06e826d3c5b3bcf00e35285b9b"
+    },
+    ".mypy_cache\\3.9\\asyncio\\runners.data.json": {
+      "checksum": "0b6cdb9ff9f3cc18c4611a1300cb6d2d"
+    },
+    ".mypy_cache\\3.9\\asyncio\\runners.meta.json": {
+      "checksum": "cfd8cd67f4b70d3183e1cea89f3f0f7f"
+    },
+    ".mypy_cache\\3.9\\asyncio\\selector_events.data.json": {
+      "checksum": "e2936570929e0a81ba901ed23b966d8a"
+    },
+    ".mypy_cache\\3.9\\asyncio\\selector_events.meta.json": {
+      "checksum": "294e9db8f00cc6d37abe2d98d24ea921"
+    },
+    ".mypy_cache\\3.9\\asyncio\\streams.data.json": {
+      "checksum": "47757937e672d424ab44aac49d771c8c"
+    },
+    ".mypy_cache\\3.9\\asyncio\\streams.meta.json": {
+      "checksum": "e753970f91c54924c3c17f37a09dc31b"
+    },
+    ".mypy_cache\\3.9\\asyncio\\subprocess.data.json": {
+      "checksum": "1a779eb404e11d5a91edc5f5d83335c6"
+    },
+    ".mypy_cache\\3.9\\asyncio\\subprocess.meta.json": {
+      "checksum": "16e32a0e407e9786c962756424150a2e"
+    },
+    ".mypy_cache\\3.9\\asyncio\\tasks.data.json": {
+      "checksum": "f239cd510f1b7797084a52e73eeb3dc3"
+    },
+    ".mypy_cache\\3.9\\asyncio\\tasks.meta.json": {
+      "checksum": "92e70bf23807d6846124d13ddd229116"
+    },
+    ".mypy_cache\\3.9\\asyncio\\threads.data.json": {
+      "checksum": "cad67e544a305ad712429af854397875"
+    },
+    ".mypy_cache\\3.9\\asyncio\\threads.meta.json": {
+      "checksum": "0a51f3cfa093fedb4f165a0ad2f372c1"
+    },
+    ".mypy_cache\\3.9\\asyncio\\transports.data.json": {
+      "checksum": "f48d4e7b30a8d0e72ff59868bd53496c"
+    },
+    ".mypy_cache\\3.9\\asyncio\\transports.meta.json": {
+      "checksum": "7947609294cea1b05043915a498d707f"
+    },
+    ".mypy_cache\\3.9\\asyncio\\unix_events.data.json": {
+      "checksum": "6c4fce63ebc424d7dd68eedd87d175e5"
+    },
+    ".mypy_cache\\3.9\\asyncio\\unix_events.meta.json": {
+      "checksum": "f0789968b19b76159ce19189cc53680c"
+    },
+    ".mypy_cache\\3.9\\asyncio\\windows_events.data.json": {
+      "checksum": "7af182ea16a33ce8b10107f84cf9b651"
+    },
+    ".mypy_cache\\3.9\\asyncio\\windows_events.meta.json": {
+      "checksum": "6ee60327a07b3cd4c88455d70ed57fa0"
+    },
+    ".mypy_cache\\3.9\\asyncio\\windows_utils.data.json": {
+      "checksum": "6f05fbda604e832b97e743356ad07e86"
+    },
+    ".mypy_cache\\3.9\\asyncio\\windows_utils.meta.json": {
+      "checksum": "670ebd1b99dbdc8954a72492112dd456"
+    },
+    ".mypy_cache\\3.9\\base64.data.json": {
+      "checksum": "409a43a93cedfaf265fc06e00510fca5"
+    },
+    ".mypy_cache\\3.9\\base64.meta.json": {
+      "checksum": "2b089eb46167b7ed5f762720a0726af0"
+    },
+    ".mypy_cache\\3.9\\binascii.data.json": {
+      "checksum": "afb3f3e118ee5f959b2ca8c891687b36"
+    },
+    ".mypy_cache\\3.9\\binascii.meta.json": {
+      "checksum": "abf0047bfde15a1daf3ca8546043ff74"
+    },
+    ".mypy_cache\\3.9\\bisect.data.json": {
+      "checksum": "dbe6697a711a306f5f57c9f42747a371"
+    },
+    ".mypy_cache\\3.9\\bisect.meta.json": {
+      "checksum": "b5b056ae747fbc2a7ed32ba21be31da9"
+    },
+    ".mypy_cache\\3.9\\builtins.data.json": {
+      "checksum": "92a512e7f66928d33400235466620806"
+    },
+    ".mypy_cache\\3.9\\builtins.meta.json": {
+      "checksum": "bf45b8d90f6144eb3c6a2d0e1df6ea2c"
+    },
+    ".mypy_cache\\3.9\\click\\__init__.data.json": {
+      "checksum": "20ce55d308097e34e07a27d9e1a6d000"
+    },
+    ".mypy_cache\\3.9\\click\\__init__.meta.json": {
+      "checksum": "f05a11cefeb1006c3c5c93eb3d4ccf32"
+    },
+    ".mypy_cache\\3.9\\click\\_compat.data.json": {
+      "checksum": "458ea8f9f10e6fa5cd6bd0eaf56b6dc1"
+    },
+    ".mypy_cache\\3.9\\click\\_compat.meta.json": {
+      "checksum": "3b8d546472451fab0547e43eef7a9e7a"
+    },
+    ".mypy_cache\\3.9\\click\\_termui_impl.data.json": {
+      "checksum": "265b98612ad46ad2f195bf7a09f6f837"
+    },
+    ".mypy_cache\\3.9\\click\\_termui_impl.meta.json": {
+      "checksum": "4312feaeb5641bdce2e1dd59a99e9598"
+    },
+    ".mypy_cache\\3.9\\click\\_textwrap.data.json": {
+      "checksum": "4a3217214597728b3607babbb2408a54"
+    },
+    ".mypy_cache\\3.9\\click\\_textwrap.meta.json": {
+      "checksum": "e66b5b8f96c841938229e021029faf84"
+    },
+    ".mypy_cache\\3.9\\click\\_unicodefun.data.json": {
+      "checksum": "b674571e1070bee5abebc6fb12192305"
+    },
+    ".mypy_cache\\3.9\\click\\_unicodefun.meta.json": {
+      "checksum": "f1385088b603b35af5aa84d7ad7756c5"
+    },
+    ".mypy_cache\\3.9\\click\\_winconsole.data.json": {
+      "checksum": "95d0cb57ef8783c002d4d26141e71c31"
+    },
+    ".mypy_cache\\3.9\\click\\_winconsole.meta.json": {
+      "checksum": "b235b75f9d9fb5bb532d80838c447105"
+    },
+    ".mypy_cache\\3.9\\click\\core.data.json": {
+      "checksum": "0de1acc493ac67ceaf273e6b14c8b520"
+    },
+    ".mypy_cache\\3.9\\click\\core.meta.json": {
+      "checksum": "8ca859033ed418254fcc682d9b9526b3"
+    },
+    ".mypy_cache\\3.9\\click\\decorators.data.json": {
+      "checksum": "f591a391b46e8fe2073b8d7b652be57e"
+    },
+    ".mypy_cache\\3.9\\click\\decorators.meta.json": {
+      "checksum": "0d9b62b85aabcfeab9f5edd36f79f875"
+    },
+    ".mypy_cache\\3.9\\click\\exceptions.data.json": {
+      "checksum": "b4ca6731d3b1be6e4cb93e446e2c87e6"
+    },
+    ".mypy_cache\\3.9\\click\\exceptions.meta.json": {
+      "checksum": "81422974fcd2d94f6eaba0689771d1f6"
+    },
+    ".mypy_cache\\3.9\\click\\formatting.data.json": {
+      "checksum": "9c779453ffa9d1c69436b06516f839d5"
+    },
+    ".mypy_cache\\3.9\\click\\formatting.meta.json": {
+      "checksum": "bd8202b7a9dcb3507f56088ee13b5e7a"
+    },
+    ".mypy_cache\\3.9\\click\\globals.data.json": {
+      "checksum": "585a84df5b5ec956d142471ae1573b9e"
+    },
+    ".mypy_cache\\3.9\\click\\globals.meta.json": {
+      "checksum": "4e065fb62f3071f9fcb6687ef9132304"
+    },
+    ".mypy_cache\\3.9\\click\\parser.data.json": {
+      "checksum": "33e2403ddc3cc74337132e52e9d2de65"
+    },
+    ".mypy_cache\\3.9\\click\\parser.meta.json": {
+      "checksum": "8772489e672de0de0e4331cc782eba22"
+    },
+    ".mypy_cache\\3.9\\click\\shell_completion.data.json": {
+      "checksum": "6117f085ed0ac2987195797f1122c0d2"
+    },
+    ".mypy_cache\\3.9\\click\\shell_completion.meta.json": {
+      "checksum": "dfcd88edd1bd766573e5087c5c7c4c85"
+    },
+    ".mypy_cache\\3.9\\click\\termui.data.json": {
+      "checksum": "22f4cdd4cac36ce5d043b7876e4f3a02"
+    },
+    ".mypy_cache\\3.9\\click\\termui.meta.json": {
+      "checksum": "50d61a89fb5276e6e4975d32675c83c3"
+    },
+    ".mypy_cache\\3.9\\click\\types.data.json": {
+      "checksum": "e818e3f98889fbeb898fc1985ffd527f"
+    },
+    ".mypy_cache\\3.9\\click\\types.meta.json": {
+      "checksum": "495e6ae15fbc4106a07a0f04b6ab4733"
+    },
+    ".mypy_cache\\3.9\\click\\utils.data.json": {
+      "checksum": "3500a0580fe896154145a506c5a90b3b"
+    },
+    ".mypy_cache\\3.9\\click\\utils.meta.json": {
+      "checksum": "2fcfcfb293e3dc0c821d4db55c8141da"
+    },
+    ".mypy_cache\\3.9\\codecs.data.json": {
+      "checksum": "1dbf28c8775c4dcbaec634c59e303d04"
+    },
+    ".mypy_cache\\3.9\\codecs.meta.json": {
+      "checksum": "af0e22694a95d8b7a853c26c4eea5b5c"
+    },
+    ".mypy_cache\\3.9\\collections\\__init__.data.json": {
+      "checksum": "3307293bcc9cd8743ca304cf89bc2070"
+    },
+    ".mypy_cache\\3.9\\collections\\__init__.meta.json": {
+      "checksum": "7b831a74a2f525e2b65bdeaac5140915"
+    },
+    ".mypy_cache\\3.9\\collections\\abc.data.json": {
+      "checksum": "f409f30c94876870265f8a0196c19a17"
+    },
+    ".mypy_cache\\3.9\\collections\\abc.meta.json": {
+      "checksum": "c743f8391852b6312a9b3ba68c464cfc"
+    },
+    ".mypy_cache\\3.9\\concurrent\\__init__.data.json": {
+      "checksum": "7233fba31ca2c46f0d2fea9ff1997254"
+    },
+    ".mypy_cache\\3.9\\concurrent\\__init__.meta.json": {
+      "checksum": "21a009afe918a0eef394df54489165f5"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\__init__.data.json": {
+      "checksum": "156e738638a063c7b7524205ef0c263c"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\__init__.meta.json": {
+      "checksum": "9e1cda8d6f3594a2f34975b1907526cc"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\_base.data.json": {
+      "checksum": "1503541e84e3214407cfcfd00b37fcdd"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\_base.meta.json": {
+      "checksum": "2adc58bab00257403d4b2e5c82c66829"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\process.data.json": {
+      "checksum": "3b1e9bafabadab9fe49714d933b331b8"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\process.meta.json": {
+      "checksum": "ddf357a2f6b3fa0626060f75488d23ab"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\thread.data.json": {
+      "checksum": "d2b67fe6ed1749be34f1e64b9792b722"
+    },
+    ".mypy_cache\\3.9\\concurrent\\futures\\thread.meta.json": {
+      "checksum": "2c74c3e86d53a5a8f36505467d13237a"
+    },
+    ".mypy_cache\\3.9\\configparser.data.json": {
+      "checksum": "7a6efc782bf0a67b85fe83c2b057a616"
+    },
+    ".mypy_cache\\3.9\\configparser.meta.json": {
+      "checksum": "67841b867c6fd3b5c2a9c7c03439efad"
+    },
+    ".mypy_cache\\3.9\\contextlib.data.json": {
+      "checksum": "8b5eb03cc4ca79bf12b6b328e6afa906"
+    },
+    ".mypy_cache\\3.9\\contextlib.meta.json": {
+      "checksum": "e3e294b74d5e8eb451d6f088035cc781"
+    },
+    ".mypy_cache\\3.9\\contextvars.data.json": {
+      "checksum": "b2f61791c7fd63329a7ca09390c6a8e4"
+    },
+    ".mypy_cache\\3.9\\contextvars.meta.json": {
+      "checksum": "f9828a020c01e6a851df73c39b60deef"
+    },
+    ".mypy_cache\\3.9\\copy.data.json": {
+      "checksum": "f3a7a4dbc1419ec1c76127f3ac573c6d"
+    },
+    ".mypy_cache\\3.9\\copy.meta.json": {
+      "checksum": "937ea6d6df742fd048a919d8782e2ba1"
+    },
+    ".mypy_cache\\3.9\\copyreg.data.json": {
+      "checksum": "8e9d3560523e3afa246d49c5cfcd8cb9"
+    },
+    ".mypy_cache\\3.9\\copyreg.meta.json": {
+      "checksum": "1513372b317cca64ca22f5bc9f8afd6a"
+    },
+    ".mypy_cache\\3.9\\csv.data.json": {
+      "checksum": "0058a5168789a85c160a153f3db7aa37"
+    },
+    ".mypy_cache\\3.9\\csv.meta.json": {
+      "checksum": "cfb7ff3457d8e023084ced8b9b1b2f6b"
+    },
+    ".mypy_cache\\3.9\\ctypes\\__init__.data.json": {
+      "checksum": "1a33544478e441d2a7a5081f17b2e1f9"
+    },
+    ".mypy_cache\\3.9\\ctypes\\__init__.meta.json": {
+      "checksum": "ae9a10c6bf3e337db87b9e141312ce3f"
+    },
+    ".mypy_cache\\3.9\\ctypes\\wintypes.data.json": {
+      "checksum": "3cec53eb2fdba18f094d0177bd9dcb0b"
+    },
+    ".mypy_cache\\3.9\\ctypes\\wintypes.meta.json": {
+      "checksum": "8211701b23a1f1a9b6fc51ceb755d757"
+    },
+    ".mypy_cache\\3.9\\dataclasses.data.json": {
+      "checksum": "4b150a438e1f17acdd1bb513067ff599"
+    },
+    ".mypy_cache\\3.9\\dataclasses.meta.json": {
+      "checksum": "de4e53b2824546401cb1204df5a17f9a"
+    },
+    ".mypy_cache\\3.9\\datetime.data.json": {
+      "checksum": "747ba77427e4252fd69efa95de02ee20"
+    },
+    ".mypy_cache\\3.9\\datetime.meta.json": {
+      "checksum": "c7a63d942443d30f5daa044900593ee4"
+    },
+    ".mypy_cache\\3.9\\decimal.data.json": {
+      "checksum": "6c108048acd1deb73d1a4a10270e1fb3"
+    },
+    ".mypy_cache\\3.9\\decimal.meta.json": {
+      "checksum": "4b65dafa0e7de56ee74e8c16e1af40fd"
+    },
+    ".mypy_cache\\3.9\\difflib.data.json": {
+      "checksum": "c32d2af21ad690366982c9bb3bd407e7"
+    },
+    ".mypy_cache\\3.9\\difflib.meta.json": {
+      "checksum": "6c43126c9c0318ef68438e7b11a6114c"
+    },
+    ".mypy_cache\\3.9\\dis.data.json": {
+      "checksum": "ae766f4f7fb6097febeaded005d6217e"
+    },
+    ".mypy_cache\\3.9\\dis.meta.json": {
+      "checksum": "93402046e8ac659c9fee5ae14c62b40a"
+    },
+    ".mypy_cache\\3.9\\dotenv\\__init__.data.json": {
+      "checksum": "9382e3f0d67fb2c0c434e49adb8c48b6"
+    },
+    ".mypy_cache\\3.9\\dotenv\\__init__.meta.json": {
+      "checksum": "6635c36162eb825b4e0cca34289b7ff4"
+    },
+    ".mypy_cache\\3.9\\dotenv\\ipython.data.json": {
+      "checksum": "083511c3484336d99aec8f42667da837"
+    },
+    ".mypy_cache\\3.9\\dotenv\\ipython.meta.json": {
+      "checksum": "86d64ef1454e7fb2e14c9596c3887b25"
+    },
+    ".mypy_cache\\3.9\\dotenv\\main.data.json": {
+      "checksum": "57b278fb45a3961c1530cd98e8bbc648"
+    },
+    ".mypy_cache\\3.9\\dotenv\\main.meta.json": {
+      "checksum": "2d53d49d884a50503bb5d5cebe7f8e4e"
+    },
+    ".mypy_cache\\3.9\\dotenv\\parser.data.json": {
+      "checksum": "7adb9d1ab7a59dd7e98f5499715d0eb8"
+    },
+    ".mypy_cache\\3.9\\dotenv\\parser.meta.json": {
+      "checksum": "08632a0acc5cc8137813bb09a61abb01"
+    },
+    ".mypy_cache\\3.9\\dotenv\\variables.data.json": {
+      "checksum": "fea64923f4d8376ece202293d3217c19"
+    },
+    ".mypy_cache\\3.9\\dotenv\\variables.meta.json": {
+      "checksum": "ec01e5a01ee84cca76f20044d29521aa"
+    },
+    ".mypy_cache\\3.9\\email\\__init__.data.json": {
+      "checksum": "2e70cf991dd306b760fe76e34fea7169"
+    },
+    ".mypy_cache\\3.9\\email\\__init__.meta.json": {
+      "checksum": "70820f4dcf55855de60cbd4e6bcd3cb0"
+    },
+    ".mypy_cache\\3.9\\email\\charset.data.json": {
+      "checksum": "40cc8bfb203fc47feb4ea663088bd828"
+    },
+    ".mypy_cache\\3.9\\email\\charset.meta.json": {
+      "checksum": "07682d52580bda996f694c76aab2bf1f"
+    },
+    ".mypy_cache\\3.9\\email\\contentmanager.data.json": {
+      "checksum": "fffd4e2f23f08778ccbdac2c2cef153f"
+    },
+    ".mypy_cache\\3.9\\email\\contentmanager.meta.json": {
+      "checksum": "e46bcf3dc5b73d32ab1c918d726319ce"
+    },
+    ".mypy_cache\\3.9\\email\\errors.data.json": {
+      "checksum": "cd447c1007e5e939fcb31eb5c4893ccb"
+    },
+    ".mypy_cache\\3.9\\email\\errors.meta.json": {
+      "checksum": "81f1fdfc7f97567cc190cfe9adae859c"
+    },
+    ".mypy_cache\\3.9\\email\\header.data.json": {
+      "checksum": "24f884711aaccd5e08bede855c19f4b8"
+    },
+    ".mypy_cache\\3.9\\email\\header.meta.json": {
+      "checksum": "6067fe29352435d5e542b15af6454787"
+    },
+    ".mypy_cache\\3.9\\email\\message.data.json": {
+      "checksum": "b0cf10c5e428f770d949741765ffbd6a"
+    },
+    ".mypy_cache\\3.9\\email\\message.meta.json": {
+      "checksum": "fe384efaa99baefd18ded689e90dc746"
+    },
+    ".mypy_cache\\3.9\\email\\policy.data.json": {
+      "checksum": "71c35bec6281bbe164d64902ffc1e4e2"
+    },
+    ".mypy_cache\\3.9\\email\\policy.meta.json": {
+      "checksum": "9ce163edde42f40ca54785fa4874a27b"
+    },
+    ".mypy_cache\\3.9\\email\\utils.data.json": {
+      "checksum": "4419afc430cb02ba0998c14d78aeb844"
+    },
+    ".mypy_cache\\3.9\\email\\utils.meta.json": {
+      "checksum": "cab49541d50c3a63ea4d71e2fea9ac20"
+    },
+    ".mypy_cache\\3.9\\enum.data.json": {
+      "checksum": "e6d77999bdd7eb2c59a1c39a55a4f697"
+    },
+    ".mypy_cache\\3.9\\enum.meta.json": {
+      "checksum": "bcef24ae06de3d882276b8f8aff4f0d7"
+    },
+    ".mypy_cache\\3.9\\errno.data.json": {
+      "checksum": "9b0c9d51ec4b5c854a5cba7fa4f4b3cd"
+    },
+    ".mypy_cache\\3.9\\errno.meta.json": {
+      "checksum": "20518d2cd8f299aa0924b6a2676fdef3"
+    },
+    ".mypy_cache\\3.9\\fractions.data.json": {
+      "checksum": "2f859f8118e85883aef219b0dd731eb6"
+    },
+    ".mypy_cache\\3.9\\fractions.meta.json": {
+      "checksum": "bce60675e73750535f867de92d779b2e"
+    },
+    ".mypy_cache\\3.9\\functools.data.json": {
+      "checksum": "dc93369a00502ea6bf0d195f3205cd75"
+    },
+    ".mypy_cache\\3.9\\functools.meta.json": {
+      "checksum": "c56de84c2940dd36c05018adf79feb4b"
+    },
+    ".mypy_cache\\3.9\\genericpath.data.json": {
+      "checksum": "95b086d1daeee1119052075d4e83d3b9"
+    },
+    ".mypy_cache\\3.9\\genericpath.meta.json": {
+      "checksum": "4ba4a6e74368c527e4e871b007895f27"
+    },
+    ".mypy_cache\\3.9\\getpass.data.json": {
+      "checksum": "cc4966aaffe677f9d731cc7f38d698f4"
+    },
+    ".mypy_cache\\3.9\\getpass.meta.json": {
+      "checksum": "87b1e587cc7168213ffaa6fc154780e7"
+    },
+    ".mypy_cache\\3.9\\gettext.data.json": {
+      "checksum": "982b7743388f687fc1ab88480ebccfb1"
+    },
+    ".mypy_cache\\3.9\\gettext.meta.json": {
+      "checksum": "16c7972783426885a4b0412a3c627b53"
+    },
+    ".mypy_cache\\3.9\\glob.data.json": {
+      "checksum": "e6876ba74ad9cd4051db8c303d0a9e41"
+    },
+    ".mypy_cache\\3.9\\glob.meta.json": {
+      "checksum": "e39aee5e2d25750f80d1e6af56c70708"
+    },
+    ".mypy_cache\\3.9\\h11\\__init__.data.json": {
+      "checksum": "9ca43d1bd045fa4ebeb0f9709c7f05da"
+    },
+    ".mypy_cache\\3.9\\h11\\__init__.meta.json": {
+      "checksum": "5fe4859ac57153e3de90e33ee9292ae8"
+    },
+    ".mypy_cache\\3.9\\h11\\_abnf.data.json": {
+      "checksum": "52ad76283d3b1d2127c954b75bae905e"
+    },
+    ".mypy_cache\\3.9\\h11\\_abnf.meta.json": {
+      "checksum": "548afcf1aabe41f031e9e15fe9237e4c"
+    },
+    ".mypy_cache\\3.9\\h11\\_connection.data.json": {
+      "checksum": "f1faffe3c0e250e2a1da9fdf478c53e9"
+    },
+    ".mypy_cache\\3.9\\h11\\_connection.meta.json": {
+      "checksum": "b0e410b810673cad11c36e3af5bd1b0e"
+    },
+    ".mypy_cache\\3.9\\h11\\_events.data.json": {
+      "checksum": "01592bcd7a960e3663959996825b5723"
+    },
+    ".mypy_cache\\3.9\\h11\\_events.meta.json": {
+      "checksum": "72fecb93833e416f3ec3750bac786be2"
+    },
+    ".mypy_cache\\3.9\\h11\\_headers.data.json": {
+      "checksum": "5d253dacc2dc6f9cb686210675306abf"
+    },
+    ".mypy_cache\\3.9\\h11\\_headers.meta.json": {
+      "checksum": "e2b54c48eb40681ffa11ab84d97a4ed5"
+    },
+    ".mypy_cache\\3.9\\h11\\_readers.data.json": {
+      "checksum": "20954b247e5236e30ff4a1f8916cb2f5"
+    },
+    ".mypy_cache\\3.9\\h11\\_readers.meta.json": {
+      "checksum": "638af98dd06e3ae85c9756321e0eb9ec"
+    },
+    ".mypy_cache\\3.9\\h11\\_receivebuffer.data.json": {
+      "checksum": "4015965200b46a7d8d64682ee63b1171"
+    },
+    ".mypy_cache\\3.9\\h11\\_receivebuffer.meta.json": {
+      "checksum": "ca27345493035e345ab7245e06abba38"
+    },
+    ".mypy_cache\\3.9\\h11\\_state.data.json": {
+      "checksum": "dea7f32f5ad347aedf9a4d843624b323"
+    },
+    ".mypy_cache\\3.9\\h11\\_state.meta.json": {
+      "checksum": "1ef1af3b524cc559cbd79c3b87fb34f2"
+    },
+    ".mypy_cache\\3.9\\h11\\_util.data.json": {
+      "checksum": "88e9f796b84c9f93df3ac23374fe06da"
+    },
+    ".mypy_cache\\3.9\\h11\\_util.meta.json": {
+      "checksum": "16bbd331b42730e2b3f6e8c1e4a11469"
+    },
+    ".mypy_cache\\3.9\\h11\\_version.data.json": {
+      "checksum": "6220e9e7a449cd82f7b630467adf0531"
+    },
+    ".mypy_cache\\3.9\\h11\\_version.meta.json": {
+      "checksum": "bada619e6863be2bda38f5d90cf98d30"
+    },
+    ".mypy_cache\\3.9\\h11\\_writers.data.json": {
+      "checksum": "12325dd5a918e8c7f63ef3f35724f2d5"
+    },
+    ".mypy_cache\\3.9\\h11\\_writers.meta.json": {
+      "checksum": "3fe5a1caae49d135fa7e998c335d83e6"
+    },
+    ".mypy_cache\\3.9\\hashlib.data.json": {
+      "checksum": "bb434ae9c64ffa968eeb84fa6628e47f"
+    },
+    ".mypy_cache\\3.9\\hashlib.meta.json": {
+      "checksum": "1b74ebcc9737601d11a818e11b561c0b"
+    },
+    ".mypy_cache\\3.9\\hmac.data.json": {
+      "checksum": "fa0464f9480407b7a37266bd560dc779"
+    },
+    ".mypy_cache\\3.9\\hmac.meta.json": {
+      "checksum": "22eadf10eaba77d21f91b30b3f814bac"
+    },
+    ".mypy_cache\\3.9\\html\\__init__.data.json": {
+      "checksum": "56bd18681c00d2c51d76e7c9217275a0"
+    },
+    ".mypy_cache\\3.9\\html\\__init__.meta.json": {
+      "checksum": "ae4c8e422a4ec26272561a1214f32d65"
+    },
+    ".mypy_cache\\3.9\\html\\entities.data.json": {
+      "checksum": "fc7f4b9be8b9a82fefe225b146079992"
+    },
+    ".mypy_cache\\3.9\\html\\entities.meta.json": {
+      "checksum": "3293d723e32b944feeb47fbf109934ed"
+    },
+    ".mypy_cache\\3.9\\htmltools\\__init__.data.json": {
+      "checksum": "149d984ef9742028128472b4419c83d5"
+    },
+    ".mypy_cache\\3.9\\htmltools\\__init__.meta.json": {
+      "checksum": "8ec0e5513edbb242f66216c361eda565"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_core.data.json": {
+      "checksum": "d4a0d9880b9b554422d79f8f9d734a2f"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_core.meta.json": {
+      "checksum": "dc81006e093d364bbaba3c0abc473ea0"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_jsx.data.json": {
+      "checksum": "92128ed1c0c31ba349f1877586ca2c6e"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_jsx.meta.json": {
+      "checksum": "296db3b71f612fb4f1777bac396cb6ab"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_util.data.json": {
+      "checksum": "53c599a002f1494d784b39159d26a7b1"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_util.meta.json": {
+      "checksum": "e494169a52e9285994b073fb4fbb5ac3"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_versions.data.json": {
+      "checksum": "8ab6ce8e700ea31372b6be1ce1e3cc6b"
+    },
+    ".mypy_cache\\3.9\\htmltools\\_versions.meta.json": {
+      "checksum": "fe3c13acc7a62cffd06645e7c4d06448"
+    },
+    ".mypy_cache\\3.9\\htmltools\\svg.data.json": {
+      "checksum": "a815727d4f0e44a3d4b3aacad135d556"
+    },
+    ".mypy_cache\\3.9\\htmltools\\svg.meta.json": {
+      "checksum": "61600583e530b51f0ade8281a7694bcd"
+    },
+    ".mypy_cache\\3.9\\htmltools\\tags.data.json": {
+      "checksum": "235738434c28d05fec2ac5dbc347e0d7"
+    },
+    ".mypy_cache\\3.9\\htmltools\\tags.meta.json": {
+      "checksum": "c9743b274e478b8b7191a0580727ac2d"
+    },
+    ".mypy_cache\\3.9\\http\\__init__.data.json": {
+      "checksum": "02185a8cd5436e9727f7de7bbfae84c3"
+    },
+    ".mypy_cache\\3.9\\http\\__init__.meta.json": {
+      "checksum": "9a020f4628526263bcdcb2c543d88c71"
+    },
+    ".mypy_cache\\3.9\\http\\cookies.data.json": {
+      "checksum": "5569172362109fdeb49efc6e9b939d34"
+    },
+    ".mypy_cache\\3.9\\http\\cookies.meta.json": {
+      "checksum": "049b8d9c5acbc6a73572cbc1f42f9c6b"
+    },
+    ".mypy_cache\\3.9\\http\\server.data.json": {
+      "checksum": "3775e52a852126008086dae55d5c867a"
+    },
+    ".mypy_cache\\3.9\\http\\server.meta.json": {
+      "checksum": "23ada372ea80a586bf46a75c42f719e6"
+    },
+    ".mypy_cache\\3.9\\idna\\__init__.data.json": {
+      "checksum": "4c72e1dd15eafe8f8eaec8f6ca1dfd7b"
+    },
+    ".mypy_cache\\3.9\\idna\\__init__.meta.json": {
+      "checksum": "c6ac3c7c8c457b02012ba90b61302626"
+    },
+    ".mypy_cache\\3.9\\idna\\core.data.json": {
+      "checksum": "2fd1eeaeda0e8e71d0f2c7b8ee0d3ca0"
+    },
+    ".mypy_cache\\3.9\\idna\\core.meta.json": {
+      "checksum": "9b837053098aab4c34ab6486b183095d"
+    },
+    ".mypy_cache\\3.9\\idna\\idnadata.data.json": {
+      "checksum": "d4ec52432315a1fe1b0f7a46f83155a7"
+    },
+    ".mypy_cache\\3.9\\idna\\idnadata.meta.json": {
+      "checksum": "e4e922318e571749ea0de3772b532b2b"
+    },
+    ".mypy_cache\\3.9\\idna\\intranges.data.json": {
+      "checksum": "96fb6d3dfd2c5925ee69b98d4cbaabb3"
+    },
+    ".mypy_cache\\3.9\\idna\\intranges.meta.json": {
+      "checksum": "63ba0a9939e2e716e7a071b7506dba92"
+    },
+    ".mypy_cache\\3.9\\idna\\package_data.data.json": {
+      "checksum": "289daf208ebb3027161f8be1dec114a9"
+    },
+    ".mypy_cache\\3.9\\idna\\package_data.meta.json": {
+      "checksum": "729f53ec614bec784f45dc04aa7494b3"
+    },
+    ".mypy_cache\\3.9\\idna\\uts46data.data.json": {
+      "checksum": "6bca252fd24c43127355bb735e498f39"
+    },
+    ".mypy_cache\\3.9\\idna\\uts46data.meta.json": {
+      "checksum": "2f5367e3a7b5cc8ac22a562361355a6e"
+    },
+    ".mypy_cache\\3.9\\importlib\\__init__.data.json": {
+      "checksum": "38bea795a4624f98d9b9e576f6468178"
+    },
+    ".mypy_cache\\3.9\\importlib\\__init__.meta.json": {
+      "checksum": "3070b0cdca712bae965bd1adafc21ada"
+    },
+    ".mypy_cache\\3.9\\importlib\\abc.data.json": {
+      "checksum": "6487aaf6ec63f5db572a7769da4ee0a6"
+    },
+    ".mypy_cache\\3.9\\importlib\\abc.meta.json": {
+      "checksum": "c0ab0516537a4eb940eb4fc40f21edd8"
+    },
+    ".mypy_cache\\3.9\\importlib\\machinery.data.json": {
+      "checksum": "9b46212967b615017cea8c456ff9d3fc"
+    },
+    ".mypy_cache\\3.9\\importlib\\machinery.meta.json": {
+      "checksum": "03dcf3660665a960f2572b7a2011678c"
+    },
+    ".mypy_cache\\3.9\\importlib\\metadata\\__init__.data.json": {
+      "checksum": "c65a7b0f6e9ec54dce54e1c55b760b00"
+    },
+    ".mypy_cache\\3.9\\importlib\\metadata\\__init__.meta.json": {
+      "checksum": "d70631cab178f753766fe6a5ce4d6dcf"
+    },
+    ".mypy_cache\\3.9\\importlib\\util.data.json": {
+      "checksum": "ee78d629ff6d33c34c7a78237dc23e10"
+    },
+    ".mypy_cache\\3.9\\importlib\\util.meta.json": {
+      "checksum": "b2a1a209d583b371105c8f92db6645c8"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\__init__.data.json": {
+      "checksum": "f3ac1a8721567695197b8ab6e348fab9"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\__init__.meta.json": {
+      "checksum": "53b023cc3bc1de2f7045113d9b2909ed"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_adapters.data.json": {
+      "checksum": "fc4daf5b3a851b1bb1d99c8c0feb4384"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_adapters.meta.json": {
+      "checksum": "24a81a822dfc950b80fd94e6d293a8ef"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_collections.data.json": {
+      "checksum": "b3762b5c72df0fa5fd450da042ca2d8a"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_collections.meta.json": {
+      "checksum": "c57c732e330deffbee6f37c5c2e828c7"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_compat.data.json": {
+      "checksum": "67e23872b388a1524d1e7313080974f1"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_compat.meta.json": {
+      "checksum": "38d78005c79476f226b2cc12f3c2818d"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_functools.data.json": {
+      "checksum": "72d1307ea9f31bde293a95dc2c9f875c"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_functools.meta.json": {
+      "checksum": "cfe00bce564924b58b49bb7bb5090a27"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_itertools.data.json": {
+      "checksum": "040234b9784fc85cd5713706b65cb91d"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_itertools.meta.json": {
+      "checksum": "562a42f4eb00398fa020d6a1eec64f82"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_meta.data.json": {
+      "checksum": "4b8175b9809a1e826f4b97b2ebfce770"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_meta.meta.json": {
+      "checksum": "d465b5ff384de1850ac2a00e1230cf69"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_text.data.json": {
+      "checksum": "b8900269247b06b87a1d5098ba87fa00"
+    },
+    ".mypy_cache\\3.9\\importlib_metadata\\_text.meta.json": {
+      "checksum": "e3395ec197dfd10b435ef2a2a01ffe74"
+    },
+    ".mypy_cache\\3.9\\inspect.data.json": {
+      "checksum": "0d324d8fc9a9969bd224e2a8cdb70c3b"
+    },
+    ".mypy_cache\\3.9\\inspect.meta.json": {
+      "checksum": "c0008f570e54d73fecd0d6601ff2f1ab"
+    },
+    ".mypy_cache\\3.9\\io.data.json": {
+      "checksum": "9c6c83c69bd192462addf0e4cfaffc50"
+    },
+    ".mypy_cache\\3.9\\io.meta.json": {
+      "checksum": "7c873130d574f9a813d65b221b8a866e"
+    },
+    ".mypy_cache\\3.9\\ipaddress.data.json": {
+      "checksum": "3a6c0b214121deb74595903ab56e7fdb"
+    },
+    ".mypy_cache\\3.9\\ipaddress.meta.json": {
+      "checksum": "e43c61507ee44879ef1c33de55863d7f"
+    },
+    ".mypy_cache\\3.9\\itertools.data.json": {
+      "checksum": "89440a1469bf5c98a670c452db954bb3"
+    },
+    ".mypy_cache\\3.9\\itertools.meta.json": {
+      "checksum": "81be294a9c94d74dac57f55af83453f6"
+    },
+    ".mypy_cache\\3.9\\json\\__init__.data.json": {
+      "checksum": "bd235b7ef8abb162a33f96cedbd43d96"
+    },
+    ".mypy_cache\\3.9\\json\\__init__.meta.json": {
+      "checksum": "e829c963fc0123f8aaacff070fcd7454"
+    },
+    ".mypy_cache\\3.9\\json\\decoder.data.json": {
+      "checksum": "93ec488ca4fc50ca6b5bd07acc81d612"
+    },
+    ".mypy_cache\\3.9\\json\\decoder.meta.json": {
+      "checksum": "78b93deb8e71e31a69fa9bd0e08226c0"
+    },
+    ".mypy_cache\\3.9\\json\\encoder.data.json": {
+      "checksum": "22b3fc37b6891dda6eae73e130b9d23f"
+    },
+    ".mypy_cache\\3.9\\json\\encoder.meta.json": {
+      "checksum": "9146d91e221ac2d136d1b56990728011"
+    },
+    ".mypy_cache\\3.9\\locale.data.json": {
+      "checksum": "f796a85bc07383a967924212af944295"
+    },
+    ".mypy_cache\\3.9\\locale.meta.json": {
+      "checksum": "20e7caa9287915071720476fa9fdf767"
+    },
+    ".mypy_cache\\3.9\\logging\\__init__.data.json": {
+      "checksum": "8b3eae4ba8eb73fee01f9a8765e581c1"
+    },
+    ".mypy_cache\\3.9\\logging\\__init__.meta.json": {
+      "checksum": "52f5f440099e9689dc0c9e4ed0b3fcb5"
+    },
+    ".mypy_cache\\3.9\\logging\\config.data.json": {
+      "checksum": "670741132ab9bf21df6cdb917e182f41"
+    },
+    ".mypy_cache\\3.9\\logging\\config.meta.json": {
+      "checksum": "1925e4ab52afb648255874fb24193462"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\__init__.data.json": {
+      "checksum": "7be473ac22bc5e18dfae00442d058da8"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\__init__.meta.json": {
+      "checksum": "af616b0bfa56bc3b43c2d1f5673951c3"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\_compat.data.json": {
+      "checksum": "6597244033f913687f0c8fb93762afcd"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\_compat.meta.json": {
+      "checksum": "34f9d615fe0be4e3c5ad5d93a981ab0a"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\_punycode.data.json": {
+      "checksum": "586757cf2c60d667239030cee7d4b440"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\_punycode.meta.json": {
+      "checksum": "03fffa6179d4800288725a4c76bf5bc9"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\__init__.data.json": {
+      "checksum": "1b237d6a924b5e01ec9c005862f08fc0"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\__init__.meta.json": {
+      "checksum": "bf43a4fa620d5f4bd83660458fbcd00c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\entities.data.json": {
+      "checksum": "fce7caafdc44eeff41de6e854234f53a"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\entities.meta.json": {
+      "checksum": "ae9dcb9de558050f6a6ae6181a394a84"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\html_blocks.data.json": {
+      "checksum": "501d8e3b9664bc85fb66e25b1054ac87"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\html_blocks.meta.json": {
+      "checksum": "c7f99578f4d8a7eb7de27c97b001f4bd"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\html_re.data.json": {
+      "checksum": "66cea461ecbc6a60a846b2b333dcb1db"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\html_re.meta.json": {
+      "checksum": "adba4d9a6e6e65d1d555e0db83209b74"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\normalize_url.data.json": {
+      "checksum": "02985253b560373820fde7d17a6f58bd"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\normalize_url.meta.json": {
+      "checksum": "48cae8b68c06bd41e9debf3180d363cd"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\utils.data.json": {
+      "checksum": "48d75925d6eaac101c72baab058e83a7"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\common\\utils.meta.json": {
+      "checksum": "73472a4d7dbba0acf6aadf60b759efee"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\__init__.data.json": {
+      "checksum": "8cd042f8c3befb4c99830c4981962d98"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\__init__.meta.json": {
+      "checksum": "4187141506081027ba18ed733c3d5902"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\parse_link_destination.data.json": {
+      "checksum": "65f94bd9fec7b544fda0940cc5840b38"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\parse_link_destination.meta.json": {
+      "checksum": "ef94e494ca06d8fb1c8e85f6cd4dda47"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\parse_link_label.data.json": {
+      "checksum": "1c88308868fcc6bfa5996451815a4dcb"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\parse_link_label.meta.json": {
+      "checksum": "14178fd415f1e6f7b3ea435b284f93a4"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\parse_link_title.data.json": {
+      "checksum": "3f9c60ba54935057e2e47b7ef0aaff5a"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\helpers\\parse_link_title.meta.json": {
+      "checksum": "9c5f5764e8361b1f0b60e020647189e3"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\main.data.json": {
+      "checksum": "0409edd4256c60d405e5da7da156cd87"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\main.meta.json": {
+      "checksum": "a39712ae97fb6f95b9e712e1dfca9655"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\parser_block.data.json": {
+      "checksum": "5a992e44982a8ad2964a5a4618e11824"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\parser_block.meta.json": {
+      "checksum": "2822e2b735755231a6072d5547a5cc92"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\parser_core.data.json": {
+      "checksum": "526d4d0da0b9a5d52c1714c77d2fa5dd"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\parser_core.meta.json": {
+      "checksum": "33aa80019f79d5cde0aab5aa06bbd32f"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\parser_inline.data.json": {
+      "checksum": "7f42576b5fc4e386566bd3a16ab54df3"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\parser_inline.meta.json": {
+      "checksum": "cdded0dd01bb3acd454c08fff2ebea70"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\__init__.data.json": {
+      "checksum": "8fc6965e8276fc07d1b154616e9813c8"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\__init__.meta.json": {
+      "checksum": "7a315cf78d695d82abc5ed56cf321ec0"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\commonmark.data.json": {
+      "checksum": "801d22ec79f0803dcbad1c3dcc06b16c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\commonmark.meta.json": {
+      "checksum": "4897068dc621f9a2878e92020592c10f"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\default.data.json": {
+      "checksum": "9fd103b8485e357e4f75202b55d70abe"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\default.meta.json": {
+      "checksum": "05c6d084f52d3585539818e727c0faad"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\zero.data.json": {
+      "checksum": "225770cc58497a0b81da054c0ec75d96"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\presets\\zero.meta.json": {
+      "checksum": "454caa7e8d4ba3134f0008b34a55937c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\renderer.data.json": {
+      "checksum": "3b58ae8f04031ad110d54ca9e28c4f07"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\renderer.meta.json": {
+      "checksum": "eb9e45e06dac00a7a7044408bc6bd794"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\ruler.data.json": {
+      "checksum": "f5b37975a9179475322159456bb8ac2c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\ruler.meta.json": {
+      "checksum": "85936117d3bad2d1ce85cbdad87bdebf"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\__init__.data.json": {
+      "checksum": "4d9245bbc32160b338e615e9bfdf724c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\__init__.meta.json": {
+      "checksum": "4bc4cd099d71d7d11a87e82e148c239b"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\blockquote.data.json": {
+      "checksum": "fc5b29486b0d9574d53fc5c87af98753"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\blockquote.meta.json": {
+      "checksum": "641765b33d7e5b17044a9913209ac7d9"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\code.data.json": {
+      "checksum": "b2a44eade59abb4d1fe5b048aedc1d7e"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\code.meta.json": {
+      "checksum": "2c941405bd4c24b204b323d0158cf7f0"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\fence.data.json": {
+      "checksum": "08e6f5cd7ed5afc4ad7fdf5d2a2ba181"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\fence.meta.json": {
+      "checksum": "01400c7171c363e21466253fd4f40a86"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\heading.data.json": {
+      "checksum": "275a6f8a5aa5832be688a8d54d538f5c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\heading.meta.json": {
+      "checksum": "4e3b57c5b455d9b9dfd733ffeb58f727"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\hr.data.json": {
+      "checksum": "6ff41abb4638310404c896225d5fec6e"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\hr.meta.json": {
+      "checksum": "c6093d640f1c6f3d7496a0726085e430"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\html_block.data.json": {
+      "checksum": "32a40957ca5815fc0d391148618d718d"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\html_block.meta.json": {
+      "checksum": "6ad80aaa57b5f5f87dff20b8b0d7d650"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\lheading.data.json": {
+      "checksum": "079eb5380914d34dea8f3c70164d7c92"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\lheading.meta.json": {
+      "checksum": "9a9017b044e6517c1b8946863f2c8a45"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\list.data.json": {
+      "checksum": "c8b358952798e1d8522f4b579a245242"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\list.meta.json": {
+      "checksum": "414db8bfd12d6889a02385470cee7d50"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\paragraph.data.json": {
+      "checksum": "c48f7773085c0d51b3c6ccad9e3f6fb1"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\paragraph.meta.json": {
+      "checksum": "ad5dd5f6b1077a10cf8ab5e303463e87"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\reference.data.json": {
+      "checksum": "e63eadb0d18d5bfe8c9bb25616d78888"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\reference.meta.json": {
+      "checksum": "d04c755ea03ca3d6873fd5fec2d1b5f8"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\state_block.data.json": {
+      "checksum": "e468731238ff606bb8567b3fe1043f1a"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\state_block.meta.json": {
+      "checksum": "2ab45b6550d974b3e8242d5402ad5c2c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\table.data.json": {
+      "checksum": "808b031e8e1d3f9a9d08091d499386d9"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_block\\table.meta.json": {
+      "checksum": "d964e854d954223b70407245e270f9f1"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\__init__.data.json": {
+      "checksum": "07705382b7afbf91393f8b89dfc8ce57"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\__init__.meta.json": {
+      "checksum": "8ff6d8f9332f5b588ffce12bd399207e"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\block.data.json": {
+      "checksum": "a7cee2fd4caa896155e2d81ceb6f61af"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\block.meta.json": {
+      "checksum": "196f9955c41ac825575f469f86696fc0"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\inline.data.json": {
+      "checksum": "a419af1ccea4765ad5f4eefd1e63e88b"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\inline.meta.json": {
+      "checksum": "5155a6d0064a029d9fd850e5f3863b38"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\linkify.data.json": {
+      "checksum": "e7b57bc4144ca9bb38499ea642ae3015"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\linkify.meta.json": {
+      "checksum": "4e932dda632b36a45a44f5acbd4d17b7"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\normalize.data.json": {
+      "checksum": "5cb203c425bbc6a3a3a152d4d1f022f3"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\normalize.meta.json": {
+      "checksum": "f854d186dfb75c58205fd6accda2add7"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\replacements.data.json": {
+      "checksum": "fb90a8ed935239049a95363775c619a5"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\replacements.meta.json": {
+      "checksum": "83c1f78ae41125b87fe5e44583eb3b01"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\smartquotes.data.json": {
+      "checksum": "ddb7c6085e2928eac37b463c7a8676f6"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\smartquotes.meta.json": {
+      "checksum": "7a3870474b8f762abd0333feb6b27d27"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\state_core.data.json": {
+      "checksum": "eb9bbb459c87bc93749edcf6711550ad"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_core\\state_core.meta.json": {
+      "checksum": "649d9ae0687822d0057c1f98f3e32628"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\__init__.data.json": {
+      "checksum": "e450868b4625b33ae702bedde76beddc"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\__init__.meta.json": {
+      "checksum": "cf3f2de7d8b1676443cb3b5125a6eecc"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\autolink.data.json": {
+      "checksum": "ba3412d4e0bfb0a94b1b0cfdd456d136"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\autolink.meta.json": {
+      "checksum": "1f0720a8192cee5110490aa1aec39e9c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\backticks.data.json": {
+      "checksum": "07b22af33790179c96dc854e058047b7"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\backticks.meta.json": {
+      "checksum": "1fc7a0be66c537ba80a27a7cae20bf08"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\balance_pairs.data.json": {
+      "checksum": "32240b682af2cda3921338608c47487c"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\balance_pairs.meta.json": {
+      "checksum": "2424f3d21ed891fa001eb42da3eb04b9"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\emphasis.data.json": {
+      "checksum": "5192d0c80a980d89aeaff626198f6df9"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\emphasis.meta.json": {
+      "checksum": "66bb9424d5b6a73038271e6d662a6843"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\entity.data.json": {
+      "checksum": "6a57c55f8ee5df35bf3a1033ef287f81"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\entity.meta.json": {
+      "checksum": "a36667bc69a0873322dbafd2947f1821"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\escape.data.json": {
+      "checksum": "1dae09eede30d4687804c57d68f13e0b"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\escape.meta.json": {
+      "checksum": "7225f5c305a63795af7bbd8b6a02535a"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\html_inline.data.json": {
+      "checksum": "51cb177ee6926ee51d46f5bf833021b7"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\html_inline.meta.json": {
+      "checksum": "3fa8d97a416539126d0982addee470f1"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\image.data.json": {
+      "checksum": "38c3c818ce032f5bfbd93ddcc4698ef5"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\image.meta.json": {
+      "checksum": "f1d83ce73663e0cbba16b022f1ffdb1e"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\link.data.json": {
+      "checksum": "90d02a1d86ef341dc7120ed133d050d6"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\link.meta.json": {
+      "checksum": "a34d84a7addf0eb9e5725fc67d38058a"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\newline.data.json": {
+      "checksum": "e8b405cb2b1425e52e691bc7f2c051e7"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\newline.meta.json": {
+      "checksum": "7b001bbe91bc4450584e25ae0a6031bc"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\state_inline.data.json": {
+      "checksum": "a180c085fecdfdd5e9b914a1576d7f00"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\state_inline.meta.json": {
+      "checksum": "8e1fbf9769c54d3bc38749472e526d4f"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\strikethrough.data.json": {
+      "checksum": "c0f0e5d6b5e818032bfef4d6ede09961"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\strikethrough.meta.json": {
+      "checksum": "6145fa8940a3290a3f2350930cbd1b1f"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\text.data.json": {
+      "checksum": "bb7ab8eb2b146dc729e2d3d029d2268b"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\text.meta.json": {
+      "checksum": "7077647346aaa19ddd42e2a1e4966057"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\text_collapse.data.json": {
+      "checksum": "bc6996cdad612770409737b2ad586da2"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\rules_inline\\text_collapse.meta.json": {
+      "checksum": "f4c101b5121b8764c409e377781da702"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\token.data.json": {
+      "checksum": "1a1521f08e699ea28b65cd6dc87cbeac"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\token.meta.json": {
+      "checksum": "4c5d8a5d46e2b9466066bcf18e1bb611"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\utils.data.json": {
+      "checksum": "66a7ac99b1172a4220338ba3d6003251"
+    },
+    ".mypy_cache\\3.9\\markdown_it\\utils.meta.json": {
+      "checksum": "f169d5b80595067d9ab4ef6e1fc711a3"
+    },
+    ".mypy_cache\\3.9\\math.data.json": {
+      "checksum": "dea5b7954f2ae199475b2587cda1447a"
+    },
+    ".mypy_cache\\3.9\\math.meta.json": {
+      "checksum": "d563150bb1fa98a1a8639c5464edb935"
+    },
+    ".mypy_cache\\3.9\\mdit_py_plugins\\__init__.data.json": {
+      "checksum": "ab92861dce3bb5241ceec76230fdf3c5"
+    },
+    ".mypy_cache\\3.9\\mdit_py_plugins\\__init__.meta.json": {
+      "checksum": "868ee29e9cfd94cb65e59627668054ef"
+    },
+    ".mypy_cache\\3.9\\mdit_py_plugins\\tasklists\\__init__.data.json": {
+      "checksum": "0ecfa29d666125d160887e4ecc2105ed"
+    },
+    ".mypy_cache\\3.9\\mdit_py_plugins\\tasklists\\__init__.meta.json": {
+      "checksum": "ae56b08b5b64d2f3ea054591771d3eb5"
+    },
+    ".mypy_cache\\3.9\\mdurl\\__init__.data.json": {
+      "checksum": "40396d768b9fec611449c1bea6730d96"
+    },
+    ".mypy_cache\\3.9\\mdurl\\__init__.meta.json": {
+      "checksum": "0af812338ca029e04d73f5bf5350c96d"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_decode.data.json": {
+      "checksum": "9d115202d73f60e9cab15b25bae22b5c"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_decode.meta.json": {
+      "checksum": "af2c8fb3723097d2337a40f013dc9f90"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_encode.data.json": {
+      "checksum": "0dbe79a64dd901c1e9317e092b6bebaa"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_encode.meta.json": {
+      "checksum": "a4b7d3eddabb31018453f5e64404d7cb"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_format.data.json": {
+      "checksum": "518fa18dbdf3d160a7fc5cfe1153a3ef"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_format.meta.json": {
+      "checksum": "a73e4a25ec2b6fc2cfecf5cccce865aa"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_parse.data.json": {
+      "checksum": "d6d7f17d50608bcd29dcd9a0c2f89e0a"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_parse.meta.json": {
+      "checksum": "1e0214c2a547c26e467eaf9b3b278d45"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_url.data.json": {
+      "checksum": "12a497da81700ad7bfdddba117001796"
+    },
+    ".mypy_cache\\3.9\\mdurl\\_url.meta.json": {
+      "checksum": "31df68307b9c633f30788d1e02c49adf"
+    },
+    ".mypy_cache\\3.9\\mimetypes.data.json": {
+      "checksum": "25c95fae1c8d665e2ff8755bea8c58b4"
+    },
+    ".mypy_cache\\3.9\\mimetypes.meta.json": {
+      "checksum": "cade7a5195c1262e84347958599b3bf2"
+    },
+    ".mypy_cache\\3.9\\mmap.data.json": {
+      "checksum": "ac67c8f89bc24bf018ce3932b31bffde"
+    },
+    ".mypy_cache\\3.9\\mmap.meta.json": {
+      "checksum": "a8ae8d0f3aa49e305498231d37ded90e"
+    },
+    ".mypy_cache\\3.9\\msvcrt.data.json": {
+      "checksum": "c6cbd1b7aa8e6106e2f3426c5bf67ecb"
+    },
+    ".mypy_cache\\3.9\\msvcrt.meta.json": {
+      "checksum": "3555c7afc65ae1a855bfd826c90d7220"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\__init__.data.json": {
+      "checksum": "1849ca6ead32b0739e472f5b95f7cbd1"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\__init__.meta.json": {
+      "checksum": "843248f19bef83767b5331fc7e6b3260"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\connection.data.json": {
+      "checksum": "b33b4bf08a8e77a1397a70b67f98ee26"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\connection.meta.json": {
+      "checksum": "c9693f37c0ad23d378d77aa5ff8bf86a"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\context.data.json": {
+      "checksum": "bddadd6a934cb2ba77405db7c8c8ddfe"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\context.meta.json": {
+      "checksum": "ff5f7e5c991358b176689e8765406097"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\managers.data.json": {
+      "checksum": "a4d127ac55757acef76094c8037d42ff"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\managers.meta.json": {
+      "checksum": "57ca37eb882f8b263e8c6d0bb23d4c45"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\pool.data.json": {
+      "checksum": "ba61081aafc3e4782e92c1d3a9f5f750"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\pool.meta.json": {
+      "checksum": "88324a55c3a21f58ed6a78ea86801b7d"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_fork.data.json": {
+      "checksum": "89f5bdc2c11ee951f0e45ca34f283a2d"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_fork.meta.json": {
+      "checksum": "2c331d2d7238a773e927224587e5ac6e"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_forkserver.data.json": {
+      "checksum": "44252398d7c833f64aaa0fe4ea471bc2"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_forkserver.meta.json": {
+      "checksum": "29f12d5e07efd89cbead27a4ae13452b"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_spawn_posix.data.json": {
+      "checksum": "e682c2efb19efa3b24580982f303daa9"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_spawn_posix.meta.json": {
+      "checksum": "dddf495a97ccddeca8310a588f17fb01"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_spawn_win32.data.json": {
+      "checksum": "564ef4a05b03a03a3825f001de2ea3bb"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\popen_spawn_win32.meta.json": {
+      "checksum": "c7a55d56d476c0e19af3d587b645bce0"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\process.data.json": {
+      "checksum": "d49a255458ba2c4b8dddf2688c9a1c7b"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\process.meta.json": {
+      "checksum": "73f712d485b1075d91eea070afeea965"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\queues.data.json": {
+      "checksum": "01a05f797941fd9315876ed26b766fe7"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\queues.meta.json": {
+      "checksum": "fbaae38b8be0d71f050bab9b9fe639e3"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\reduction.data.json": {
+      "checksum": "b4af15328f475e6b8f1cf989238fb118"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\reduction.meta.json": {
+      "checksum": "9d1332f9a60d8effe79be2399f95f492"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\shared_memory.data.json": {
+      "checksum": "7ba944b65d70bec0d8112b0bd485703c"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\shared_memory.meta.json": {
+      "checksum": "56e3266f585bcc60dd8b425fe7416d85"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\sharedctypes.data.json": {
+      "checksum": "4e216256df7f1268e2ba29a3c74f242b"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\sharedctypes.meta.json": {
+      "checksum": "ad9f33c4575871f781f26834f609ad17"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\spawn.data.json": {
+      "checksum": "002fbd5ca4367c36ab912437be84656b"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\spawn.meta.json": {
+      "checksum": "2358e47c292dd2955beef186073121f6"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\synchronize.data.json": {
+      "checksum": "740263bce0193880b6cc439c82ee05e2"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\synchronize.meta.json": {
+      "checksum": "69c7efc05443d6ccd21afed2af4c4b52"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\util.data.json": {
+      "checksum": "6b925c4e34e29727621c215e89113bbe"
+    },
+    ".mypy_cache\\3.9\\multiprocessing\\util.meta.json": {
+      "checksum": "f9e63abb965f3e6b939747fe615571d2"
+    },
+    ".mypy_cache\\3.9\\ntpath.data.json": {
+      "checksum": "bfe913e27e0e2ed816819442aa13b830"
+    },
+    ".mypy_cache\\3.9\\ntpath.meta.json": {
+      "checksum": "026a1add3ed3c9280c1c1c0edc7740c4"
+    },
+    ".mypy_cache\\3.9\\numbers.data.json": {
+      "checksum": "373fc58d2da21596c6674bc9a13f57c4"
+    },
+    ".mypy_cache\\3.9\\numbers.meta.json": {
+      "checksum": "de756cd8499373846637454dd5cd2ada"
+    },
+    ".mypy_cache\\3.9\\numpy\\__init__.data.json": {
+      "checksum": "d7ac140f7605dcf00e3abfeb8aab1185"
+    },
+    ".mypy_cache\\3.9\\numpy\\__init__.meta.json": {
+      "checksum": "f07890637ab7369ffe27d2381a649850"
+    },
+    ".mypy_cache\\3.9\\numpy\\_pytesttester.data.json": {
+      "checksum": "35eb438e7d9751ceaa85c562cfe4abfb"
+    },
+    ".mypy_cache\\3.9\\numpy\\_pytesttester.meta.json": {
+      "checksum": "980c3fee81598e203fa380503593b034"
+    },
+    ".mypy_cache\\3.9\\numpy\\_version.data.json": {
+      "checksum": "d2956b82be617274335e97344bd54bc4"
+    },
+    ".mypy_cache\\3.9\\numpy\\_version.meta.json": {
+      "checksum": "e6a744e6e0c1850956a2522658e68451"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\__init__.data.json": {
+      "checksum": "4fd5edf5cb0ec1a3605bc663bd884c4f"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\__init__.meta.json": {
+      "checksum": "9287b4987d28fe1fec21dbfabe2691cf"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_asarray.data.json": {
+      "checksum": "d7be954c4d6bed58d4c9571ae4b415b7"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_asarray.meta.json": {
+      "checksum": "e538c7b791c70bbb66698e7c49b7b80c"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_internal.data.json": {
+      "checksum": "08bfed13952dea7fc45965dd69a77c7d"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_internal.meta.json": {
+      "checksum": "f52a5daffd0f2c7242806377e588e823"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_type_aliases.data.json": {
+      "checksum": "3c348349c0293ba92c39d25cf3eccfde"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_type_aliases.meta.json": {
+      "checksum": "67f821fed2206c2d92436780f6a5e992"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_ufunc_config.data.json": {
+      "checksum": "c714690631b1c748cedd78f6ef73e596"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\_ufunc_config.meta.json": {
+      "checksum": "44d9b011c720b5f4449743f35266fac7"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\arrayprint.data.json": {
+      "checksum": "705ce10a26a2a11656ca5464f0d0c186"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\arrayprint.meta.json": {
+      "checksum": "bd25d1a096c16ae834ce76cefc15532f"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\defchararray.data.json": {
+      "checksum": "c1b894b0dbb5dae02cc155ab7b62d9db"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\defchararray.meta.json": {
+      "checksum": "d62e229631d68e012633d1c95d8ae9da"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\einsumfunc.data.json": {
+      "checksum": "fcbf9fe771233f1807712a7b2fd47d94"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\einsumfunc.meta.json": {
+      "checksum": "d33ac0c58d505902aff5a600d937b72c"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\fromnumeric.data.json": {
+      "checksum": "0e3ca4693753abfffabf98f7867ac588"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\fromnumeric.meta.json": {
+      "checksum": "67ab8ba2375280d57b130eefe90bd754"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\function_base.data.json": {
+      "checksum": "18824f5fd29d742afa593f524e416d5d"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\function_base.meta.json": {
+      "checksum": "60cfab2dfecf5e599a5d2902c37f2eda"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\multiarray.data.json": {
+      "checksum": "51a1acf7343a1541888a9173bafae1c2"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\multiarray.meta.json": {
+      "checksum": "b88964f7489ff8fd918bd4a6eb0d3647"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\numeric.data.json": {
+      "checksum": "d09638c063e75c55f4a498fc8c9305aa"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\numeric.meta.json": {
+      "checksum": "8c8eebcf8541fa789b7abf8e3efbf86a"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\numerictypes.data.json": {
+      "checksum": "f8a4b8543fdd4ec7b857321b72ec2f1d"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\numerictypes.meta.json": {
+      "checksum": "2d1e646937e1bc42a37b24eec25a533d"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\records.data.json": {
+      "checksum": "b85d094d86bee758288057b37c29bc4f"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\records.meta.json": {
+      "checksum": "4f1e0ff8c0950cafb8ca916ebe6bde32"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\shape_base.data.json": {
+      "checksum": "f932aca5520e3edd1e88e19b078468ce"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\shape_base.meta.json": {
+      "checksum": "6c8681940b2c28b56e733d0414b38339"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\umath.data.json": {
+      "checksum": "0d46d78a2751ee4096a0a82692ad6cb9"
+    },
+    ".mypy_cache\\3.9\\numpy\\core\\umath.meta.json": {
+      "checksum": "f6f777ee2b369cdbef6801b2899a9663"
+    },
+    ".mypy_cache\\3.9\\numpy\\ctypeslib.data.json": {
+      "checksum": "aeafe700f24a5c3ff13116f0783ec2a5"
+    },
+    ".mypy_cache\\3.9\\numpy\\ctypeslib.meta.json": {
+      "checksum": "882d7770255090fbca044fbb56423e36"
+    },
+    ".mypy_cache\\3.9\\numpy\\fft\\__init__.data.json": {
+      "checksum": "ae54681fd16f78accbdb65f42c959eaf"
+    },
+    ".mypy_cache\\3.9\\numpy\\fft\\__init__.meta.json": {
+      "checksum": "8aaa0d1d51fcebec23ed98458c08a000"
+    },
+    ".mypy_cache\\3.9\\numpy\\fft\\_pocketfft.data.json": {
+      "checksum": "b431b5b74e0aba0ea902654e5a0195d9"
+    },
+    ".mypy_cache\\3.9\\numpy\\fft\\_pocketfft.meta.json": {
+      "checksum": "54def4f6d431fef832a80449389867d0"
+    },
+    ".mypy_cache\\3.9\\numpy\\fft\\helper.data.json": {
+      "checksum": "75c3f8602b346af48cce88114b03a57e"
+    },
+    ".mypy_cache\\3.9\\numpy\\fft\\helper.meta.json": {
+      "checksum": "5ae61894b405f3e3fb999511886a8e41"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\__init__.data.json": {
+      "checksum": "cc0361b326db48aa8b04f619987260bd"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\__init__.meta.json": {
+      "checksum": "d156ebe335a1512374218671e94bd6f9"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\_version.data.json": {
+      "checksum": "dc9124e87e8a32d56c6600de332d0c5a"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\_version.meta.json": {
+      "checksum": "4649c9d75946592e02f06a247bf6a1cd"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\arraypad.data.json": {
+      "checksum": "276aff1fbba0245d34bef6ea2a6d56a3"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\arraypad.meta.json": {
+      "checksum": "3d7d3344d831f670b9b91ff8e09ad7d2"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\arraysetops.data.json": {
+      "checksum": "39028af3ec7c0bb28a983ad513f57982"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\arraysetops.meta.json": {
+      "checksum": "b4d47024043f7ec958dd8d1b45146b0c"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\arrayterator.data.json": {
+      "checksum": "bd348bb1fdbb0f57320ac82ab244818b"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\arrayterator.meta.json": {
+      "checksum": "a396324a277dbe0aed6fb7559874de5b"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\format.data.json": {
+      "checksum": "992f8f692874686d5ba50bc6d66ed7d1"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\format.meta.json": {
+      "checksum": "70b0a0fd81a21970ae3834c8cc4ae947"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\function_base.data.json": {
+      "checksum": "7a5000c836d3ea11e36b27b425dfe4a6"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\function_base.meta.json": {
+      "checksum": "d8a4f5729725738d980f028e6b292c2c"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\histograms.data.json": {
+      "checksum": "2ffb751bf2ffc2f80d98b3f15ba29849"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\histograms.meta.json": {
+      "checksum": "00b9fb77d18decbc8a602173d2710797"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\index_tricks.data.json": {
+      "checksum": "acaf95581bee74a98c01909db3877a6b"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\index_tricks.meta.json": {
+      "checksum": "c2959827f2928549302f600660910fd4"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\mixins.data.json": {
+      "checksum": "216fe44a67b81eeee3f86538ae8ff6cb"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\mixins.meta.json": {
+      "checksum": "40f77bea164daac84d2c3083902ddde5"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\nanfunctions.data.json": {
+      "checksum": "5507a66510c941278bc0b7089d72b81d"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\nanfunctions.meta.json": {
+      "checksum": "62c9e72a0326da29c8718e4fbe103fa8"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\npyio.data.json": {
+      "checksum": "6f9f78eb70e0276c34fbb8d077135e57"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\npyio.meta.json": {
+      "checksum": "117c553610f15c60f59fd747c5252007"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\polynomial.data.json": {
+      "checksum": "e349bee099f3e30698aa2abdd38b78fb"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\polynomial.meta.json": {
+      "checksum": "bb68ce677d27209d450951c5dd01c842"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\scimath.data.json": {
+      "checksum": "8ee907ec8e5aecbd6d8d33300b9b9fc0"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\scimath.meta.json": {
+      "checksum": "8e066ac809d956254f545e1e149f5f62"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\shape_base.data.json": {
+      "checksum": "8c8653462ddd1bab42c29c9a3e4bd74d"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\shape_base.meta.json": {
+      "checksum": "763a1d610da8396210661ed33131dbd6"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\stride_tricks.data.json": {
+      "checksum": "633e67e8534f279ffccd0badf95effe2"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\stride_tricks.meta.json": {
+      "checksum": "e3d57a6460477293d1e25693127c3daa"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\twodim_base.data.json": {
+      "checksum": "8e8a1cc7f21ce911094d8cc2d00912ee"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\twodim_base.meta.json": {
+      "checksum": "bf45c243073e059cafc38edd0761caee"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\type_check.data.json": {
+      "checksum": "d4a032b3831cd7bb3bf025c3a3ab760f"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\type_check.meta.json": {
+      "checksum": "eb8a24f1be9e1afdb377e0ed3efb4d44"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\ufunclike.data.json": {
+      "checksum": "8359bc67856fc372d21818e36a6bd0dc"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\ufunclike.meta.json": {
+      "checksum": "674a1dd089529b8e09f048d81a9daeb9"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\utils.data.json": {
+      "checksum": "f5135034b0fe0e6cadebe66c9557e1a8"
+    },
+    ".mypy_cache\\3.9\\numpy\\lib\\utils.meta.json": {
+      "checksum": "b6a8e20c24a37428351d3ff25e13f8a6"
+    },
+    ".mypy_cache\\3.9\\numpy\\linalg\\__init__.data.json": {
+      "checksum": "b47105b9e0a750446ebb52393018144f"
+    },
+    ".mypy_cache\\3.9\\numpy\\linalg\\__init__.meta.json": {
+      "checksum": "284b0d95b821d9cd53a8d59fae784378"
+    },
+    ".mypy_cache\\3.9\\numpy\\linalg\\linalg.data.json": {
+      "checksum": "efa1302c74b24fc72b67ad5aa1758eab"
+    },
+    ".mypy_cache\\3.9\\numpy\\linalg\\linalg.meta.json": {
+      "checksum": "90a9bc6cc96ce00bbd10a89125e0c117"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\__init__.data.json": {
+      "checksum": "f8c568ac9dc573189f9d2e01ea01d9be"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\__init__.meta.json": {
+      "checksum": "5990950e38aff4ba19cad6864ad66f19"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\core.data.json": {
+      "checksum": "180e1461a9f9f7dad9e05fc45cf6b2d6"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\core.meta.json": {
+      "checksum": "34ba6aa34586aa501fcc3ba0118931c7"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\extras.data.json": {
+      "checksum": "36caaa6f6be531f3a7ebad25d36a9b58"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\extras.meta.json": {
+      "checksum": "265add844ed86e492529b6264f760019"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\mrecords.data.json": {
+      "checksum": "03a93b22bc8cd3fd9950556a0965eae8"
+    },
+    ".mypy_cache\\3.9\\numpy\\ma\\mrecords.meta.json": {
+      "checksum": "983c79fc7f72babcab4604909dce61c8"
+    },
+    ".mypy_cache\\3.9\\numpy\\matrixlib\\__init__.data.json": {
+      "checksum": "674d59d67a2a241bf78c021cae746076"
+    },
+    ".mypy_cache\\3.9\\numpy\\matrixlib\\__init__.meta.json": {
+      "checksum": "4c302bb7b533f5f377a1247fe182015d"
+    },
+    ".mypy_cache\\3.9\\numpy\\matrixlib\\defmatrix.data.json": {
+      "checksum": "4a56a7d603740ad9d7c4be4f1e20f37a"
+    },
+    ".mypy_cache\\3.9\\numpy\\matrixlib\\defmatrix.meta.json": {
+      "checksum": "0bf6fe5eaaea5413e590c468216b18ad"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\__init__.data.json": {
+      "checksum": "f2a32d03952fd5f9503bed0deb30fe7e"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\__init__.meta.json": {
+      "checksum": "89edb619e9f69392f510392eb576cec3"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\_polybase.data.json": {
+      "checksum": "2c60f38f5642842f09546cd8fe5742c7"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\_polybase.meta.json": {
+      "checksum": "5f0e7ca874fa446d41529fb5e6c4d5f5"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\chebyshev.data.json": {
+      "checksum": "d4841d16adc35cf2c166a69a02d0311d"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\chebyshev.meta.json": {
+      "checksum": "fb09ed403176bf2914ffb4c5ef3e9538"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\hermite.data.json": {
+      "checksum": "7ad8f73dcbc824d8843af2d685b9576e"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\hermite.meta.json": {
+      "checksum": "acd53851eafe9a134bd8c7628775bdfb"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\hermite_e.data.json": {
+      "checksum": "df188dbf3aa8b9a07a732a3395cd9754"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\hermite_e.meta.json": {
+      "checksum": "241d1a8b525f3d2403fd432f89ce23af"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\laguerre.data.json": {
+      "checksum": "fc37ccdd64a44d5e909ebd7f3909ad6c"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\laguerre.meta.json": {
+      "checksum": "14339977792b4b018b191036536fe6ed"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\legendre.data.json": {
+      "checksum": "0010ceb282aab29a98cbc810153ee622"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\legendre.meta.json": {
+      "checksum": "dfc2b07fd937e36c9f35e6e346514085"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\polynomial.data.json": {
+      "checksum": "038eb315fadea8c1d5caf6683c9875cc"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\polynomial.meta.json": {
+      "checksum": "6c175c9a1a12bddcd801a614a229673c"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\polyutils.data.json": {
+      "checksum": "5a4258d0d06fe29419284c698d886704"
+    },
+    ".mypy_cache\\3.9\\numpy\\polynomial\\polyutils.meta.json": {
+      "checksum": "381b09c653081f1b4e462f2ececf0cb1"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\__init__.data.json": {
+      "checksum": "2dcfcf8a11c777b087c2f6eb13102589"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\__init__.meta.json": {
+      "checksum": "10dc422d44a610949730714cd614cef4"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_generator.data.json": {
+      "checksum": "31d638c1dd56d8d3156dec923e6e144f"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_generator.meta.json": {
+      "checksum": "cc1603cd23e7315a1e90e6da049b3175"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_mt19937.data.json": {
+      "checksum": "fe2f84ace30184adfa281746b7d1cf5a"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_mt19937.meta.json": {
+      "checksum": "f494082e2cb8b8c6421eb1e7fc9dc5af"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_pcg64.data.json": {
+      "checksum": "02571d20f0c448261856bc65a45f7bf9"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_pcg64.meta.json": {
+      "checksum": "a6fa2efa8fbc73f906ecdac9218c1126"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_philox.data.json": {
+      "checksum": "6a8ad1034ca108cf4da06f5495340868"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_philox.meta.json": {
+      "checksum": "52eb97e05134a51a28b09c13b87450eb"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_sfc64.data.json": {
+      "checksum": "f623ef1d3067716a4b15195e415d9bc3"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\_sfc64.meta.json": {
+      "checksum": "2509381b1dfb61bc7ec4c76f5b45c872"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\bit_generator.data.json": {
+      "checksum": "e410eacee9d84d67dbf025876df150fc"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\bit_generator.meta.json": {
+      "checksum": "d802e1bbd0321d78fb3488b04428dc17"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\mtrand.data.json": {
+      "checksum": "4f8853fe68ece4cba6f972cbcb9be3c5"
+    },
+    ".mypy_cache\\3.9\\numpy\\random\\mtrand.meta.json": {
+      "checksum": "8c5ff2af73f184463565f9aa602e5cb0"
+    },
+    ".mypy_cache\\3.9\\numpy\\testing\\__init__.data.json": {
+      "checksum": "63efa92446a97f55010898999fb4cb86"
+    },
+    ".mypy_cache\\3.9\\numpy\\testing\\__init__.meta.json": {
+      "checksum": "2299ff6df8648257d6c3cbe60aa12089"
+    },
+    ".mypy_cache\\3.9\\numpy\\testing\\_private\\__init__.data.json": {
+      "checksum": "f1038b02c2bb641b027144b4746533a4"
+    },
+    ".mypy_cache\\3.9\\numpy\\testing\\_private\\__init__.meta.json": {
+      "checksum": "a38e1cda9213f26be178e127e9a368ba"
+    },
+    ".mypy_cache\\3.9\\numpy\\testing\\_private\\utils.data.json": {
+      "checksum": "e293673c310a92a730c2f73bd1709fa9"
+    },
+    ".mypy_cache\\3.9\\numpy\\testing\\_private\\utils.meta.json": {
+      "checksum": "bb5cbb67468e6b97a5addec034837c06"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\__init__.data.json": {
+      "checksum": "f2a9978018a068b63de223a9580eb713"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\__init__.meta.json": {
+      "checksum": "c1c5431ba84c90948b62c02cdec896b8"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_add_docstring.data.json": {
+      "checksum": "57eabe25616b17dc746355213b2f0e4e"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_add_docstring.meta.json": {
+      "checksum": "80a5834636ee0d19976dd56f66704f18"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_array_like.data.json": {
+      "checksum": "a625018df3d38a1b8c038942a19d69d4"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_array_like.meta.json": {
+      "checksum": "9d922087f2f5085a9d198c096a6cd871"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_callable.data.json": {
+      "checksum": "de810aafcc5a23f5ad3a125f41c3d4c8"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_callable.meta.json": {
+      "checksum": "3f29b85da581211fb63ba0f1540af9c8"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_char_codes.data.json": {
+      "checksum": "c09435642685349865e8ad83f7ba972d"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_char_codes.meta.json": {
+      "checksum": "14fec0392dafb04f71b33bbdddabcd8e"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_dtype_like.data.json": {
+      "checksum": "e537563a00d566d90fbacb696f3c5661"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_dtype_like.meta.json": {
+      "checksum": "dc6d2d7872f77979a503f13bca049a93"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_extended_precision.data.json": {
+      "checksum": "49459a97d9f2a572685b87e92995f588"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_extended_precision.meta.json": {
+      "checksum": "6188bc15034dad5e75f737d80df7cbeb"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_generic_alias.data.json": {
+      "checksum": "9540a9437f858a9543f9f433feb148db"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_generic_alias.meta.json": {
+      "checksum": "26e9631f41d0d208ebf9d9f264495883"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_nbit.data.json": {
+      "checksum": "59467291b7a3a55a423f84a4f24b6250"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_nbit.meta.json": {
+      "checksum": "665d0bae3445d1d67a929051376dfa57"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_nested_sequence.data.json": {
+      "checksum": "2b9b864a35cf6e86e4c16035e46f9237"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_nested_sequence.meta.json": {
+      "checksum": "71964cd67f579a0f89bfee3682231f2a"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_scalars.data.json": {
+      "checksum": "4ba28d897f3527ac32850975b1001c69"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_scalars.meta.json": {
+      "checksum": "8fbf90cc243ef7a82eb78bbda34039f5"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_shape.data.json": {
+      "checksum": "553bdff01284b4fe14aa110d4be96e29"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_shape.meta.json": {
+      "checksum": "eaa242a7821dd770fa2adbd6800b0f2b"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_ufunc.data.json": {
+      "checksum": "6f40ae309639e963b0fef8c243f36e6b"
+    },
+    ".mypy_cache\\3.9\\numpy\\typing\\_ufunc.meta.json": {
+      "checksum": "e5379324e25286cce5a8728e343b625a"
+    },
+    ".mypy_cache\\3.9\\numpy\\version.data.json": {
+      "checksum": "23e1a59e07df1d57aefda8a21b8983f9"
+    },
+    ".mypy_cache\\3.9\\numpy\\version.meta.json": {
+      "checksum": "554047b222cb6b50bca1e3bd3e982fae"
+    },
+    ".mypy_cache\\3.9\\opcode.data.json": {
+      "checksum": "b93f9bd8a53ac4eee1a5282c12e6e537"
+    },
+    ".mypy_cache\\3.9\\opcode.meta.json": {
+      "checksum": "8bf288f741858ca9276611a333665bec"
+    },
+    ".mypy_cache\\3.9\\operator.data.json": {
+      "checksum": "59b7f12ce6cff4a884d5ef0f4f0842e6"
+    },
+    ".mypy_cache\\3.9\\operator.meta.json": {
+      "checksum": "f0071daca08719da7095d2d52bb9c724"
+    },
+    ".mypy_cache\\3.9\\os\\__init__.data.json": {
+      "checksum": "96062c304645fda5bba8f1119b7ed63e"
+    },
+    ".mypy_cache\\3.9\\os\\__init__.meta.json": {
+      "checksum": "cafd4ad1802f3b0f748eb063e03fc51b"
+    },
+    ".mypy_cache\\3.9\\os\\path.data.json": {
+      "checksum": "e20736402a9fae414591835b2697eb81"
+    },
+    ".mypy_cache\\3.9\\os\\path.meta.json": {
+      "checksum": "8b0f108c45a2c8df975e4cb8f4052093"
+    },
+    ".mypy_cache\\3.9\\packaging\\__about__.data.json": {
+      "checksum": "83737fbdcfa2d7909569fd70fda03270"
+    },
+    ".mypy_cache\\3.9\\packaging\\__about__.meta.json": {
+      "checksum": "3f1b655d96905b5c1c07c8b08b4e587f"
+    },
+    ".mypy_cache\\3.9\\packaging\\__init__.data.json": {
+      "checksum": "9bdbe554d61f7b32c28138b5a634dd74"
+    },
+    ".mypy_cache\\3.9\\packaging\\__init__.meta.json": {
+      "checksum": "e6f8463951ec3e460837d21ba4e277c5"
+    },
+    ".mypy_cache\\3.9\\packaging\\_structures.data.json": {
+      "checksum": "dc676a1339b24a07ff34bbb43fc1f5f3"
+    },
+    ".mypy_cache\\3.9\\packaging\\_structures.meta.json": {
+      "checksum": "fcda6448ef93615533776d8e8b74ec86"
+    },
+    ".mypy_cache\\3.9\\packaging\\_typing.data.json": {
+      "checksum": "f39a1ef8a1f21a9bd2f3008940c1ffe1"
+    },
+    ".mypy_cache\\3.9\\packaging\\_typing.meta.json": {
+      "checksum": "bd5079e676c1176451c67d7a6cd6842b"
+    },
+    ".mypy_cache\\3.9\\packaging\\version.data.json": {
+      "checksum": "f8b6106b9ba07ccede94ccf125c0270c"
+    },
+    ".mypy_cache\\3.9\\packaging\\version.meta.json": {
+      "checksum": "ffa60a49188aeab624b0567752d285fe"
+    },
+    ".mypy_cache\\3.9\\pathlib.data.json": {
+      "checksum": "8ef9fd0f093b0f366bc63926ab25f6bc"
+    },
+    ".mypy_cache\\3.9\\pathlib.meta.json": {
+      "checksum": "95815f0668cc614bae97d2300449e8bc"
+    },
+    ".mypy_cache\\3.9\\pickle.data.json": {
+      "checksum": "1a35e278783b8a331769f4cb64898292"
+    },
+    ".mypy_cache\\3.9\\pickle.meta.json": {
+      "checksum": "19f3db3f628ab7ccef7ba4266e48846e"
+    },
+    ".mypy_cache\\3.9\\platform.data.json": {
+      "checksum": "dcc53d8a2aaa4acd4f49497d6f33f735"
+    },
+    ".mypy_cache\\3.9\\platform.meta.json": {
+      "checksum": "79c14aef9896f291a39583bb3ad0fc54"
+    },
+    ".mypy_cache\\3.9\\posixpath.data.json": {
+      "checksum": "5219fbd0ab1ab7432f24c2d300f1d496"
+    },
+    ".mypy_cache\\3.9\\posixpath.meta.json": {
+      "checksum": "a5195571d995a4e6f67749e672e6afd2"
+    },
+    ".mypy_cache\\3.9\\queue.data.json": {
+      "checksum": "2ac7e85fcc9ac1dd4569092b23e692eb"
+    },
+    ".mypy_cache\\3.9\\queue.meta.json": {
+      "checksum": "299d4380ed28fe45eab7a5c44fdd01f4"
+    },
+    ".mypy_cache\\3.9\\random.data.json": {
+      "checksum": "c9c8135e58a4ad8d3b9c35aab458179a"
+    },
+    ".mypy_cache\\3.9\\random.meta.json": {
+      "checksum": "ab81190088554d143e659c04178407ef"
+    },
+    ".mypy_cache\\3.9\\re.data.json": {
+      "checksum": "ff72deb41bc9714d93810eb90b49feac"
+    },
+    ".mypy_cache\\3.9\\re.meta.json": {
+      "checksum": "b01333a3dbdf79657812cba83c4938be"
+    },
+    ".mypy_cache\\3.9\\secrets.data.json": {
+      "checksum": "70051915b4744ed84b3e8693ee8f5d66"
+    },
+    ".mypy_cache\\3.9\\secrets.meta.json": {
+      "checksum": "e27b03014e5af98d03a8f090f26546c7"
+    },
+    ".mypy_cache\\3.9\\selectors.data.json": {
+      "checksum": "ad264abdc50b1a970e71f61f9159e5e5"
+    },
+    ".mypy_cache\\3.9\\selectors.meta.json": {
+      "checksum": "70aa6ad8301e789a3e3bea8bc478f35e"
+    },
+    ".mypy_cache\\3.9\\shiny\\__init__.data.json": {
+      "checksum": "389d95960e3d53484843c43bfdaf9e5d"
+    },
+    ".mypy_cache\\3.9\\shiny\\__init__.meta.json": {
+      "checksum": "994b8222c6605a80c9422b19aa11a660"
+    },
+    ".mypy_cache\\3.9\\shiny\\_app.data.json": {
+      "checksum": "e86202bacd08aa7365ceb973c8634aad"
+    },
+    ".mypy_cache\\3.9\\shiny\\_app.meta.json": {
+      "checksum": "2be9965250e6ab280cd925c9b7a8665d"
+    },
+    ".mypy_cache\\3.9\\shiny\\_autoreload.data.json": {
+      "checksum": "3ec5d236d07c260cd76b36dcb12aaff3"
+    },
+    ".mypy_cache\\3.9\\shiny\\_autoreload.meta.json": {
+      "checksum": "79b6226c2b27b3147de907dd0ca780b0"
+    },
+    ".mypy_cache\\3.9\\shiny\\_connection.data.json": {
+      "checksum": "6630daaad8cc1a1db5800927fca67c35"
+    },
+    ".mypy_cache\\3.9\\shiny\\_connection.meta.json": {
+      "checksum": "6cd693e80a14ba21bc8e81725097ecf9"
+    },
+    ".mypy_cache\\3.9\\shiny\\_datastructures.data.json": {
+      "checksum": "fb9a3d6333ea588c10f6a7d425230d4e"
+    },
+    ".mypy_cache\\3.9\\shiny\\_datastructures.meta.json": {
+      "checksum": "9535c0a07cc6e8ffa6485ebd02f8443a"
+    },
+    ".mypy_cache\\3.9\\shiny\\_deprecated.data.json": {
+      "checksum": "f492c0ddd789b7550e1a8336c8d48a23"
+    },
+    ".mypy_cache\\3.9\\shiny\\_deprecated.meta.json": {
+      "checksum": "43487f85eb3b73cad4bf637231918b9c"
+    },
+    ".mypy_cache\\3.9\\shiny\\_docstring.data.json": {
+      "checksum": "01fdb75ca170388cf86dd8b3a56a9122"
+    },
+    ".mypy_cache\\3.9\\shiny\\_docstring.meta.json": {
+      "checksum": "96da7745096f09c957af7e6bd94a8f2a"
+    },
+    ".mypy_cache\\3.9\\shiny\\_error.data.json": {
+      "checksum": "0f6cca76f9c8f287a721483b99d076bb"
+    },
+    ".mypy_cache\\3.9\\shiny\\_error.meta.json": {
+      "checksum": "bbce4905d9f9ea55edf1d1d5ece1bb64"
+    },
+    ".mypy_cache\\3.9\\shiny\\_fileupload.data.json": {
+      "checksum": "7cf24723a931da6af57c7bec52c72ea2"
+    },
+    ".mypy_cache\\3.9\\shiny\\_fileupload.meta.json": {
+      "checksum": "61ae8797e6c35bc80a0475b31996103c"
+    },
+    ".mypy_cache\\3.9\\shiny\\_hostenv.data.json": {
+      "checksum": "a457fe3335a541d06e3a00eeceaed44f"
+    },
+    ".mypy_cache\\3.9\\shiny\\_hostenv.meta.json": {
+      "checksum": "f022a7051f9d229f3dfc7ee4c3c0007f"
+    },
+    ".mypy_cache\\3.9\\shiny\\_main.data.json": {
+      "checksum": "8ce38fd2e18293328af974d7fc643345"
+    },
+    ".mypy_cache\\3.9\\shiny\\_main.meta.json": {
+      "checksum": "e1bb9b9742b41977411f673055bb5587"
+    },
+    ".mypy_cache\\3.9\\shiny\\_namespaces.data.json": {
+      "checksum": "97920ba79271ce7fe79ea083520bd3a0"
+    },
+    ".mypy_cache\\3.9\\shiny\\_namespaces.meta.json": {
+      "checksum": "197a8a26a5e83f46f293947fe541460c"
+    },
+    ".mypy_cache\\3.9\\shiny\\_shinyenv.data.json": {
+      "checksum": "4f05755b614fa4261f3efd9b11bff364"
+    },
+    ".mypy_cache\\3.9\\shiny\\_shinyenv.meta.json": {
+      "checksum": "b0e7b8b6d91ad9dc439b2ac8771684cc"
+    },
+    ".mypy_cache\\3.9\\shiny\\_static.data.json": {
+      "checksum": "2f948cdec5356e58920835eca65e4099"
+    },
+    ".mypy_cache\\3.9\\shiny\\_static.meta.json": {
+      "checksum": "18dd3bd6bae32642b335c6c1ee6af84e"
+    },
+    ".mypy_cache\\3.9\\shiny\\_utils.data.json": {
+      "checksum": "0139b89bdee7b84192cf5c5f60a466aa"
+    },
+    ".mypy_cache\\3.9\\shiny\\_utils.meta.json": {
+      "checksum": "ccf42b53f07d794566bd559447c3f728"
+    },
+    ".mypy_cache\\3.9\\shiny\\_validation.data.json": {
+      "checksum": "8b93c69e6635a0b66654071f12ff56a2"
+    },
+    ".mypy_cache\\3.9\\shiny\\_validation.meta.json": {
+      "checksum": "6ba8c9c386d2053fde374c65688e5fcf"
+    },
+    ".mypy_cache\\3.9\\shiny\\html_dependencies.data.json": {
+      "checksum": "e7f87f250f9041a4bfc86d5f0b7c6e70"
+    },
+    ".mypy_cache\\3.9\\shiny\\html_dependencies.meta.json": {
+      "checksum": "4e415e06da23e1ac5bcc8e79e86fc1d2"
+    },
+    ".mypy_cache\\3.9\\shiny\\http_staticfiles.data.json": {
+      "checksum": "e9e77730eed74a619f402116a83cad5d"
+    },
+    ".mypy_cache\\3.9\\shiny\\http_staticfiles.meta.json": {
+      "checksum": "ea655583311b26cb262552dc882f04b4"
+    },
+    ".mypy_cache\\3.9\\shiny\\input_handler.data.json": {
+      "checksum": "ef02086dfcf98ca63baed3ec95eef842"
+    },
+    ".mypy_cache\\3.9\\shiny\\input_handler.meta.json": {
+      "checksum": "a99bb4f786a92ea5fa5adf6fcb2d9052"
+    },
+    ".mypy_cache\\3.9\\shiny\\module.data.json": {
+      "checksum": "608d08eced04db0db8dca860a5cf53f8"
+    },
+    ".mypy_cache\\3.9\\shiny\\module.meta.json": {
+      "checksum": "c2e0c64050f4a957f5bd112346fcd03d"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\__init__.data.json": {
+      "checksum": "bda52ae346705aba6637b1709e725331"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\__init__.meta.json": {
+      "checksum": "bb2e719cb8598ddbfd8521b08a288d2e"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\_core.data.json": {
+      "checksum": "b71f664a729862534b1609a6bfc4b4bc"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\_core.meta.json": {
+      "checksum": "10110c433aece7dc7da663032e6af396"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\_poll.data.json": {
+      "checksum": "e0a152f2832ff635f6a3b020b3cd76a3"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\_poll.meta.json": {
+      "checksum": "43fa2a0ec6cbcd17b7cf1c264941c889"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\_reactives.data.json": {
+      "checksum": "bc4c6cea9ab4576745c4ab396d32c86b"
+    },
+    ".mypy_cache\\3.9\\shiny\\reactive\\_reactives.meta.json": {
+      "checksum": "2c685907f76e1ba43641fe517215ba54"
+    },
+    ".mypy_cache\\3.9\\shiny\\render\\__init__.data.json": {
+      "checksum": "842914d803d89dff0d6d98d97badcbb1"
+    },
+    ".mypy_cache\\3.9\\shiny\\render\\__init__.meta.json": {
+      "checksum": "e272fdebaa53cb93715f56af20d99c19"
+    },
+    ".mypy_cache\\3.9\\shiny\\render\\_render.data.json": {
+      "checksum": "7829727020863def6f6844b6c8099cff"
+    },
+    ".mypy_cache\\3.9\\shiny\\render\\_render.meta.json": {
+      "checksum": "573194c757168f0e2c8bd4433fe4acc2"
+    },
+    ".mypy_cache\\3.9\\shiny\\render\\_try_render_plot.data.json": {
+      "checksum": "6f73fe530126359f5baea610c06afe45"
+    },
+    ".mypy_cache\\3.9\\shiny\\render\\_try_render_plot.meta.json": {
+      "checksum": "8bf93d48a496ea71b367fe4c6070e5ed"
+    },
+    ".mypy_cache\\3.9\\shiny\\session\\__init__.data.json": {
+      "checksum": "8abc1fbac8b2cbb81e14d9c2f8b46f31"
+    },
+    ".mypy_cache\\3.9\\shiny\\session\\__init__.meta.json": {
+      "checksum": "1880799ff2992efdfe43cfcb7de534ea"
+    },
+    ".mypy_cache\\3.9\\shiny\\session\\_session.data.json": {
+      "checksum": "d89cb7f0d42a6ad314e3025ab2be5b9f"
+    },
+    ".mypy_cache\\3.9\\shiny\\session\\_session.meta.json": {
+      "checksum": "cc36d6dc8c078b2642dc1986ab155360"
+    },
+    ".mypy_cache\\3.9\\shiny\\session\\_utils.data.json": {
+      "checksum": "68fdd554fcedd8bdc7a60c3ac2fdfc04"
+    },
+    ".mypy_cache\\3.9\\shiny\\session\\_utils.meta.json": {
+      "checksum": "740bdfedd2453a65a607aa2efb03b711"
+    },
+    ".mypy_cache\\3.9\\shiny\\types.data.json": {
+      "checksum": "dd0798617ce579d964bfd41ac00a2e6d"
+    },
+    ".mypy_cache\\3.9\\shiny\\types.meta.json": {
+      "checksum": "31da6b3853488354046533a23fb205b3"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\__init__.data.json": {
+      "checksum": "a37b0f89b9fed75413cb6cd53ce02aa5"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\__init__.meta.json": {
+      "checksum": "a3204bf24b37924354a2b960fc5429e6"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_bootstrap.data.json": {
+      "checksum": "7ddc6c857b410883dfb4708970e26b8e"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_bootstrap.meta.json": {
+      "checksum": "dd234983e605f3519842adc81efdbc92"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_download_button.data.json": {
+      "checksum": "0dc2e3df3eeb91cc18e18d1c9245f58a"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_download_button.meta.json": {
+      "checksum": "a0d5834b838857c0d3075af4e6557648"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_html_dependencies.data.json": {
+      "checksum": "8fa5f74ced2e3cd00e56df16ef9c79f3"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_html_dependencies.meta.json": {
+      "checksum": "c2f3061849a07edbd8faa9f1a459078b"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_action_button.data.json": {
+      "checksum": "3261e3fb0420f15241689b5c85d0861c"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_action_button.meta.json": {
+      "checksum": "3b27effea642646b4a0608ebcaadfc05"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_check_radio.data.json": {
+      "checksum": "4aa2bbda0322370f30aecf3e83d784d7"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_check_radio.meta.json": {
+      "checksum": "0848c60ec0e493f4855893e7cf00cbdb"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_date.data.json": {
+      "checksum": "de7bb80d88d11e5c5e1a3cc70559b1fb"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_date.meta.json": {
+      "checksum": "0b167464bd10e4a299ec64d12ae4b4aa"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_file.data.json": {
+      "checksum": "9297e64f87826606e4d995e8005a4f5a"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_file.meta.json": {
+      "checksum": "509e668eddcf66134bbda44906ed8ad7"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_numeric.data.json": {
+      "checksum": "67273b40ecf067c60d5247119be4214b"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_numeric.meta.json": {
+      "checksum": "7043bfb89ae1a9bb6950903960e73ad4"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_password.data.json": {
+      "checksum": "1ca2307fe7269f9801a0688e1b27d1a9"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_password.meta.json": {
+      "checksum": "f97aeb7c2a4dc918323d78807f435a29"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_select.data.json": {
+      "checksum": "8f775857e708017191b8d02e7bf02281"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_select.meta.json": {
+      "checksum": "9285d9da2280a0d76a83e4567c6a56fe"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_slider.data.json": {
+      "checksum": "0aa42b4c6f75622e7a91cf808eafdf5f"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_slider.meta.json": {
+      "checksum": "30cbecdcb2661d16e030e76841239be2"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_text.data.json": {
+      "checksum": "e73b84b886dae13f38de6c61b4e94271"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_text.meta.json": {
+      "checksum": "4f05f8b69bf6abf71022c2dda710d390"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_update.data.json": {
+      "checksum": "84d37101edd0d5a54771fc7113994e04"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_input_update.meta.json": {
+      "checksum": "986022c841c0591bbb83b9e139579e1a"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_insert.data.json": {
+      "checksum": "ab0a23ca59c9499315c998ed0855f6a9"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_insert.meta.json": {
+      "checksum": "4b364f4f7462a90db1e984b37bd014de"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_markdown.data.json": {
+      "checksum": "17aaf775f91611f172914e28edaaac35"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_markdown.meta.json": {
+      "checksum": "6c47aca8bfe80cab024ae4d47cfeb757"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_modal.data.json": {
+      "checksum": "ccb270b260ba3a91a0dbbd20f3168501"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_modal.meta.json": {
+      "checksum": "26f3b4a11286ad14f2bd0af1048a3f3b"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_navs.data.json": {
+      "checksum": "e1d49145f02e289db2df509c83c13de0"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_navs.meta.json": {
+      "checksum": "fb108dc673beaf2e98f1a0419894e1cd"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_notification.data.json": {
+      "checksum": "aebf33b3cdc618ec9d27dcf011bcae01"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_notification.meta.json": {
+      "checksum": "4ccc7f33122f408a0e392d8cde3f2aff"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_output.data.json": {
+      "checksum": "174be761cf7c019da367831a74274eaa"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_output.meta.json": {
+      "checksum": "3516466b5298ad856bcf8c0749759cb7"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_page.data.json": {
+      "checksum": "3f1aeec81099857ce932f6f8cfa33c01"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_page.meta.json": {
+      "checksum": "4f217dfea26f300c26c0fd5e1f63ec3c"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_progress.data.json": {
+      "checksum": "07b1fe5a0b1de09156adce767df78271"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_progress.meta.json": {
+      "checksum": "1628b2ecfa670efd44479fbe060ba910"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_utils.data.json": {
+      "checksum": "65a270967bd3d78ba8f2fe25e93ac5bd"
+    },
+    ".mypy_cache\\3.9\\shiny\\ui\\_utils.meta.json": {
+      "checksum": "5936d525f957320e7d73a0cf105a9996"
+    },
+    ".mypy_cache\\3.9\\shlex.data.json": {
+      "checksum": "82fbe6ed862ae82f894104ed004c7066"
+    },
+    ".mypy_cache\\3.9\\shlex.meta.json": {
+      "checksum": "48b1333b6c0fdb9d6edd149fe8d61c64"
+    },
+    ".mypy_cache\\3.9\\shutil.data.json": {
+      "checksum": "a973d32bfc1d678c36a627a9b9a41b85"
+    },
+    ".mypy_cache\\3.9\\shutil.meta.json": {
+      "checksum": "aac36d92b25dba9f57bfce2f5af489cd"
+    },
+    ".mypy_cache\\3.9\\signal.data.json": {
+      "checksum": "bf76de8bb5f2b123b25c13b6032fb31a"
+    },
+    ".mypy_cache\\3.9\\signal.meta.json": {
+      "checksum": "1305f89c74a67fbd2e047a222267cdf5"
+    },
+    ".mypy_cache\\3.9\\sniffio\\__init__.data.json": {
+      "checksum": "e8683682d8b646f0dbf42cd8854ca174"
+    },
+    ".mypy_cache\\3.9\\sniffio\\__init__.meta.json": {
+      "checksum": "7c994f05764cf1c3642a417551cc9d96"
+    },
+    ".mypy_cache\\3.9\\sniffio\\_impl.data.json": {
+      "checksum": "9e7b2f8d8e964158d8dfa07d4625256e"
+    },
+    ".mypy_cache\\3.9\\sniffio\\_impl.meta.json": {
+      "checksum": "de6448de5c0974de2a9bce48c3d6a750"
+    },
+    ".mypy_cache\\3.9\\sniffio\\_version.data.json": {
+      "checksum": "741339a0bae4252d6fdf199120dbb606"
+    },
+    ".mypy_cache\\3.9\\sniffio\\_version.meta.json": {
+      "checksum": "56a5b05a3bca561fcd2a66a275be9125"
+    },
+    ".mypy_cache\\3.9\\socket.data.json": {
+      "checksum": "104e2a7c2889f303488eadc08b385b47"
+    },
+    ".mypy_cache\\3.9\\socket.meta.json": {
+      "checksum": "41b869c89cd3cb92de5d396471d4c032"
+    },
+    ".mypy_cache\\3.9\\socketserver.data.json": {
+      "checksum": "92af56bee890b79e97745a7dea795956"
+    },
+    ".mypy_cache\\3.9\\socketserver.meta.json": {
+      "checksum": "15b5e2a48cbd9a3919a6c2a656cf800d"
+    },
+    ".mypy_cache\\3.9\\sre_compile.data.json": {
+      "checksum": "d01fba98aecd88750e162ed3eb919cf4"
+    },
+    ".mypy_cache\\3.9\\sre_compile.meta.json": {
+      "checksum": "07b76bdb0fdd9e84b75ec099c22a84a6"
+    },
+    ".mypy_cache\\3.9\\sre_constants.data.json": {
+      "checksum": "9897b1f163398ab1a42de17fd200edaa"
+    },
+    ".mypy_cache\\3.9\\sre_constants.meta.json": {
+      "checksum": "d813e9bd1b9911f3803cb02dabcd9c9d"
+    },
+    ".mypy_cache\\3.9\\sre_parse.data.json": {
+      "checksum": "61668e29532ad6327bc9919584fd7882"
+    },
+    ".mypy_cache\\3.9\\sre_parse.meta.json": {
+      "checksum": "32bfa75608155ebb2892ee0cf9007d6b"
+    },
+    ".mypy_cache\\3.9\\ssl.data.json": {
+      "checksum": "6dc2338ac928202a1ec3f6122e1c36c3"
+    },
+    ".mypy_cache\\3.9\\ssl.meta.json": {
+      "checksum": "17c0d92b7e48b56436a17ef6443e6ad3"
+    },
+    ".mypy_cache\\3.9\\starlette\\__init__.data.json": {
+      "checksum": "1f0a5ac65188131bc278d0cad9fb2442"
+    },
+    ".mypy_cache\\3.9\\starlette\\__init__.meta.json": {
+      "checksum": "a6571646a8e90b793c5800449b534a03"
+    },
+    ".mypy_cache\\3.9\\starlette\\_compat.data.json": {
+      "checksum": "0cc000c634a81fdbadffbc5081163df6"
+    },
+    ".mypy_cache\\3.9\\starlette\\_compat.meta.json": {
+      "checksum": "e9bf38b19136a3ad212c90b118c7adfc"
+    },
+    ".mypy_cache\\3.9\\starlette\\_utils.data.json": {
+      "checksum": "d1da3ffb64e6c62e5626ebf45fd3261e"
+    },
+    ".mypy_cache\\3.9\\starlette\\_utils.meta.json": {
+      "checksum": "0b4cb4c39d8380c66098a0e7ee8cd2d3"
+    },
+    ".mypy_cache\\3.9\\starlette\\applications.data.json": {
+      "checksum": "ba15caf70e23c453d3a314a4ca73e57b"
+    },
+    ".mypy_cache\\3.9\\starlette\\applications.meta.json": {
+      "checksum": "c9a539a041145e2a9cdfd92209f0231b"
+    },
+    ".mypy_cache\\3.9\\starlette\\background.data.json": {
+      "checksum": "c70b1890d9c6aea975d3c63b11c0ba87"
+    },
+    ".mypy_cache\\3.9\\starlette\\background.meta.json": {
+      "checksum": "347c97aad9b05a655c7fb22e64fdaf53"
+    },
+    ".mypy_cache\\3.9\\starlette\\concurrency.data.json": {
+      "checksum": "e4cc1505958636d140f174817eaa05f4"
+    },
+    ".mypy_cache\\3.9\\starlette\\concurrency.meta.json": {
+      "checksum": "afa7fd20deb617201c755a5eb84d88e5"
+    },
+    ".mypy_cache\\3.9\\starlette\\convertors.data.json": {
+      "checksum": "126c81b3004ab62f7767ffa073ffb67c"
+    },
+    ".mypy_cache\\3.9\\starlette\\convertors.meta.json": {
+      "checksum": "4f3db814138f7bf2d9d82c0226dd92e5"
+    },
+    ".mypy_cache\\3.9\\starlette\\datastructures.data.json": {
+      "checksum": "9a0802c0967e6aeb3159070786c586e8"
+    },
+    ".mypy_cache\\3.9\\starlette\\datastructures.meta.json": {
+      "checksum": "bb12ec5c62b56b005af534f275d0606f"
+    },
+    ".mypy_cache\\3.9\\starlette\\exceptions.data.json": {
+      "checksum": "0e2b75eb486edceaf90f94158ae6e6b4"
+    },
+    ".mypy_cache\\3.9\\starlette\\exceptions.meta.json": {
+      "checksum": "328a3a8104ff894b362f92a2f63c8da5"
+    },
+    ".mypy_cache\\3.9\\starlette\\formparsers.data.json": {
+      "checksum": "7478c9e37265c9184c177ab42d640b44"
+    },
+    ".mypy_cache\\3.9\\starlette\\formparsers.meta.json": {
+      "checksum": "67e0c497bce89ab2581d58625ebf4672"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\__init__.data.json": {
+      "checksum": "b3932baccee9ea18ff2693f2572f0d62"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\__init__.meta.json": {
+      "checksum": "c06d0c2491f7bb91a559b454a9f4927e"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\base.data.json": {
+      "checksum": "7fb6c0b7548cd30f4167cc14ab6384f2"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\base.meta.json": {
+      "checksum": "32ea3e8a5a0f1cecbd695c43eee5206d"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\errors.data.json": {
+      "checksum": "a8a82f1fe2cd87aef43960ea9f171ccd"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\errors.meta.json": {
+      "checksum": "cbfb14407ccad12f9bcf707ca2c0a30b"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\exceptions.data.json": {
+      "checksum": "3b285eda8bc047b8212f374c51871eae"
+    },
+    ".mypy_cache\\3.9\\starlette\\middleware\\exceptions.meta.json": {
+      "checksum": "f5f1e944d7967c09bfd3015c852ebe55"
+    },
+    ".mypy_cache\\3.9\\starlette\\requests.data.json": {
+      "checksum": "9174fd55bd80b1a50d0b97dbc9b1025e"
+    },
+    ".mypy_cache\\3.9\\starlette\\requests.meta.json": {
+      "checksum": "b4ae5b912dd180569f5d2821b69c447f"
+    },
+    ".mypy_cache\\3.9\\starlette\\responses.data.json": {
+      "checksum": "6e142df1e91a61cab4fc97b1f0302578"
+    },
+    ".mypy_cache\\3.9\\starlette\\responses.meta.json": {
+      "checksum": "9d9995a7576885772cc2df834735d916"
+    },
+    ".mypy_cache\\3.9\\starlette\\routing.data.json": {
+      "checksum": "910da4d00901ae5fa2387d2096a019bc"
+    },
+    ".mypy_cache\\3.9\\starlette\\routing.meta.json": {
+      "checksum": "85aa5db0463e714686efc5ed68cfe099"
+    },
+    ".mypy_cache\\3.9\\starlette\\staticfiles.data.json": {
+      "checksum": "6a49ea9f19db8d747c2d7070b3487be0"
+    },
+    ".mypy_cache\\3.9\\starlette\\staticfiles.meta.json": {
+      "checksum": "19c36b8fe3f8e932a1dff9def567587d"
+    },
+    ".mypy_cache\\3.9\\starlette\\types.data.json": {
+      "checksum": "bbd7931ed27ee2d495bba0535fc6ab84"
+    },
+    ".mypy_cache\\3.9\\starlette\\types.meta.json": {
+      "checksum": "1e24715a931ce10b1338752e9856a7f0"
+    },
+    ".mypy_cache\\3.9\\starlette\\websockets.data.json": {
+      "checksum": "dd60db6c8364e219b647e3bc87e7c340"
+    },
+    ".mypy_cache\\3.9\\starlette\\websockets.meta.json": {
+      "checksum": "19f2e428c74cbc8e93a563d2184eee3a"
+    },
+    ".mypy_cache\\3.9\\stat.data.json": {
+      "checksum": "3464ba5045c5045781fbb979dfdfbe5a"
+    },
+    ".mypy_cache\\3.9\\stat.meta.json": {
+      "checksum": "e602d6f614e7821b9dec92fa1d526aea"
+    },
+    ".mypy_cache\\3.9\\string.data.json": {
+      "checksum": "876257d89f15a69e861ee031456c220f"
+    },
+    ".mypy_cache\\3.9\\string.meta.json": {
+      "checksum": "3bab8c284058b45714c7fb8c9743de5d"
+    },
+    ".mypy_cache\\3.9\\struct.data.json": {
+      "checksum": "050e1e1fad40c7d7194631320726bbfb"
+    },
+    ".mypy_cache\\3.9\\struct.meta.json": {
+      "checksum": "5a43685bb2f51b97a3e12a5969cd11eb"
+    },
+    ".mypy_cache\\3.9\\subprocess.data.json": {
+      "checksum": "3e932d98fc06bc44235fa3c52e3a372b"
+    },
+    ".mypy_cache\\3.9\\subprocess.meta.json": {
+      "checksum": "0f26a482305d7acd0bba579803add892"
+    },
+    ".mypy_cache\\3.9\\sys.data.json": {
+      "checksum": "26c02cf552814cad02ce0cd2c916b6cb"
+    },
+    ".mypy_cache\\3.9\\sys.meta.json": {
+      "checksum": "b6f6bb39ab3b908fd191dde786df480f"
+    },
+    ".mypy_cache\\3.9\\tempfile.data.json": {
+      "checksum": "67678630aaf85cb5c6d272a1da7e04f4"
+    },
+    ".mypy_cache\\3.9\\tempfile.meta.json": {
+      "checksum": "f905a1fbb0a9f0f0954718fad42066f0"
+    },
+    ".mypy_cache\\3.9\\termios.data.json": {
+      "checksum": "575a7b30dcf671b225ce5547ae23fa44"
+    },
+    ".mypy_cache\\3.9\\termios.meta.json": {
+      "checksum": "0489a875e1785ad6a63516a4a25f9b2d"
+    },
+    ".mypy_cache\\3.9\\textwrap.data.json": {
+      "checksum": "fc99343f06b35de5df88b8e0fd01b73c"
+    },
+    ".mypy_cache\\3.9\\textwrap.meta.json": {
+      "checksum": "6eb64358b8d83e2bb030730a1b25dd1e"
+    },
+    ".mypy_cache\\3.9\\threading.data.json": {
+      "checksum": "8fd763f44a8e7e07bee8e04a9f6b3cdb"
+    },
+    ".mypy_cache\\3.9\\threading.meta.json": {
+      "checksum": "dd01e736fca82356239a06495d50405b"
+    },
+    ".mypy_cache\\3.9\\time.data.json": {
+      "checksum": "60486bffa2052e151ad84359738b1097"
+    },
+    ".mypy_cache\\3.9\\time.meta.json": {
+      "checksum": "03d74a4754e8efe9d95b6240c2ab9234"
+    },
+    ".mypy_cache\\3.9\\traceback.data.json": {
+      "checksum": "3af15eb1f9d5c6750c982a5c389c8a4d"
+    },
+    ".mypy_cache\\3.9\\traceback.meta.json": {
+      "checksum": "33806a9ca8ac0b24682c8f6fec7a318b"
+    },
+    ".mypy_cache\\3.9\\tty.data.json": {
+      "checksum": "695eff71053e654479a2c7424c0cb2ef"
+    },
+    ".mypy_cache\\3.9\\tty.meta.json": {
+      "checksum": "46fbb40c837b0e2f7c0490d7a2a11684"
+    },
+    ".mypy_cache\\3.9\\types.data.json": {
+      "checksum": "e5dd0b9d69653b12c603e5c60cc774da"
+    },
+    ".mypy_cache\\3.9\\types.meta.json": {
+      "checksum": "80efe12a9863adbce6a4d18b18da301b"
+    },
+    ".mypy_cache\\3.9\\typing.data.json": {
+      "checksum": "3bec1e5c58b0c2d5cb729df5ebb7c205"
+    },
+    ".mypy_cache\\3.9\\typing.meta.json": {
+      "checksum": "1d7faa8ae94bf0b4f60a6406da2bc925"
+    },
+    ".mypy_cache\\3.9\\typing_extensions.data.json": {
+      "checksum": "c37e96df186c34b978b0b7e6c9c506c3"
+    },
+    ".mypy_cache\\3.9\\typing_extensions.meta.json": {
+      "checksum": "856ef23fe32d9dbf9c2bb8e8a3c595d9"
+    },
+    ".mypy_cache\\3.9\\unicodedata.data.json": {
+      "checksum": "1eb6c850b64df63d5c7a1fcbe1eb84cd"
+    },
+    ".mypy_cache\\3.9\\unicodedata.meta.json": {
+      "checksum": "4fe3beb3155415f539e291a6056d72c9"
+    },
+    ".mypy_cache\\3.9\\unittest\\__init__.data.json": {
+      "checksum": "ea69b22666d9975b9fa7fa80d4a94403"
+    },
+    ".mypy_cache\\3.9\\unittest\\__init__.meta.json": {
+      "checksum": "5d3d3a0ffeb60c522d155e519da331b4"
+    },
+    ".mypy_cache\\3.9\\unittest\\_log.data.json": {
+      "checksum": "41f88b64e4bb6c17be702a5fbcf4a06a"
+    },
+    ".mypy_cache\\3.9\\unittest\\_log.meta.json": {
+      "checksum": "45afa4a9773ffc13a3c9b639411a8807"
+    },
+    ".mypy_cache\\3.9\\unittest\\async_case.data.json": {
+      "checksum": "0962f278284e5a5367e857051cb2a4f4"
+    },
+    ".mypy_cache\\3.9\\unittest\\async_case.meta.json": {
+      "checksum": "794828abd519b989761d5b188601d34d"
+    },
+    ".mypy_cache\\3.9\\unittest\\case.data.json": {
+      "checksum": "6b679ff866a948fdd84fff0199ed20bf"
+    },
+    ".mypy_cache\\3.9\\unittest\\case.meta.json": {
+      "checksum": "b8a22f768c29a978ca43d023868445cf"
+    },
+    ".mypy_cache\\3.9\\unittest\\loader.data.json": {
+      "checksum": "79dfd7fa73e2203097fa4bad486345ff"
+    },
+    ".mypy_cache\\3.9\\unittest\\loader.meta.json": {
+      "checksum": "7cea46e102825020ad65e2e6565f720f"
+    },
+    ".mypy_cache\\3.9\\unittest\\main.data.json": {
+      "checksum": "24e992d5f6b95712620233aa2c7cdac8"
+    },
+    ".mypy_cache\\3.9\\unittest\\main.meta.json": {
+      "checksum": "43348a54477359c2312aa8fc63128ae1"
+    },
+    ".mypy_cache\\3.9\\unittest\\result.data.json": {
+      "checksum": "7f99ace815b42dddc0c06b19cc0be060"
+    },
+    ".mypy_cache\\3.9\\unittest\\result.meta.json": {
+      "checksum": "ccb27f51c731f43c843fa247adb686f5"
+    },
+    ".mypy_cache\\3.9\\unittest\\runner.data.json": {
+      "checksum": "bbd278c3b0a834872425e4b62968dabb"
+    },
+    ".mypy_cache\\3.9\\unittest\\runner.meta.json": {
+      "checksum": "5aa2467d22298754d8e3f75e3f237143"
+    },
+    ".mypy_cache\\3.9\\unittest\\signals.data.json": {
+      "checksum": "55b12db03c772460eef71812b0314d7f"
+    },
+    ".mypy_cache\\3.9\\unittest\\signals.meta.json": {
+      "checksum": "0680668bf0da4d918d0bcb24c422e9ad"
+    },
+    ".mypy_cache\\3.9\\unittest\\suite.data.json": {
+      "checksum": "91ae84a9042cfb5f12fc6b35f4a719b1"
+    },
+    ".mypy_cache\\3.9\\unittest\\suite.meta.json": {
+      "checksum": "ae7c134aa8373fd80f574734027ce700"
+    },
+    ".mypy_cache\\3.9\\urllib\\__init__.data.json": {
+      "checksum": "6fc327814157d1128a1d4cca4853e71d"
+    },
+    ".mypy_cache\\3.9\\urllib\\__init__.meta.json": {
+      "checksum": "f7278c46a3259defe2b544692e3aade5"
+    },
+    ".mypy_cache\\3.9\\urllib\\parse.data.json": {
+      "checksum": "b3442aa45e3665a12369c4368df05077"
+    },
+    ".mypy_cache\\3.9\\urllib\\parse.meta.json": {
+      "checksum": "c2394f3a26e9b98f460ca057da25f16f"
+    },
+    ".mypy_cache\\3.9\\uuid.data.json": {
+      "checksum": "bea79cf2cdcb6d5e980b27840216dcf0"
+    },
+    ".mypy_cache\\3.9\\uuid.meta.json": {
+      "checksum": "d9a7e139be2303e52b01ad5af01324c1"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\__init__.data.json": {
+      "checksum": "64d1f8e2b0c18876361941e2e4147993"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\__init__.meta.json": {
+      "checksum": "513cb2cc97c16946006a33956ee0a28d"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\_subprocess.data.json": {
+      "checksum": "b2e6d1d6e4c29dee4adad93b80e8df5c"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\_subprocess.meta.json": {
+      "checksum": "fca3adacfa8236ef630d65b72fadbad7"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\_types.data.json": {
+      "checksum": "9be73b79790501c7c1148870a03e6d68"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\_types.meta.json": {
+      "checksum": "e9e075003f3ba08ea1bf67a4b9f35852"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\config.data.json": {
+      "checksum": "2a14c4400852c083fcaf800b3e65c123"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\config.meta.json": {
+      "checksum": "3f533ad43575dd7f3d3bc4e66c61ad10"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\importer.data.json": {
+      "checksum": "e960f1157214a5fbb922799891cdb620"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\importer.meta.json": {
+      "checksum": "229778c703309f5f821a50b615236850"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\logging.data.json": {
+      "checksum": "d6c2409eb20d85bc3b9638f96d0916d6"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\logging.meta.json": {
+      "checksum": "c425d79f19eb2653fe0943ab6a368ec2"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\main.data.json": {
+      "checksum": "d877430a7dacf6ac1c423854b474919f"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\main.meta.json": {
+      "checksum": "e05d1041ec41caa67e91aefca0169a14"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\__init__.data.json": {
+      "checksum": "74ff74c840fb0eee2f9b8ec9e38d1ebe"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\__init__.meta.json": {
+      "checksum": "aa2e35935ad58ddd4867d3d0ff6c17cc"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\asgi2.data.json": {
+      "checksum": "acc98e5e1ccc364f9d5f8ba932d2227f"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\asgi2.meta.json": {
+      "checksum": "5ab7256d129988042c8baaea571760b9"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\message_logger.data.json": {
+      "checksum": "0938e15137af720881ec2625049a0f3f"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\message_logger.meta.json": {
+      "checksum": "afc2fe5d8a62929f86e34aef68cfade0"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\proxy_headers.data.json": {
+      "checksum": "3f417a1f885376bf6cba4fd407968b4e"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\proxy_headers.meta.json": {
+      "checksum": "e04e16aee537f07b18dae09469aa96e3"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\wsgi.data.json": {
+      "checksum": "651de1c9bdb81457b5dace66f58593ff"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\middleware\\wsgi.meta.json": {
+      "checksum": "ce042d937c116c771b36319af8416414"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\__init__.data.json": {
+      "checksum": "5b4f698dee332b5ba7e58581788356a0"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\__init__.meta.json": {
+      "checksum": "96fa2c361c849a740d89b80cead7e1cb"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\__init__.data.json": {
+      "checksum": "13eb27caab377ebf744dc9a79f8db461"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\__init__.meta.json": {
+      "checksum": "768a106fd2767fd27d99d2c655d36cad"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\flow_control.data.json": {
+      "checksum": "8bb8bf0d6c4306cc8d79c719bc3770a8"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\flow_control.meta.json": {
+      "checksum": "50dd64e2aaa2f2a0ac4c6bd460aa2f54"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\h11_impl.data.json": {
+      "checksum": "28ecd4fa10403c9fc15e342c6ed467df"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\h11_impl.meta.json": {
+      "checksum": "5f506af31a73670a7a51d957b335bad1"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\httptools_impl.data.json": {
+      "checksum": "8ebc561aed5093baa5da6174153f79eb"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\http\\httptools_impl.meta.json": {
+      "checksum": "0621bfe720bcbb930e130d5fc86401bf"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\utils.data.json": {
+      "checksum": "96be2162b151245c6c46948d8910ba48"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\utils.meta.json": {
+      "checksum": "ccae925d7c95ab05c27670912005052b"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\websockets\\__init__.data.json": {
+      "checksum": "53b5f19909366b6b4a69b1e7042eb920"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\websockets\\__init__.meta.json": {
+      "checksum": "b74d3fbf18b81b1fa67a40016e1dd79f"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\websockets\\websockets_impl.data.json": {
+      "checksum": "d1c939207097729652d4dfe0e3be7618"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\websockets\\websockets_impl.meta.json": {
+      "checksum": "59f3861f02e75fd357e3a17d4167d91f"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\websockets\\wsproto_impl.data.json": {
+      "checksum": "87e9dac0381e638b6dac43a0c2b9d547"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\protocols\\websockets\\wsproto_impl.meta.json": {
+      "checksum": "29aa3d8eb40727529a66a0d55089ad96"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\server.data.json": {
+      "checksum": "c42e7537864998f4ee1aa7bed1411587"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\server.meta.json": {
+      "checksum": "7ddca5371a099cefaf15395ccac77892"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\supervisors\\__init__.data.json": {
+      "checksum": "19660ce6fc9bc94f98bbf31b9f4dcee2"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\supervisors\\__init__.meta.json": {
+      "checksum": "d28a1e2ac65ecab1197c0d2b64772e81"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\supervisors\\basereload.data.json": {
+      "checksum": "9dddb30fd277c0bd8c53e2d5b2abc1c9"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\supervisors\\basereload.meta.json": {
+      "checksum": "48cb60ee7473863261232aaa5dee848b"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\supervisors\\multiprocess.data.json": {
+      "checksum": "e5edb8f35aa845709fcac63df6d667c7"
+    },
+    ".mypy_cache\\3.9\\uvicorn\\supervisors\\multiprocess.meta.json": {
+      "checksum": "c6e9f19889b9b8eee16b62731eb388bc"
+    },
+    ".mypy_cache\\3.9\\warnings.data.json": {
+      "checksum": "f3cee84889a5d75a5a8ff830cb33cf0e"
+    },
+    ".mypy_cache\\3.9\\warnings.meta.json": {
+      "checksum": "cad0bc9f579c05928d6b7d984aa7d9c3"
+    },
+    ".mypy_cache\\3.9\\weakref.data.json": {
+      "checksum": "dc74342c5fd8786147087fd8ca248988"
+    },
+    ".mypy_cache\\3.9\\weakref.meta.json": {
+      "checksum": "275b63ffc58227d3efe2a17fbb7fd292"
+    },
+    ".mypy_cache\\3.9\\webbrowser.data.json": {
+      "checksum": "7e6acd535ae9ee79a01efa4fe947c99f"
+    },
+    ".mypy_cache\\3.9\\webbrowser.meta.json": {
+      "checksum": "cf49150fd6654b59cbda4ce61190604e"
+    },
+    ".mypy_cache\\3.9\\websockets\\__init__.data.json": {
+      "checksum": "f94ce6d3d745b3037b7311934ff40bb4"
+    },
+    ".mypy_cache\\3.9\\websockets\\__init__.meta.json": {
+      "checksum": "6b0425e4afd881747a265fe18a68bec5"
+    },
+    ".mypy_cache\\3.9\\websockets\\client.data.json": {
+      "checksum": "e66357b2fe499c278c9f2dba74345822"
+    },
+    ".mypy_cache\\3.9\\websockets\\client.meta.json": {
+      "checksum": "495b7e71e1a565dc64e87a403969a46f"
+    },
+    ".mypy_cache\\3.9\\websockets\\connection.data.json": {
+      "checksum": "cb2a6ac7acb2a0b991889c384ce9ea27"
+    },
+    ".mypy_cache\\3.9\\websockets\\connection.meta.json": {
+      "checksum": "8a30123146088bb9ccb55bb91f80d46d"
+    },
+    ".mypy_cache\\3.9\\websockets\\datastructures.data.json": {
+      "checksum": "008abc71cd73dc22af2ff573829584c3"
+    },
+    ".mypy_cache\\3.9\\websockets\\datastructures.meta.json": {
+      "checksum": "2dca329fbb1d72ade2db7e389303662a"
+    },
+    ".mypy_cache\\3.9\\websockets\\exceptions.data.json": {
+      "checksum": "c765003042917dbfd82f0a5f95f996c5"
+    },
+    ".mypy_cache\\3.9\\websockets\\exceptions.meta.json": {
+      "checksum": "8f1ddd3125c0322a0443befe0cf5664d"
+    },
+    ".mypy_cache\\3.9\\websockets\\extensions\\__init__.data.json": {
+      "checksum": "1c5afad45d5c4aff8b8f70b3dd69b9c2"
+    },
+    ".mypy_cache\\3.9\\websockets\\extensions\\__init__.meta.json": {
+      "checksum": "6df027ee1583dd887e302090df056f97"
+    },
+    ".mypy_cache\\3.9\\websockets\\extensions\\base.data.json": {
+      "checksum": "dab9a875cd5c3dd1a103be4c167f9a27"
+    },
+    ".mypy_cache\\3.9\\websockets\\extensions\\base.meta.json": {
+      "checksum": "8ff0fe6243949d574519c23dbfcd57f5"
+    },
+    ".mypy_cache\\3.9\\websockets\\extensions\\permessage_deflate.data.json": {
+      "checksum": "fe239d2c7837595194deedd25f0bc2f6"
+    },
+    ".mypy_cache\\3.9\\websockets\\extensions\\permessage_deflate.meta.json": {
+      "checksum": "91a962dcaba25079408e1b7dc70ab312"
+    },
+    ".mypy_cache\\3.9\\websockets\\frames.data.json": {
+      "checksum": "50e71c8241e910af8f91697d56586954"
+    },
+    ".mypy_cache\\3.9\\websockets\\frames.meta.json": {
+      "checksum": "dbdc98fa664629b44cab144f964f7ec6"
+    },
+    ".mypy_cache\\3.9\\websockets\\headers.data.json": {
+      "checksum": "7b4ec8cc899ad250313e1becce8dedc8"
+    },
+    ".mypy_cache\\3.9\\websockets\\headers.meta.json": {
+      "checksum": "ade97cb52c49044aa1f46a574f6390aa"
+    },
+    ".mypy_cache\\3.9\\websockets\\http.data.json": {
+      "checksum": "179b32f9a42ebd3a9de383c059014f65"
+    },
+    ".mypy_cache\\3.9\\websockets\\http.meta.json": {
+      "checksum": "1552116d0b2262191a1d58e6e07a4fa7"
+    },
+    ".mypy_cache\\3.9\\websockets\\http11.data.json": {
+      "checksum": "c3ac275589c45ca48b47f3b01983650a"
+    },
+    ".mypy_cache\\3.9\\websockets\\http11.meta.json": {
+      "checksum": "683b23bbc5dee13bce73cff5bad0299a"
+    },
+    ".mypy_cache\\3.9\\websockets\\imports.data.json": {
+      "checksum": "605d02c47a9037ada1af467519c49d00"
+    },
+    ".mypy_cache\\3.9\\websockets\\imports.meta.json": {
+      "checksum": "b09103b6707c253ddd2b4beea1c4c2d5"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\__init__.data.json": {
+      "checksum": "d6f1fee6413e4c896c1c7c1962d79ed4"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\__init__.meta.json": {
+      "checksum": "09955ddc355d1852108a0204fd4e1cc4"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\client.data.json": {
+      "checksum": "3032adc70f95d12ed7c2daaeeb3f51ac"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\client.meta.json": {
+      "checksum": "78c24a7986b6aed37c2dfff833ee4d7d"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\compatibility.data.json": {
+      "checksum": "46a126f828b003c01636e4339495135a"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\compatibility.meta.json": {
+      "checksum": "83ea25e3d619f56fdc6f99c6339a0c08"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\framing.data.json": {
+      "checksum": "109ed6f53fb492cad341a74903a1e3ec"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\framing.meta.json": {
+      "checksum": "602e6e5cc643e443c02d9279d27ccd95"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\handshake.data.json": {
+      "checksum": "cb6a3de4d9b8b1b2e8ca66a1cef8c21f"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\handshake.meta.json": {
+      "checksum": "0d879862e077d4aa42609cb9d921744e"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\http.data.json": {
+      "checksum": "1f217bb000b9bb2a3498a1533a3009ba"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\http.meta.json": {
+      "checksum": "3dea43e3f9d4fe27be4ccf6a4883d917"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\protocol.data.json": {
+      "checksum": "c8ea4df2dc2486063a792515ef3cd79b"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\protocol.meta.json": {
+      "checksum": "953d7ce167ce9cd1c95c9baaba010b2d"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\server.data.json": {
+      "checksum": "33e544daec1a8afc5954abf6f76ae7ed"
+    },
+    ".mypy_cache\\3.9\\websockets\\legacy\\server.meta.json": {
+      "checksum": "b91e33aac988dd82267c77651fdb4146"
+    },
+    ".mypy_cache\\3.9\\websockets\\server.data.json": {
+      "checksum": "14007bc612c0a3026cdf52d7c8d36c1e"
+    },
+    ".mypy_cache\\3.9\\websockets\\server.meta.json": {
+      "checksum": "df5e971558a09dea2ee36699da951958"
+    },
+    ".mypy_cache\\3.9\\websockets\\streams.data.json": {
+      "checksum": "47d44019f4d09dd5c2aaf935f5df74e9"
+    },
+    ".mypy_cache\\3.9\\websockets\\streams.meta.json": {
+      "checksum": "75616dd609d8253a488a509bf0228c4c"
+    },
+    ".mypy_cache\\3.9\\websockets\\typing.data.json": {
+      "checksum": "825dbe69bf9b30f2ca2a53a3e8ada244"
+    },
+    ".mypy_cache\\3.9\\websockets\\typing.meta.json": {
+      "checksum": "c4233839275f73ff6a571848af3526bb"
+    },
+    ".mypy_cache\\3.9\\websockets\\uri.data.json": {
+      "checksum": "d6a0e436226ee4a2d810979939d9ab79"
+    },
+    ".mypy_cache\\3.9\\websockets\\uri.meta.json": {
+      "checksum": "8552bf2e450ba4908b069b16dc0673d7"
+    },
+    ".mypy_cache\\3.9\\websockets\\utils.data.json": {
+      "checksum": "3a2f01543528b0d4123ba7d1dad76e43"
+    },
+    ".mypy_cache\\3.9\\websockets\\utils.meta.json": {
+      "checksum": "ecfb8064eb0311cb4c251e7d079d8aea"
+    },
+    ".mypy_cache\\3.9\\websockets\\version.data.json": {
+      "checksum": "74a07de74a83906a2ac7e16e14485763"
+    },
+    ".mypy_cache\\3.9\\websockets\\version.meta.json": {
+      "checksum": "fef3ebbe5fbaac1af3e55bc38dd9267a"
+    },
+    ".mypy_cache\\3.9\\wsproto\\__init__.data.json": {
+      "checksum": "31819a3c8d0daad40b47e77246a0f68a"
+    },
+    ".mypy_cache\\3.9\\wsproto\\__init__.meta.json": {
+      "checksum": "e8ae5e73ceeec4645a58cddeb4cbccbe"
+    },
+    ".mypy_cache\\3.9\\wsproto\\connection.data.json": {
+      "checksum": "0066453f72333a5d216bcabbc17606a7"
+    },
+    ".mypy_cache\\3.9\\wsproto\\connection.meta.json": {
+      "checksum": "622022659ca821f85026d67d4a9e91a7"
+    },
+    ".mypy_cache\\3.9\\wsproto\\events.data.json": {
+      "checksum": "63f8161a29f4ef226ab4ab819a154f53"
+    },
+    ".mypy_cache\\3.9\\wsproto\\events.meta.json": {
+      "checksum": "f83f8610eede55f953b656c4703e44da"
+    },
+    ".mypy_cache\\3.9\\wsproto\\extensions.data.json": {
+      "checksum": "a7adff159a26700477c80a502a1eb1d1"
+    },
+    ".mypy_cache\\3.9\\wsproto\\extensions.meta.json": {
+      "checksum": "8b9bd75d8fe3553e02a0ea7d3b3955aa"
+    },
+    ".mypy_cache\\3.9\\wsproto\\frame_protocol.data.json": {
+      "checksum": "f115f1ed937074acb7038f0bd56d44c8"
+    },
+    ".mypy_cache\\3.9\\wsproto\\frame_protocol.meta.json": {
+      "checksum": "326870b9c04a231f8b6725b6970d5d2f"
+    },
+    ".mypy_cache\\3.9\\wsproto\\handshake.data.json": {
+      "checksum": "938557cccfb477d926a8853d2926a378"
+    },
+    ".mypy_cache\\3.9\\wsproto\\handshake.meta.json": {
+      "checksum": "94f3751b4e265598b52d384ad14fb261"
+    },
+    ".mypy_cache\\3.9\\wsproto\\typing.data.json": {
+      "checksum": "d59c95d39122d95f7f1f9e50eeec890a"
+    },
+    ".mypy_cache\\3.9\\wsproto\\typing.meta.json": {
+      "checksum": "3a745629b5358955730455b1f1ac5b11"
+    },
+    ".mypy_cache\\3.9\\wsproto\\utilities.data.json": {
+      "checksum": "e43e5a46fc86d2ffdf08c43f9f3b28eb"
+    },
+    ".mypy_cache\\3.9\\wsproto\\utilities.meta.json": {
+      "checksum": "1397e68082bdbc6a53ef613100e3d018"
+    },
+    ".mypy_cache\\3.9\\zipfile.data.json": {
+      "checksum": "9a13926841484b47129188d6ac81443c"
+    },
+    ".mypy_cache\\3.9\\zipfile.meta.json": {
+      "checksum": "71688c00bde09c79d98ca5f7345b3670"
+    },
+    ".mypy_cache\\3.9\\zlib.data.json": {
+      "checksum": "b0ac3e5a5b4a2ead35d50ae6a79d91b1"
+    },
+    ".mypy_cache\\3.9\\zlib.meta.json": {
+      "checksum": "694fc4145d5cc248860523149770d7a4"
+    },
+    ".mypy_cache\\CACHEDIR.TAG": {
+      "checksum": "c332600979913da5c327d8ea89eeba23"
+    },
+    "Exploratory Data Analysis.ipynb": {
+      "checksum": "4114e35df6011f4ded0ffd3497be8c55"
+    },
+    "Introduction to ETL Python.pdf": {
+      "checksum": "4b796d713fe928c07fa9f64c4d8fb22b"
+    },
+    "Model.ipynb": {
+      "checksum": "f4c281d8ad7be34102154af085a0ed4c"
+    },
+    "Web Scraping Script for Tennis Rackets.ipynb": {
+      "checksum": "c7808634e441f19b5042adda75013121"
+    },
+    "__pycache__\\app.cpython-39.pyc": {
+      "checksum": "26c7e17c7e9ec541b6efffd99f038027"
+    },
+    "app.py": {
+      "checksum": "15057b52e340106ed117d347976c51a8"
+    },
+    "model_jlib": {
+      "checksum": "03e9f6e9daf5083eb9c76a3aba56a3a0"
+    },
+    "pca_jlib": {
+      "checksum": "7b64aaa29236481c7b05914dd4b1fe20"
+    },
+    "racket_data_cleaned.csv": {
+      "checksum": "5969ff7ff623b771a2df2388a5c868d5"
+    },
+    "racquet_data.csv": {
+      "checksum": "4a341096aa8b207c5d7c460a2e04bfa2"
+    },
+    "scaler_jlib": {
+      "checksum": "9406924501f78a68e0b816044b013838"
+    }
+  }
+}

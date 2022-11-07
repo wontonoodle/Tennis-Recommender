@@ -1,0 +1,773 @@
+,Manufacturer,Name,Headsize (sq_inch),Length (inn),Strung Weight (oz),Balance,Swingweight,Beamwidth,Power Level,Stiffness,Stringing Pattern,HL or HH,Points of Balance,new_old
+1,Babolat,Babolat Pure Storm Team,98,27,11,3pts HL,326,21,0,64,16 Mains/20 Crosses,Head Light,3,Classic
+3,Babolat,Babolat Pure Storm Team MP,103,27,10.7,1pts HH,329,22.5,1,67,16 Mains/20 Crosses,Head Heavy,1,Classic
+4,Babolat,Babolat Pure Control Team Plus Midplus,100,27.5,11.6,8pts HL,338,21.5,0,64,16 Mains/20 Crosses,Head Light,8,Classic
+7,Babolat,Babolat Pure Storm Tour Plus,98,27.5,11.8,9pts HL,336,21,0,62,16 Mains/20 Crosses,Head Light,9,Classic
+8,Babolat,Babolat Drive Z Oversize,110,27.5,10.1,5pts HH,327,27,2,64,16 Mains/20 Crosses,Head Heavy,5,Classic
+9,Babolat,Babolat Pure Storm Tour,98,27,11.8,6pts HL,333,21,0,63,16 Mains/20 Crosses,Head Light,6,Classic
+10,Babolat,Babolat Pure Drive Plus Cortex,100,27.5,11.2,5pts HL,338,23,0,70,16 Mains/19 Crosses,Head Light,5,Classic
+11,Babolat,Babolat Pure Drive 110,110,27.5,10.8,0pts EB,329,27,1,67,16 Mains/20 Crosses,Head Heavy,0,Classic
+12,Babolat,Babolat  Pure Storm,98,27,10.9,3pts HL,312,21,0,62,16 Mains/20 Crosses,Head Light,3,Classic
+15,Babolat,Babolat Pure Drive Oversize,110,27.5,10.3,2pts HL,325,27,1,69,16 Mains/20 Crosses,Head Light,2,Classic
+18,Babolat,Babolat Pure Drive Roddick Plus,100,27.5,11.7,5pts HL,340,26,0,71,16 Mains/19 Crosses,Head Light,5,Classic
+20,Babolat,Babolat Drive Z 110,110,27.5,9.8,6pts HH,321,27,2,66,16 Mains/20 Crosses,Head Heavy,6,Classic
+25,Babolat,Babolat Pure Drive Roddick,100,27,11.7,5pts HL,330,26,0,71,16 Mains/19 Crosses,Head Light,5,Classic
+26,Babolat,Babolat Pure Power Zylon 360,102,27,10.5,2pts HL,306,22.5,0,68,16 Mains/20 Crosses,Head Light,2,Classic
+27,Babolat,Babolat Drive Z 118,118,27.5,9.9,5pts HH,319,28,2,68,16 Mains/20 Crosses,Head Heavy,5,Classic
+28,Babolat,Babolat Pure Drive 107 GT,107,27.2,10.3,3pts HL,313,25,0,69,16 Mains/19 Crosses,Head Light,3,Classic
+29,Babolat,Babolat Pure Drive Roddick Junior (4-1/8),100,26.5,9.9,1pts HH,298,26,1,62,16 Mains/19 Crosses,Head Heavy,1,Classic
+30,Babolat,Babolat VS NCT Control,104,27.2,9.6,4pts HH,298,22,1,68,16 Mains/18 Crosses,Head Heavy,4,Classic
+34,Babolat,Babolat Pure Drive Roddick Junior (4 Even),100,26.5,9.8,0pts EB,290,27,1,64,16 Mains/19 Crosses,Head Heavy,0,Classic
+35,Babolat,Babolat Pure Junior,100,26,9.8,4pts HL,252,23,0,59,16 Mains/19 Crosses,Head Light,4,Classic
+43,Babolat,Babolat Drive Z-Lite,100,27,9.8,7pts HH,325,26,1,67,16 Mains/19 Crosses,Head Heavy,7,Classic
+44,Babolat,Babolat Drive Z-Lite Cortex,100,27,9.8,6pts HH,312,26,1,67,16 Mains/19 Crosses,Head Heavy,6,Classic
+45,Babolat,Babolat Drive Z-MAX,108,27.5,9.6,6pts HH,326,26,2,67,16 Mains/19 Crosses,Head Heavy,6,Classic
+46,Babolat,Babolat Drive Z-Tour,100,27,10.7,0pts EB,324,26,1,72,16 Mains/19 Crosses,Head Heavy,0,Classic
+48,Babolat,Babolat NCT Tour,100,27,10.3,1pts HL,300,23.5,0,71,16 Mains/18 Crosses,Head Light,1,Classic
+49,Babolat,Babolat Pure Control 2001,97,27,12.3,6pts HL,336,21.5,0,72,16 Mains/20 Crosses,Head Light,6,Classic
+50,Babolat,Babolat Pure Control 2003,98,27,11.8,7pts HL,327,21.5,0,70,16 Mains/20 Crosses,Head Light,7,Classic
+51,Babolat,Babolat Pure Control Plus 2001,97,27.5,12.3,8pts HL,350,21.5,0,71,16 Mains/20 Crosses,Head Light,8,Classic
+52,Babolat,Babolat Pure Control Plus 2003,98,27.5,11.9,10pts HL,332,21.5,0,68,16 Mains/20 Crosses,Head Light,1,Classic
+53,Babolat,Babolat Pure Control Team Midplus 2002,100,27,11.6,5pts HL,318,21.5,0,65,16 Mains/20 Crosses,Head Light,5,Classic
+54,Babolat,Babolat Pure Control Zylon 360,97,27,11,3pts HL,319,21.5,0,67,16 Mains/20 Crosses,Head Light,3,Classic
+55,Babolat,Babolat Pure Control Zylon 360 Plus,97,27.5,11,6pts HL,317,21.5,0,67,16 Mains/20 Crosses,Head Light,6,Classic
+56,Babolat,Babolat Pure Drive Plus,100,27.5,11.2,5pts HL,338,25,0,70,16 Mains/19 Crosses,Head Light,5,Classic
+60,Babolat,Babolat Pure Power Zylon 360 Plus,102,27.5,10.6,3pts HL,310,22.5,0,68,16 Mains/20 Crosses,Head Light,3,Classic
+61,Babolat,Babolat VS Control,98,27,11.7,6pts HL,324,21.5,0,68,16 Mains/20 Crosses,Head Light,6,Classic
+63,Babolat,Babolat VS Nanotube Drive,112,27.5,9.5,14pts HH,351,28,2,72,16 Mains/19 Crosses,Head Heavy,1,Classic
+64,Babolat,Babolat VS Nanotube Power,116,27.5,9.3,13pts HH,332,28,2,73,16 Mains/18 Crosses,Head Heavy,1,Classic
+68,Babolat,Babolat Pure Storm Ltd GT ,95,27,11.9,9pts HL,313,19,0,59,18 Mains/20 Crosses,Head Light,9,Classic
+69,Babolat,Babolat XS 105,105,27,9.9,3pts HH,324,24,2,64,16 Mains/20 Crosses,Head Heavy,3,Classic
+70,Babolat,Babolat XS 102,102,27,10,4pts HH,322,24,1,66,16 Mains/20 Crosses,Head Heavy,4,Classic
+71,Babolat,Babolat Pure Storm Ltd.,95,27,11.8,8pts HL,305,19,0,62,18 Mains/20 Crosses,Head Light,8,Classic
+72,Babolat,Babolat Pure Drive Roddick GT,100,27,11.8,5pts HL,334,26,0,72,16 Mains/19 Crosses,Head Light,5,Classic
+73,Babolat,Babolat Pure Drive GT,100,27,11.2,4pts HL,327,26,0,70,16 Mains/19 Crosses,Head Light,4,Classic
+76,Babolat,Babolat Aero Strike,100,27,10.2,2pts HH,314,25,1,61,16 Mains/20 Crosses,Head Heavy,2,Classic
+77,Babolat,Babolat Aero Storm Cortex,98,27,11.1,4pts HL,325,21,0,65,16 Mains/20 Crosses,Head Light,4,Classic
+78,Babolat,Babolat Pure Storm Tour+ GT,98,27.5,12.1,8pts HL,349,21,0,61,16 Mains/20 Crosses,Head Light,8,Classic
+79,Babolat,Babolat Pure Storm GT,98,27,11,1pts HL,327,21,0,63,16 Mains/20 Crosses,Head Light,1,Classic
+80,Babolat,Babolat Pure Storm Tour GT,98,27,12.1,8pts HL,333,21,0,64,16 Mains/20 Crosses,Head Light,8,Classic
+81,Babolat,Babolat Drive Z 110,110,27.5,9.8,3pts HH,317,27,2,64,16 Mains/20 Crosses,Head Heavy,3,Classic
+82,Babolat,Babolat Pure Drive Lite GT,100,27,10.5,2pts HL,309,25,1,67,16 Mains/19 Crosses,Head Light,2,Classic
+83,Babolat,Babolat Pure Drive Roddick GT Plus,100,27.5,11.7,7pts HL,336,26,0,71,16 Mains/19 Crosses,Head Light,7,Classic
+84,Babolat,Babolat Aero Storm Tour Cortex,98,27,12.1,6pts HL,340,21,0,66,16 Mains/20 Crosses,Head Light,6,Classic
+85,Babolat,Babolat Pure Drive GT Plus,100,27.5,11.2,6pts HL,330,25,0,70,16 Mains/19 Crosses,Head Light,6,Classic
+86,Babolat,Babolat Y 112 LTD,112,27.5,10.2,3pts HH,328,23,2,68,16 Mains/19 Crosses,Head Heavy,3,Classic
+87,Babolat,Babolat Y 112,112,27.5,9.6,7pts HH,324,23,2,66,16 Mains/79 Crosses,Head Heavy,7,Classic
+88,Babolat,Babolat Y 112 Smart Grip,112,27.5,9.6,4pts HH,324,23,2,66,16 Mains/19 Crosses,Head Heavy,4,Classic
+89,Babolat,Babolat Y 118,118,27.5,9.6,6pts HH,321,23,2,67,16 Mains/19 Crosses,Head Heavy,6,Classic
+90,Babolat,Babolat Y 118 Smart Grip,118,27.5,9.6,6pts HH,321,23,2,67,16 Mains/19 Crosses,Head Heavy,6,Classic
+91,Babolat,Babolat AeroPro Drive GT,100,27,11.3,4pts HL,331,26,0,70,16 Mains/19 Crosses,Head Light,4,Classic
+92,Babolat,Babolat AeroPro Lite GT,100,27,9.9,3pts HH,315,26,1,72,16 Mains/19 Crosses,Head Heavy,3,Classic
+93,Babolat,Babolat Aero Storm GT,98,27,11.4,3pts HL,334,21.5,0,67,16 Mains/20 Crosses,Head Light,3,Classic
+94,Babolat,Babolat Aero Storm Tour GT,98,27,11.9,6pts HL,330,21.5,0,68,16 Mains/20 Crosses,Head Light,6,Classic
+95,Babolat,Babolat AeroPro Team GT,100,27,10.6,0pts EB,315,26.5,1,69,16 Mains/19 Crosses,Head Heavy,0,Classic
+96,Babolat,Babolat AeroPro Drive GT Plus,100,27.5,11.2,6pts HL,339,26,0,69,16 Mains/19 Crosses,Head Light,6,Classic
+97,Babolat,Babolat XS 102,102,27,10.1,5pts HH,328,30,2,66,16 Mains/20 Crosses,Head Heavy,5,Classic
+98,Babolat,Babolat XS 109,109,27.2,9.5,7pts HH,325,33,1,61,16 Mains/20 Crosses,Head Heavy,7,Classic
+99,Babolat,Babolat Pure Drive Roddick Junior 26 (Even),100,26,9.4,2pts HH,271,26,1,66,16 Mains/19 Crosses,Head Heavy,2,Classic
+100,Wilson,Wilson KFive 98,98,27.25,10.3,8pts HH,345,26,1,51,16 Mains/20 Crosses,Head Heavy,8,Classic
+101,Wilson,Wilson KFive 108,108,27.25,10.3,9pts HH,346,26,2,50,16 Mains/20 Crosses,Head Heavy,9,Classic
+102,Wilson,Wilson n5 Force Oversize,110,27.25,10.1,10pts HH,335,26.5,1,55,16 Mains/20 Crosses,Head Heavy,1,Classic
+103,Wilson,Wilson nTour 105,105,27.25,10.5,2pts HH,344,24,1,65,16 Mains/20 Crosses,Head Heavy,2,Classic
+104,Wilson,Wilson nTour 95,95,27.25,10.7,0pts EB,330,22,1,61,16 Mains/20 Crosses,Head Heavy,0,Classic
+105,Wilson,Wilson nTour Two 105,105,27.25,10.4,3pts HH,339,24,1,65,16 Mains/20 Crosses,Head Heavy,3,Classic
+106,Wilson,Wilson n5 Force Midplus,98,27.25,9.8,9pts HH,322,25.5,1,55,16 Mains/20 Crosses,Head Heavy,9,Classic
+107,Wilson,Wilson nBlade Midplus,98,27,11.1,2pts HL,340,21,0,58,18 Mains/20 Crosses,Head Light,2,Classic
+108,Wilson,Wilson KTour,95,27.25,10.6,1pts HH,331,22,0,64,16 Mains/20 Crosses,Head Heavy,1,Classic
+109,Wilson,Wilson Hyper Hammer 6.2 Midplus,95,27.25,9.8,6pts HH,328,25,1,61,16 Mains/20 Crosses,Head Heavy,6,Classic
+112,Wilson,Wilson nVision,103,27.25,9.8,4pts HH,324,25,1,62,16 Mains/20 Crosses,Head Heavy,4,Classic
+113,Wilson,Wilson nTour Two nCode,95,27.25,10.6,1pts HL,320,22,0,62,16 Mains/20 Crosses,Head Light,1,Classic
+114,Wilson,Wilson nBlade Oversize,106,27.3,11.1,4pts HL,335,22,0,60,18 Mains/19 Crosses,Head Light,4,Classic
+115,Wilson,Wilson n4 Midplus,101,27.5,9.8,4pts HH,327,28,2,65,16 Mains/19 Crosses,Head Heavy,4,Classic
+116,Wilson,Wilson KSix-One Team,95,27,10.9,0pts EB,325,21,1,59,18 Mains/20 Crosses,Head Heavy,0,Classic
+117,Wilson,Wilson n3,113,27.5,9.7,7pts HH,328,30,2,47,16 Mains/19 Crosses,Head Heavy,7,Classic
+118,Wilson,Wilson W3 Gypsy Rose,113,27.5,9.7,7pts HH,328,31,2,47,16 Mains/19 Crosses,Head Heavy,7,Classic
+119,Wilson,Wilson KBlade Team,104,27.3,10.7,4pts HL,320,22,0,57,18 Mains/19 Crosses,Head Light,4,Classic
+120,Wilson,Wilson nPro Open X,100,27.5,11.3,8pts HL,328,26,0,66,16 Mains/19 Crosses,Head Light,8,Classic
+122,Wilson,Wilson KBlade 98,98,27,11.1,3pts HL,325,20,0,67,18 Mains/20 Crosses,Head Light,3,Classic
+123,Wilson,Wilson KFour 112,112,27.5,9.9,8pts HH,345,28,2,73,16 Mains/20 Crosses,Head Heavy,8,Classic
+124,Wilson,Wilson PS Blitz,100,27,9.9,2pts HH,307,26,0,57,16 Mains/19 Crosses,Head Heavy,2,Classic
+126,Wilson,Wilson ProStaff Tour 95,95,27,11.5,7pts HL,325,20,0,62,18 Mains/20 Crosses,Head Light,7,Classic
+128,Wilson,Wilson KFour 105,105,27.25,10.1,3pts HH,322,28,1,73,16 Mains/19 Crosses,Head Heavy,3,Classic
+129,Wilson,Wilson Hyper Hammer 6.2 Oversize,110,27.5,9.6,6pts HH,318,27,1,63,16 Mains/20 Crosses,Head Heavy,6,Classic
+130,Wilson,Wilson KZen,103,27.25,9.9,1pts HL,310,26,0,70,16 Mains/19 Crosses,Head Light,1,Classic
+131,Wilson,Wilson nSix-Two Oversize,113,27.5,10.2,1pts HL,325,28,1,69,16 Mains/20 Crosses,Head Light,1,Classic
+134,Wilson,Wilson KZen Team,103,27.25,10.2,1pts HH,312,26,1,70,16 Mains/19 Crosses,Head Heavy,1,Classic
+137,Wilson,Wilson nFury Two Midplus,100,27,10.1,2pts HL,294,22,0,50,16 Mains/20 Crosses,Head Light,2,Classic
+138,Wilson,Wilson  nSix-Two Midplus,100,27,10.5,4pts HL,302,26,0,65,16 Mains/19 Crosses,Head Light,4,Classic
+139,Wilson,Wilson nSix-One 95,95,27,12.2,10pts HL,330,22,0,65,16 Mains/18 Crosses,Head Light,1,Classic
+140,Wilson,Wilson KPro Open,100,27,11,5pts HL,306,26,0,66,16 Mains/19 Crosses,Head Light,5,Classic
+141,Wilson,Wilson KBlade Tour,93,27,11.8,8pts HL,323,20,0,65,18 Mains/20 Crosses,Head Light,8,Classic
+142,Wilson,Wilson KSix-One 95 (16x18),95,27,12.3,8pts HL,340,22,0,69,16 Mains/18 Crosses,Head Light,8,Classic
+143,Wilson,Wilson Ksting,105,27.25,9.6,1pts HH,298,26,1,58,16 Mains/19 Crosses,Head Heavy,1,Classic
+144,Wilson,Wilson KSurge,100,27,10.3,1pts HL,301,25,1,68,16 Mains/19 Crosses,Head Light,1,Classic
+145,Wilson,Wilson KSix-One 95 (18x20),95,27,12.3,8pts HL,340,22,0,69,18 Mains/20 Crosses,Head Light,8,Classic
+146,Wilson,Wilson  W4 Cobalt Storm,107,27.25,9.7,5pts HH,306,26,2,67,16 Mains/18 Crosses,Head Heavy,5,Classic
+147,Wilson,Wilson  W4 Red Fury,107,27.25,9.7,5pts HH,306,26,2,67,16 Mains/18 Crosses,Head Heavy,5,Classic
+148,Wilson,Wilson W4 Savage Lime,107,27.25,9.7,5pts HH,306,26,2,67,16 Mains/18 Crosses,Head Heavy,5,Classic
+149,Wilson,Wilson  W4 Savage Saphire,107,27.25,9.7,5pts HH,306,26,2,67,16 Mains/18 Crosses,Head Heavy,5,Classic
+150,Wilson,Wilson  W2 Black Whisper,117,27.5,9.5,6pts HH,318,27,2,65,16 Mains/18 Crosses,Head Heavy,6,Classic
+151,Wilson,Wilson  W2 Blue Shadow,117,27.5,9.5,6pts HH,318,27,2,65,16 Mains/18 Crosses,Head Heavy,6,Classic
+152,Wilson,Wilson  W2 Spicy Ruby,117,27.5,9.5,6pts HH,318,27,2,65,16 Mains/18 Crosses,Head Heavy,6,Classic
+153,Wilson,Wilson KSix-One 95 X,95,27.5,12.3,7pts HL,360,22,0,68,16 Mains/18 Crosses,Head Light,7,Classic
+154,Wilson,Wilson nPro ,98,27,11,4pts HL,308,23,0,68,18 Mains/18 Crosses,Head Light,4,Classic
+155,Wilson,Wilson H Cyclone,115,27.9,9.2,12pts HH,343,29,2,74,16 Mains/19 Crosses,Head Heavy,1,Classic
+156,Wilson,Wilson KPro Tour,96,27,11.4,8pts HL,300,24,0,62,16 Mains/20 Crosses,Head Light,8,Classic
+157,Wilson,Wilson H Rival Oversize,112,27.5,9,8pts HH,318,28,2,67,16 Mains/20 Crosses,Head Heavy,8,Classic
+158,Wilson,Wilson Pro Staff Trance Midplus,95,27,9.9,2pts HH,301,24,1,69,16 Mains/19 Crosses,Head Heavy,2,Classic
+159,Wilson,Wilson nPro Open nCode,100,27,11.1,6pts HL,302,26,0,68,16 Mains/19 Crosses,Head Light,6,Classic
+160,Wilson,Wilson KSix-One Tour 90,90,27,12.5,9pts HL,336,18,0,67,16 Mains/19 Crosses,Head Light,9,Classic
+163,Wilson,Wilson Prostaff 6.0 Original 95,95,27,12.2,10pts HL,317,20,0,67,16 Mains/18 Crosses,Head Light,1,Classic
+164,Wilson,Wilson nFury Oversize,110,27.5,9.6,0pts EB,303,26,1,67,16 Mains/19 Crosses,Head Heavy,0,Classic
+165,Wilson,Wilson KOne,122,27.5,9.3,12pts HH,328,27,2,72,16 Mains/19 Crosses,Head Heavy,1,Classic
+166,Wilson,Wilson Prostaff 6.0 Original 85,85,27,12.6,8pts HL,329,17,0,66,16 Mains/18 Crosses,Head Light,8,Classic
+167,Wilson,Wilson nFury Two Oversize,110,27.5,9.6,0pts EB,295,26,1,66,16 Mains/19 Crosses,Head Heavy,0,Classic
+169,Wilson,Wilson Pro Staff Trance Oversize,110,27,9.8,1pts HH,297,30,1,72,16 Mains/20 Crosses,Head Heavy,1,Classic
+170,Wilson,Wilson Hyper Hammer 5.3 Stretch Oversize,110,27.5,9,8pts HH,301,25,1,70,16 Mains/20 Crosses,Head Heavy,8,Classic
+179,Wilson,Wilson 3.2 Hammer PH Super Oversize,118,27,8.6,8pts HH,283,30,2,66,18 Mains/19 Crosses,Head Heavy,8,Classic
+181,Wilson,Wilson 3.8 Power Holes Oversize,112,28,9,12pts HH,356,30,2,76,18 Mains/19 Crosses,Head Heavy,1,Classic
+185,Wilson,Wilson 4.7 Prostaff Stretch EB Midplus,100,28,10.8,5pts HL,343,23,1,74,16 Mains/20 Crosses,Head Light,5,Classic
+192,Wilson,Wilson 5.8 Hammer Midplus,95,27,10.4,4pts HH,327,21,1,67,16 Mains/18 Crosses,Head Heavy,4,Classic
+193,Wilson,Wilson 5.8 Hammer Oversize,110,27,10.4,4pts HH,331,21,1,65,16 Mains/21 Crosses,Head Heavy,4,Classic
+198,Wilson,Wilson 6.2 Hammer Stretch Midplus,95,28,9.8,5pts HH,337,26,0,62,16 Mains/20 Crosses,Head Heavy,5,Classic
+200,Head,Head Flexpoint 6 Midplus,102,27.3,10.5,3pts HH,335,27,1,67,16 Mains/19 Crosses,Head Heavy,3,Classic
+201,Head,Head LiquidMetal 4,102,27.25,10.7,1pts HH,335,25,1,67,16 Mains/19 Crosses,Head Heavy,1,Classic
+202,Head,Head Flexpoint 6 Oversize,112,27.3,9.9,8pts HH,337,28,2,61,16 Mains/19 Crosses,Head Heavy,8,Classic
+203,Head,Head FXP Prestige Team,102,27,10.9,0pts EB,324,21,0,57,18 Mains/19 Crosses,Head Heavy,0,Classic
+204,Head,Head Flexpoint Radical Midplus - 2005,98,27,11.1,2pts HL,330,21,0,63,18 Mains/20 Crosses,Head Light,2,Classic
+205,Head,Head FXP Flexpoint Radical Team - 2005,102,27,10.4,1pts HH,314,22,0,59,16 Mains/19 Crosses,Head Heavy,1,Classic
+206,Head,Head Flexpoint Radical Oversize - 2005,107,27,11.3,4pts HL,334,21,0,58,18 Mains/19 Crosses,Head Light,4,Classic
+207,Head,Head Flexpoint 4,107,27.5,10.3,1pts HH,327,27,1,67,16 Mains/19 Crosses,Head Heavy,1,Classic
+208,Head,Head Protector Oversize,115,27.75,10.1,8pts HH,351,28,2,63,16 Mains/19 Crosses,Head Heavy,8,Classic
+209,Head,Head Liquidmetal Radical OS - 2003,107,27,11.2,3pts HL,330,21,0,58,18 Mains/19 Crosses,Head Light,3,Classic
+210,Head,Head Microgel Monster,102,27,10.4,3pts HH,320,25,0,66,16 Mains/19 Crosses,Head Heavy,3,Classic
+211,Head,Head Liquidmetal Instinct - 2003,100,27,11.2,4pts HL,329,25,0,63,18 Mains/19 Crosses,Head Light,4,Classic
+212,Head,Head Protector Midplus,102,27.5,9.7,6pts HH,322,26,1,65,16 Mains/19 Crosses,Head Heavy,6,Classic
+213,Head,Head Flexpoint Instinct - 2005,100,27,11.2,3pts HL,331,25,0,65,18 Mains/19 Crosses,Head Light,3,Classic
+214,Head,Head MicroGEL Radical MP - 2007,98,27,11,2pts HL,315,22,0,62,18 Mains/20 Crosses,Head Light,2,Classic
+215,Head,Head Liquidmetal Radical MP - 2003,98,27,11.2,4pts HL,325,21,0,64,18 Mains/20 Crosses,Head Light,4,Classic
+216,Head,Head LiquidMetal 5,107,27.25,9.5,7pts HH,323,27,2,64,16 Mains/19 Crosses,Head Heavy,7,Classic
+217,Head,Head MicroGEL Radical Team - 2007,102,27,10.7,1pts HL,311,22,0,60,16 Mains/19 Crosses,Head Light,1,Classic
+218,Head,Head Microgel Instinct - 2007,100,27,11,3pts HL,321,25,0,64,18 Mains/19 Crosses,Head Light,3,Classic
+219,Head,Head Flexpoint Heat,102,27,10.7,2pts HL,316,22,0,62,18 Mains/19 Crosses,Head Light,2,Classic
+220,Head,Head Microgel Extreme - 2007,100,27.25,11.2,6pts HL,320,26,0,68,16 Mains/19 Crosses,Head Light,6,Classic
+221,Head,Head MicroGEL Radical OS - 2007,107,27,11.1,3pts HL,318,21,0,56,18 Mains/19 Crosses,Head Light,3,Classic
+222,Head,Head Flexpoint Instinct Team - 2005,100,27,10.1,2pts HH,312,26,1,66,16 Mains/19 Crosses,Head Heavy,2,Classic
+223,Head,Head Flexpoint Prestige Midplus XL - 2006,98,27.5,12,8pts HL,340,21,0,65,18 Mains/20 Crosses,Head Light,8,Classic
+224,Head,Head Microgel Extreme Pro - 2007,100,27,11.8,7pts HL,332,26,0,68,16 Mains/19 Crosses,Head Light,7,Classic
+225,Head,Head Liquidmetal Prestige Midplus - 2004,98,27,11.9,8pts HL,325,21,0,63,18 Mains/20 Crosses,Head Light,8,Classic
+226,Head,Head Liquidmetal Prestige Mid - 2004,93,27,12.3,7pts HL,340,19,0,61,18 Mains/20 Crosses,Head Light,7,Classic
+227,Head,Head Microgel Prestige Midplus - 2008,98,27,11.8,6pts HL,320,21,0,63,18 Mains/20 Crosses,Head Light,6,Classic
+228,Head,Head MicroGEL Radical Pro - 2007,100,27,11.7,2pts HL,315,21,0,64,16 Mains/19 Crosses,Head Light,2,Classic
+229,Head,Head Radical Agassi Limited Edition,107,27,12.1,6pts HL,338,21,0,63,18 Mains/19 Crosses,Head Light,6,Classic
+230,Head,Head Metallix 2,102,27.3,9.8,4pts HH,305,24,1,68,16 Mains/19 Crosses,Head Heavy,4,Classic
+231,Head,Head Microgel Extreme Team - 2007,107,27,10.1,3pts HL,298,26,0,57,16 Mains/19 Crosses,Head Light,3,Classic
+232,Head,Head Microgel Mojo,100,27,10.4,0pts EB,301,22,0,62,18 Mains/19 Crosses,Head Heavy,0,Classic
+233,Head,Head Microgel Prestige Mid - 2008,93,27,12.2,7pts HL,328,19,0,63,18 Mains/20 Crosses,Head Light,7,Classic
+234,Head,Head Flexpoint Prestige Midplus - 2006,98,27,12.2,7pts HL,323,21,0,65,18 Mains/20 Crosses,Head Light,7,Classic
+235,Head,Head Microgel Prestige Pro - 2008,98,27,12.1,7pts HL,316,21,0,63,16 Mains/20 Crosses,Head Light,7,Classic
+236,Head,Head LiquidMetal 2,106,27.5,9.5,2pts HH,302,26,1,61,16 Mains/19 Crosses,Head Heavy,2,Classic
+237,Head,Head Metallix 4,107,27.3,9.3,8pts HH,308,26,1,66,16 Mains/19 Crosses,Head Heavy,8,Classic
+238,Head,Head Flexpoint Prestige Mid - 2006,93,27,12.2,7pts HL,323,19,0,65,18 Mains/20 Crosses,Head Light,7,Classic
+240,Head,Head Flexpoint 10,121,27.5,9.1,10pts HH,316,31,2,65,16 Mains/19 Crosses,Head Heavy,1,Classic
+241,Head,Head Metallix 6 OS,115,27.3,9.5,7pts HH,299,28,2,69,16 Mains/19 Crosses,Head Heavy,7,Classic
+244,Head,Head Airflow 3,102,27,9.3,4pts HH,290,26,1,72,16 Mains/19 Crosses,Head Heavy,4,Classic
+245,Head,Head Metallix 10,124,27.3,9.4,4pts HH,301,30,2,68,16 Mains/19 Crosses,Head Heavy,4,Classic
+246,Head,Head Airflow 5,109,27,8.9,5pts HH,280,28,1,71,16 Mains/19 Crosses,Head Heavy,5,Classic
+247,Head,Head Radical Junior,102,26,10.3,4pts HL,260,21,0,60,18 Mains/19 Crosses,Head Light,4,Classic
+249,Head,Head Airflow 7,115,27,8.7,4pts HH,265,31,2,67,16 Mains/19 Crosses,Head Heavy,4,Classic
+250,Head,Head Instinct Junior,100,26,9.2,4pts HL,237,25,0,65,18 Mains/19 Crosses,Head Light,4,Classic
+251,Head,Head Classic Tour Midplus,102,27,12.1,5pts HL,336,21,0,61,18 Mains/19 Crosses,Head Light,5,Classic
+252,Head,Head Classic Tour Midsize,93,27,12.1,6pts HL,320,19,0,59,18 Mains/20 Crosses,Head Light,6,Classic
+254,Head,Head Intelligence i. Radical Midplus,98,27,10.8,2pts HL,297,21,0,64,18 Mains/20 Crosses,Head Light,2,Classic
+255,Head,Head Intelligence i. Radical Oversize,107,27,11,4pts HL,302,21,0,62,18 Mains/19 Crosses,Head Light,4,Classic
+256,Head,Head Intelligence i.Caliber,107,27.5,9.7,5pts HL,274,23,0,68,16 Mains/19 Crosses,Head Light,5,Classic
+257,Head,Head Intelligence i.extreme Midplus,102,27,10.3,1pts HL,295,22,0,69,18 Mains/19 Crosses,Head Light,1,Classic
+258,Head,Head Intelligence i.Junior,102,26,8.9,3pts HL,228,23,1,69,16 Mains/19 Crosses,Head Light,3,Classic
+259,Head,Head Intelligence I.Prestige Midplus Standard - 2001,98,27,12.1,6pts HL,324,21,0,63,18 Mains/20 Crosses,Head Light,6,Classic
+260,Head,Head Intelligence I.Prestige Midplus XL - 2001,98,27.5,11.8,9pts HL,327,21,0,62,18 Mains/20 Crosses,Head Light,9,Classic
+261,Head,Head Intelligence I.Prestige Midsize - 2001,93,27,12.1,5pts HL,320,19,0,60,18 Mains/20 Crosses,Head Light,5,Classic
+262,Head,Head Intelligence i.S1 Midplus,102,27.5,10.2,6pts HL,275,25,0,71,18 Mains/19 Crosses,Head Light,6,Classic
+263,Head,Head Intelligence i.S1 Oversize,107,27.5,9.8,4pts HL,278,23,0,73,16 Mains/19 Crosses,Head Light,4,Classic
+266,Head,Head Intelligence i.S2 Midplus,98,27,10.2,1pts HL,290,24,1,70,16 Mains/20 Crosses,Head Light,1,Classic
+267,Head,Head Intelligence i.S2 Oversize,107,27.5,9.2,3pts HH,295,26,2,71,16 Mains/19 Crosses,Head Heavy,3,Classic
+268,Head,Head Intelligence i.S4 Midplus,102,27.5,9.8,2pts HH,308,24,1,67,16 Mains/20 Crosses,Head Heavy,2,Classic
+269,Head,Head Intelligence i.S4 Oversize,112,27.75,8.7,6pts HH,282,26,2,65,16 Mains/19 Crosses,Head Heavy,6,Classic
+270,Head,Head Intelligence i.S6 Midplus,102,27.5,9.6,5pts HH,311,26,1,77,16 Mains/20 Crosses,Head Heavy,5,Classic
+271,Head,Head Intelligence i.S6 Oversize,112,27.75,8.3,7pts HH,290,28,2,69,16 Mains/19 Crosses,Head Heavy,7,Classic
+272,Head,Head Intelligence i.S9,112,27.75,9.8,1pts HH,314,28,2,73,16 Mains/19 Crosses,Head Heavy,1,Classic
+273,Head,Head Intelligence i.speed Midplus,102,27,9.7,4pts HH,294,24,1,68,16 Mains/19 Crosses,Head Heavy,4,Classic
+275,Head,Head Intelligence i.x Speed,102,27,9.8,4pts HH,300,24,1,69,16 Mains/19 Crosses,Head Heavy,4,Classic
+276,Head,Head Intelligence i.x3 Midplus,98,27,10.5,3pts HL,304,24,1,71,16 Mains/20 Crosses,Head Light,3,Classic
+277,Head,Head Intelligence i.x3 Oversize,107,27.5,9.9,2pts HH,316,26,2,70,16 Mains/19 Crosses,Head Heavy,2,Classic
+278,Head,Head Intelligence i.x5 Midplus,102,27.5,10.1,1pts HH,302,24,1,66,16 Mains/20 Crosses,Head Heavy,1,Classic
+279,Head,Head Intelligence i.x5 Oversize,107,27.75,9.5,4pts HH,315,26,2,65,16 Mains/19 Crosses,Head Heavy,4,Classic
+280,Head,Head Intelligence i.x6 Midplus,102,27.5,9.8,6pts HH,316,26,1,73,16 Mains/20 Crosses,Head Heavy,6,Classic
+281,Head,Head Intelligence i.x6 Oversize,112,27.75,9.2,5pts HH,305,28.5,2,69,16 Mains/19 Crosses,Head Heavy,5,Classic
+282,Head,Head Intelligence ix.11,115,27.75,8.6,11pts HH,308,28.5,2,72,16 Mains/19 Crosses,Head Heavy,1,Classic
+283,Head,Head Intelligence ix.16,118,28,9.2,2pts HH,300,28.5,2,67,16 Mains/19 Crosses,Head Heavy,2,Classic
+284,Head,Head Liquidmetal Fire,102,27.3,10.5,0pts EB,320,25,0,67,16 Mains/19 Crosses,Head Heavy,0,Classic
+285,Head,Head Liquidmetal Heat,102,27.3,10.3,4pts HL,298,25,0,64,18 Mains/19 Crosses,Head Light,4,Classic
+286,Head,Head Liquidmetal Instinct Tour XL - 2003,100,27.5,11.8,10pts HL,336,25,0,63,18 Mains/19 Crosses,Head Light,1,Classic
+287,Head,Head Premier Tour ,93,27,11.9,4pts HL,329,20,0,60,16 Mains/18 Crosses,Head Light,4,Classic
+288,Head,Head Prestige Classic Midsize,93,27,12.3,7pts HL,323,19,0,60,18 Mains/20 Crosses,Head Light,7,Classic
+290,Head,Head Pro Tour 280,97,27,12,6pts HL,327,20,0,58,18 Mains/20 Crosses,Head Light,6,Classic
+294,Head,Head Radical Tour Oversize,110,27,11.8,6pts HL,332,21,0,61,18 Mains/20 Crosses,Head Light,6,Classic
+298,Head,Head Ti.Classic,98,27,11.6,5pts HL,318,21,0,65,18 Mains/20 Crosses,Head Light,5,Classic
+299,Head,Head Ti.Fire,102,27,9.7,7pts HH,311,24,0,64,18 Mains/19 Crosses,Head Heavy,7,Classic
+304,Prince,Prince O3 Speedport White,100,27,11.2,2pts HL,326,25,0,64,16 Mains/19 Crosses,Head Light,2,Classic
+305,Prince,Prince O3 Speedport Red,105,27.25,10.5,1pts HL,321,25,0,65,16 Mains/19 Crosses,Head Light,1,Classic
+306,Prince,Prince  O3 Hybrid Shark Midplus,100,27,11.1,2pts HL,324,26,1,65,16 Mains/19 Crosses,Head Light,2,Classic
+307,Prince,Prince O3 Tour Oversize,107,27.5,11.2,4pts HL,330,20,0,64,16 Mains/19 Crosses,Head Light,4,Classic
+308,Prince,Prince O3 Hybrid Comp,102,27,10.8,3pts HL,318,24,1,63,16 Mains/19 Crosses,Head Light,3,Classic
+310,Prince,Prince Triple Threat Warrior Midplus,97,27,11.3,5pts HL,325,23,0,67,16 Mains/20 Crosses,Head Light,5,Classic
+311,Prince,Prince Ozone Four,110,27.5,10.3,2pts HH,328,27,2,68,16 Mains/19 Crosses,Head Heavy,2,Classic
+313,Prince,Prince Triple Threat Warrior Oversize,107,27.5,11.2,6pts HL,315,23,0,67,16 Mains/19 Crosses,Head Light,6,Classic
+314,Prince,Prince Ozone Seven,105,27.25,10.6,1pts HL,325,25,0,71,16 Mains/19 Crosses,Head Light,1,Classic
+315,Prince,Prince O3 Hybrid Shark Oversize,110,27.5,10.3,1pts HL,322,28,1,65,16 Mains/19 Crosses,Head Light,1,Classic
+316,Prince,Prince Ozone Tour MP,100,27,11.5,6pts HL,321,20,0,60,16 Mains/18 Crosses,Head Light,6,Classic
+317,Prince,Prince Original O3 White,100,27,11.3,4pts HL,322,25,0,65,16 Mains/19 Crosses,Head Light,4,Classic
+318,Prince,Prince O3 Hybrid Hornet Midplus,100,27,10.6,2pts HL,320,25,1,70,16 Mains/19 Crosses,Head Light,2,Classic
+321,Prince,Prince Turbo Shark Oversize,110,27.5,10.4,0pts EB,325,28,2,69,16 Mains/19 Crosses,Head Heavy,0,Classic
+322,Prince,Prince O3 Speedport Tour,97,27,11.7,7pts HL,328,21,0,65,16 Mains/18 Crosses,Head Light,7,Classic
+323,Prince,Prince O3 Hybrid Spectrum Midplus,100,27,10.7,1pts HL,318,25,1,71,16 Mains/19 Crosses,Head Light,1,Classic
+324,Prince,Prince Original O3 Red,105,27.25,10.5,3pts HL,314,26,0,68,16 Mains/19 Crosses,Head Light,3,Classic
+325,Prince,Prince O3 Hybrid Tour,95,27,12,8pts HL,337,21,0,67,16 Mains/18 Crosses,Head Light,8,Classic
+326,Prince,Prince O Scream Midplus,100,27,10.1,0pts EB,309,25,2,67,16 Mains/19 Crosses,Head Heavy,0,Classic
+327,Prince,Prince O3 Speedport Pro White,100,27,11.7,5pts HL,330,25,0,67,18 Mains/19 Crosses,Head Light,5,Classic
+328,Prince,Prince Tour Diablo Midplus,100,27.3,11.3,10pts HL,316,19,0,63,16 Mains/18 Crosses,Head Light,1,Classic
+329,Prince,Prince O3 Tour Midsize,95,27,12,8pts HL,324,20,0,63,16 Mains/20 Crosses,Head Light,8,Classic
+330,Prince,Prince O3 Speedport Gold,115,27.5,9.5,7pts HH,324,27,2,64,16 Mains/19 Crosses,Head Heavy,7,Classic
+331,Prince,Prince Tour NXG Graphite Oversize,107,27.5,11.9,11pts HL,328,20,0,63,16 Mains/19 Crosses,Head Light,1,Classic
+332,Prince,Prince Tour NXG Graphite Midplus,100,27.25,12.2,9pts HL,326,19,0,63,16 Mains/20 Crosses,Head Light,9,Classic
+333,Prince,Prince Shark DB Midplus,100,27,10.5,1pts HL,306,28,1,67,16 Mains/19 Crosses,Head Light,1,Classic
+334,Prince,Prince Graphite Longbody,100,28,11.6,13pts HL,321,19,0,63,16 Mains/18 Crosses,Head Light,1,Classic
+335,Prince,Prince Graphite Classic Oversize,107,27,12.2,5pts HL,333,19,0,63,16 Mains/19 Crosses,Head Light,5,Classic
+336,Prince,Prince O3 Hybrid Lite,109,27,9.7,6pts HH,315,28,2,68,16 Mains/19 Crosses,Head Heavy,6,Classic
+337,Prince,Prince Tour Diablo Mid,93,27,12.2,9pts HL,331,19,0,66,16 Mains/20 Crosses,Head Light,9,Classic
+338,Prince,Prince O3 Hybrid Hornet Oversize,110,27,10.1,2pts HH,316,28,1,72,16 Mains/19 Crosses,Head Heavy,2,Classic
+339,Prince,Prince Original O3 Blue,110,27.5,10.1,2pts HL,308,26,1,66,16 Mains/19 Crosses,Head Light,2,Classic
+340,Prince,Prince O3 Citron,110,27.5,10.1,2pts HL,308,26,1,66,16 Mains/19 Crosses,Head Light,2,Classic
+341,Prince,Prince O Scream Oversize,110,27,9.9,2pts HH,311,27,2,68,16 Mains/19 Crosses,Head Heavy,2,Classic
+342,Prince,Prince O3 Pink,118,27.5,10,7pts HH,330,30,2,74,16 Mains/19 Crosses,Head Heavy,7,Classic
+343,Prince,Prince Tour NXG Graphite Mid,92,27,12.3,9pts HL,329,18,0,61,18 Mains/20 Crosses,Head Light,9,Classic
+344,Prince,Prince Turbo Outlaw Oversize,110,27.5,10.2,0pts EB,311,26,1,70,16 Mains/19 Crosses,Head Heavy,0,Classic
+345,Prince,Prince O3 Speedport Silver,118,27.5,9.5,8pts HH,330,30,2,71,16 Mains/19 Crosses,Head Heavy,8,Classic
+346,Prince,Prince Shark DB Oversize,110,27.5,10.5,2pts HL,311,29,1,70,16 Mains/19 Crosses,Head Light,2,Classic
+347,Prince,Prince Ozone Pro Tour MP,100,27,12.1,7pts HL,324,20,0,65,18 Mains/20 Crosses,Head Light,7,Classic
+348,Prince,Prince Graphite Classic Midplus,93,27,12.1,8pts HL,328,19,0,66,14 Mains/18 Crosses,Head Light,8,Classic
+349,Prince,Prince Air Freak Oversize,110,27,10.2,2pts HL,306,26,1,69,16 Mains/19 Crosses,Head Light,2,Classic
+351,Prince,Prince Turbo Outlaw Midplus,100,27,10.2,1pts HL,300,26,1,72,16 Mains/20 Crosses,Head Light,1,Classic
+353,Prince,Prince Ozone One,118,27.75,9.6,6pts HH,328,30,2,74,16 Mains/19 Crosses,Head Heavy,6,Classic
+355,Prince,Prince Original O3 Silver,118,27.75,9.6,5pts HH,325,28,2,74,16 Mains/19 Crosses,Head Heavy,5,Classic
+356,Prince,Prince O3 Hybrid Spectrum Oversize,110,27,9.8,0pts EB,300,25,1,68,16 Mains/19 Crosses,Head Heavy,0,Classic
+357,Prince,Prince O3 Speedport Platinum,125,27.5,9.5,7pts HH,320,30,2,70,16 Mains/19 Crosses,Head Heavy,7,Classic
+358,Prince,Prince EXO3 Red,105,27.25,10.5,1pts HL,321,25,1,67,16 Mains/19 Crosses,Head Light,1,Classic
+359,Prince,Prince Tour NXG Graphite 26 Junior,100,26,8.7,5pts HH,253,22,0,60,16 Mains/18 Crosses,Head Heavy,5,Classic
+360,Prince,Prince O3 Hybrid 26,100,26,8.2,8pts HH,251,25,1,66,16 Mains/19 Crosses,Head Heavy,8,Classic
+361,Prince,Prince Shark 26 Junior,100,26,8.3,6pts HH,247,24,1,66,16 Mains/20 Crosses,Head Heavy,6,Classic
+362,Prince,Prince Tour Diablo 25 Junior,100,25,8.6,4pts HH,227,20,2,48,16 Mains/18 Crosses,Head Heavy,4,Classic
+363,Prince,Prince Air Freak Midplus,100,27,10.9,2pts HL,330,26,1,70,16 Mains/19 Crosses,Head Light,2,Classic
+366,Prince,Prince Graphite Classic 20th Anniv. Midplus,93,27,12,8pts HL,317,19,0,65,14 Mains/18 Crosses,Head Light,8,Classic
+367,Prince,Prince Graphite Classic 20th Anniv. Oversize,107,27,12.3,8pts HL,327,19,0,62,16 Mains/19 Crosses,Head Light,8,Classic
+368,Prince,Prince Graphite II Oversize,107,27,12.3,8pts HL,330,22,0,66,16 Mains/19 Crosses,Head Light,8,Classic
+370,Prince,Prince Michael Chang Titanium Midplus,95,28,11.4,8pts HL,351,20,1,65,14 Mains/18 Crosses,Head Light,8,Classic
+371,Prince,Prince Michael Chang Titanium Oversize,107,28,11.6,8pts HL,360,20,1,63,16 Mains/19 Crosses,Head Light,8,Classic
+377,Prince,Prince More Control DB 850 Oversize,107,27.25,11.1,9pts HL,300,23,1,69,16 Mains/19 Crosses,Head Light,9,Classic
+381,Prince,Prince More Power 1150 S,115,27.5,9.7,1pts HL,316,28,1,74,16 Mains/19 Crosses,Head Light,1,Classic
+382,Prince,Prince More Power 1500 S,120,27.75,9.9,2pts HH,333,28,2,74,16 Mains/20 Crosses,Head Heavy,2,Classic
+384,Prince,Prince More Precision Oversize,107,27.25,11,7pts HL,309,20,0,68,16 Mains/19 Crosses,Head Light,7,Classic
+389,Prince,Prince Precision 730,97,28,11.6,9pts HL,336,25,0,69,14 Mains/18 Crosses,Head Light,9,Classic
+395,Prince,Prince Precision Equipe Midplus,95,27,12.6,10pts HL,339,22,0,72,16 Mains/19 Crosses,Head Light,1,Classic
+397,Prince,Prince Precision Michael Chang Longbody Midplus,95,28,11.8,11pts HL,330,20,0,62,14 Mains/18 Crosses,Head Light,1,Classic
+398,Prince,Prince Precision Michael Chang Longbody Oversize,107,28,11.1,4pts HL,346,20,0,59,16 Mains/19 Crosses,Head Light,4,Classic
+399,Prince,Prince Precision Response 660,97,27,11.6,2pts HL,342,23,0,67,16 Mains/19 Crosses,Head Light,2,Classic
+401,Dunlop,Dunlop M-Fil 200 Plus \'05,97,27.5,11.5,7pts HL,330,20,0,63,16 Mains/19 Crosses,Head Light,7,Classic
+402,Dunlop,Dunlop M-Fil 300,98,27,10.9,3pts HL,317,21.5,0,61,16 Mains/19 Crosses,Head Light,3,Classic
+403,Dunlop,Dunlop Aerogel 3Hundred,98,27,10.9,4pts HL,316,21.5,0,61,16 Mains/19 Crosses,Head Light,4,Classic
+404,Dunlop,Dunlop Maxply McEnroe,98,27,11.3,3pts HL,327,21,0,68,16 Mains/19 Crosses,Head Light,3,Classic
+405,Dunlop,Dunlop M-Fil 400,100,27.25,10.7,0pts EB,318,24,1,70,16 Mains/19 Crosses,Head Heavy,0,Classic
+406,Dunlop,Dunlop  Aerogel 500 Tour,100,27,11.1,3pts HL,325,25,1,70,16 Mains/18 Crosses,Head Light,3,Classic
+407,Dunlop,Dunlop Aerogel 2Hundred,95,27,11.9,8pts HL,331,20,0,61,18 Mains/20 Crosses,Head Light,8,Classic
+408,Dunlop,Dunlop M-Fil 200,95,27,12.1,6pts HL,337,20,0,61,18 Mains/20 Crosses,Head Light,6,Classic
+410,Dunlop,Dunlop Aerogel 6Hundred,105,27.25,10.1,1pts HH,310,26,1,69,16 Mains/19 Crosses,Head Heavy,1,Classic
+411,Dunlop,Dunlop 200G XL,95,27.5,11.2,9pts HL,303,20,0,56,16 Mains/18 Crosses,Head Light,9,Classic
+412,Dunlop,Dunlop  Aerogel 500,100,27,10.3,1pts HL,306,25,1,68,16 Mains/18 Crosses,Head Light,1,Classic
+413,Dunlop,Dunlop M-Fil 200 Plus \'06,97,27,11.4,7pts HL,309,20,0,64,16 Mains/19 Crosses,Head Light,7,Classic
+414,Dunlop,Dunlop 300G MP,98,27,10.8,4pts HL,300,21.5,0,64,16 Mains/19 Crosses,Head Light,4,Classic
+415,Dunlop,Dunlop Roland Garros Racing,100,27,10.3,3pts HL,300,21,0,68,16 Mains/19 Crosses,Head Light,3,Classic
+416,Dunlop,Dunlop Aerogel 8Hundred,110,27.5,9.5,6pts HH,312,30,2,70,16 Mains/19 Crosses,Head Heavy,6,Classic
+421,Dunlop,Dunlop M-Fil Lady,108,27.5,9.8,0pts EB,296,27,2,69,16 Mains/19 Crosses,Head Heavy,0,Classic
+422,Dunlop,Dunlop Aerogel 1000,118,27.5,9.2,7pts HH,312,32,2,69,16 Mains/19 Crosses,Head Heavy,7,Classic
+424,Dunlop,Dunlop 200G 26,95,26,9.9,1pts HL,257,20,0,61,18 Mains/20 Crosses,Head Light,1,Classic
+425,Dunlop,Dunlop 300G Junior,98,26,9.5,1pts HL,249,21.5,0,60,16 Mains/19 Crosses,Head Light,1,Classic
+426,Dunlop,Dunlop 200G 95,95,27,11.9,5pts HL,316,20,0,60,18 Mains/20 Crosses,Head Light,5,Classic
+427,Dunlop,Dunlop 300G Oversize,105,27.5,10.6,4pts HL,302,22,1,57,18 Mains/20 Crosses,Head Light,4,Classic
+428,Dunlop,Dunlop 400G,100,27.25,10.6,8pts HL,285,24,0,62,16 Mains/19 Crosses,Head Light,8,Classic
+435,Dunlop,Dunlop Adrenaline Rush 108,108,27.5,10.6,13pts HL,291,27,1,63,16 Mains/19 Crosses,Head Light,1,Classic
+436,Dunlop,Dunlop Adrenaline Rush 98,98,27,10.4,9pts HL,284,26,1,71,16 Mains/19 Crosses,Head Light,9,Classic
+437,Dunlop,Dunlop Adrenaline Surge108,108,27.5,10.7,12pts HL,297,27,1,65,16 Mains/19 Crosses,Head Light,1,Classic
+438,Dunlop,Dunlop Dunlop Spirit Midplus,100,27,10.2,1pts HL,304,24,1,69,16 Mains/19 Crosses,Head Light,1,Classic
+439,Dunlop,Dunlop Dunlop Sprit Oversize,110,27.5,9.6,0pts EB,283,26,1,60,16 Mains/19 Crosses,Head Heavy,0,Classic
+440,Dunlop,Dunlop Inferno Oversize,110,27.5,9.4,4pts HH,298,30,2,75,16 Mains/19 Crosses,Head Heavy,4,Classic
+445,Dunlop,Dunlop Max Tech Midplus,95,27,9.9,3pts HH,312,26,2,73,16 Mains/19 Crosses,Head Heavy,3,Classic
+448,Dunlop,Dunlop Muscle Weave 200g 100,100,27.5,11.6,7pts HL,335,22,1,64,18 Mains/20 Crosses,Head Light,7,Classic
+449,Dunlop,Dunlop Muscle Weave 200g 95,95,27,12,7pts HL,315,20,0,59,18 Mains/20 Crosses,Head Light,7,Classic
+450,Dunlop,Dunlop Muscle Weave 200g Oversize,108,27.5,9.5,6pts HH,316,27,2,71,18 Mains/20 Crosses,Head Heavy,6,Classic
+451,Dunlop,Dunlop Quadro Midplus,102,27.25,10.1,1pts HL,300,26,1,65,16 Mains/19 Crosses,Head Light,1,Classic
+452,Dunlop,Dunlop Quadro Oversize,110,27.5,10.1,2pts HL,298,26,1,60,16 Mains/19 Crosses,Head Light,2,Classic
+453,Dunlop,Dunlop Revelation 200G +1.00,100,28,11.4,8pts HL,338,20,0,64,18 Mains/20 Crosses,Head Light,8,Classic
+454,Dunlop,Dunlop Revelation Lite +1.50 Titanium,112,28.5,9.5,5pts HH,355,28,2,66,18 Mains/20 Crosses,Head Heavy,5,Classic
+455,Dunlop,Dunlop Revelation Lite Titanium +0.50,95,27.5,9,5pts HH,307,25,0,66,16 Mains/19 Crosses,Head Heavy,5,Classic
+456,Dunlop,Dunlop Revelation Lite Titanium +1.0,100,28,9.5,4pts HH,336,25,0,65,16 Mains/19 Crosses,Head Heavy,4,Classic
+457,Dunlop,Dunlop Revelation Select Pro Midplus,95,27,12.5,6pts HL,335,20,0,65,16 Mains/19 Crosses,Head Light,6,Classic
+465,Dunlop,Dunlop Vision Midplus,102,27.5,9.3,2pts HH,297,26,1,67,16 Mains/19 Crosses,Head Heavy,2,Classic
+466,Dunlop,Dunlop Vision Oversize,110,27.5,9.3,5pts HH,304,26,1,67,16 Mains/19 Crosses,Head Heavy,5,Classic
+467,Dunlop,Dunlop Aerogel Titan,101,27,9.6,2pts HL,290,25,0,67,16 Mains/19 Crosses,Head Light,2,Classic
+468,Dunlop,Dunlop Aerogel Smoke,100,27.25,10.6,2pts HL,326,24,0,67,16 Mains/19 Crosses,Head Light,2,Classic
+469,Dunlop,Dunlop Aerogel Rush,108,27.5,9.6,1pts HL,301,25,1,64,16 Mains/19 Crosses,Head Light,1,Classic
+470,Dunlop,Dunlop Aerogel 4D 3Hundred Tour,98,27,11.3,5pts HL,318,20,0,63,18 Mains/20 Crosses,Head Light,5,Classic
+471,Dunlop,Dunlop Aerogel 1Hundred 100,90,27,11.7,6pts HL,324,19,0,61,16 Mains/19 Crosses,Head Light,6,Classic
+472,Dunlop,Dunlop Aerogel 4D Super-Lite,108,27.5,8.6,7pts HH,290,25,2,65,16 Mains/19 Crosses,Head Heavy,7,Classic
+473,Dunlop,Dunlop Aerogel 4D 7Hundred,108,27.25,9.7,2pts HH,306,28,2,72,16 Mains/19 Crosses,Head Heavy,2,Classic
+474,Dunlop,Dunlop Aerogel 4D 5Hundred Tour,100,27,11.3,2pts HL,325,25,0,71,16 Mains/18 Crosses,Head Light,2,Classic
+475,Dunlop,Dunlop Aerogel 4D 5Hundred,100,27,10.2,0pts EB,300,25,1,66,16 Mains/18 Crosses,Head Heavy,0,Classic
+476,Dunlop,Dunlop Aerogel 4D 3Hundred,98,27,10.9,3pts HL,320,21,0,60,16 Mains/19 Crosses,Head Light,3,Classic
+477,Dunlop,Dunlop Aerogel 4D 2Hundred,95,27,11.9,7pts HL,337,20,0,62,18 Mains/20 Crosses,Head Light,7,Classic
+478,Dunlop,Dunlop Aerogel 4D 5 Fifty Lite,100,27.25,9.4,1pts HH,299,25,1,69,16 Mains/19 Crosses,Head Heavy,1,Classic
+479,Dunlop,Dunlop Aerogel 4D 100 (1 Hundred),90,27,11.6,8pts HL,308,19,0,62,16 Mains/19 Crosses,Head Light,8,Classic
+480,Dunlop,Dunlop Aerogel 4D 200 Tour (2Hundred),95,27,12.3,5pts HL,352,20,0,60,16 Mains/18 Crosses,Head Light,5,Classic
+481,Dunlop,Dunlop Aerogel 4D 3Hundred Lite,98,27,10,2pts HL,294,21,1,66,16 Mains/19 Crosses,Head Light,2,Classic
+482,Dunlop,Dunlop Aerogel 4D 500 Lite,100,27,9,9pts HH,291,24.9,2,70,16 Mains/18 Crosses,Head Heavy,9,Classic
+483,Dunlop,Dunlop Aerogel 4D 200 (2Hundred),95,27,11.9,7pts HL,337,20,0,62,18 Mains/20 Crosses,Head Light,7,Classic
+484,Dunlop,Dunlop Biomimetic 600 Lite - 2011,105,27.25,10.01,3pts HH,316,26,2,69,16 Mains/19 Crosses,Head Heavy,3,Classic
+485,Dunlop,Dunlop Biomimetic 300 Tour - 2010,97,27,11.3,6pts HL,304,20,0,64,18 Mains/20 Crosses,Head Light,6,Classic
+486,Dunlop,Dunlop Biomimetic 200 Plus - 2010,100,27,11.5,4pts HL,317,20,0,65,18 Mains/20 Crosses,Head Light,4,Classic
+487,Dunlop,Dunlop Biomimetic 600 - 2011,102,27,10.4,2pts HL,300,25,1,71,16 Mains/19 Crosses,Head Light,2,Classic
+488,Dunlop,Dunlop Biomimetic 300 - 2011,98,27,10.9,2pts HL,308,21,0,66,16 Mains/19 Crosses,Head Light,2,Classic
+489,Dunlop,Dunlop Biomimetic 200 Lite - 2011,95,27,11.5,6pts HL,308,21,0,57,16 Mains/19 Crosses,Head Light,6,Classic
+490,Dunlop,Dunlop Biomimetic 500 Tour - 2011,100,27,11,3pts HL,313,25,1,65,16 Mains/18 Crosses,Head Light,3,Classic
+491,Dunlop,Dunlop Biomimetic 500 - 2011,100,27,10.3,1pts HH,311,25,1,66,16 Mains/18 Crosses,Head Heavy,1,Classic
+492,Dunlop,Dunlop Biomimetic 500 Plus - 2011,110,27.5,9.3,6pts HH,314,28.5,2,67,16 Mains/19 Crosses,Head Heavy,6,Classic
+493,Dunlop,Dunlop Biomimetic 200 - 2011,95,27,11.9,6pts HL,322,20.5,0,57,18 Mains/20 Crosses,Head Light,6,Classic
+494,Dunlop,Dunlop Biomimetic 200 Tour - 2011,95,27,12.5,5pts HL,345,20,0,61,16 Mains/18 Crosses,Head Light,5,Classic
+495,Dunlop,Dunlop Biomimetic 100 - 2011,90,27,11.7,5pts HL,323,19,0,61,16 Mains/19 Crosses,Head Light,5,Classic
+496,Dunlop,Dunlop Biomimetic 400 Tour - 2011,100,27,11.6,9pts HL,306,24,1,66,16 Mains/19 Crosses,Head Light,9,Classic
+497,Dunlop,Dunlop Biomimetic 400 - 2011,100,27,10.9,6pts HL,305,24,1,67,16 Mains/19 Crosses,Head Light,6,Classic
+498,Dunlop,Dunlop Biomimetic 400 Lite - 2011,100,27,10.1,2pts HL,298,24,1,67,16 Mains/19 Crosses,Head Light,2,Classic
+499,Dunlop,Dunlop Biomimetic 700 - 2012,110,27.25,9.6,0pts EB,297,28,2,63,16 Mains/19 Crosses,Head Heavy,0,Classic
+500,Yonex,Yonex RQiS 2 Tour,100,27.5,10.8,4pts HL,326,28,0,67,16 Mains/18 Crosses,Head Light,4,Classic
+506,Yonex,Yonex RQiS 1 Tour,95,27,11.9,9pts HL,325,25,0,61,16 Mains/18 Crosses,Head Light,9,Classic
+507,Yonex,Yonex RDS 002,98,27,10.9,6pts HL,308,22,0,65,16 Mains/19 Crosses,Head Light,6,Classic
+511,Yonex,Yonex RDS 001 Midplus,90,27,12,9pts HL,321,20,0,66,16 Mains/18 Crosses,Head Light,9,Classic
+513,Yonex,Yonex MP-Tour 1 Midplus,98,27,12,6pts HL,322,20,0,65,16 Mains/19 Crosses,Head Light,6,Classic
+514,Yonex,Yonex MP-Tour 1 Midsize,90,27,12,6pts HL,326,20,0,64,16 Mains/18 Crosses,Head Light,6,Classic
+517,Yonex,Yonex RQ Speed 30,102,27,9.6,2pts HH,295,27,1,67,16 Mains/19 Crosses,Head Heavy,2,Classic
+524,Yonex,Yonex MP-Tour 1 XF,98,27.5,11.3,5pts HL,329,20,0,65,16 Mains/19 Crosses,Head Light,5,Classic
+525,Yonex,Yonex MP-Tour 5,98,27.5,11.2,10pts HL,309,20,0,59,16 Mains/18 Crosses,Head Light,1,Classic
+568,Yonex,Yonex S-Fit 3,105,27.25,10.2,0pts EB,310,28,1,68,16 Mains/19 Crosses,Head Heavy,0,Classic
+569,Yonex,Yonex S-Fit 1,100,27,11.1,6pts HL,305,26,1,66,16 Mains/19 Crosses,Head Light,6,Classic
+570,Yonex,Yonex S-Fit 5,112,27.25,9.9,2pts HH,309,28,2,67,16 Mains/19 Crosses,Head Heavy,2,Classic
+571,Yonex,Yonex S-Fit 1 Lite,100,27,10.6,3pts HL,304,26.5,1,69,16 Mains/19 Crosses,Head Light,3,Classic
+572,Yonex,Yonex RQiS 30,102,27,9.6,1pts HL,238,26,0,63,16 Mains/18 Crosses,Head Light,1,Classic
+573,Yonex,Yonex RQiS 10,102,27.5,10.06,2pts HL,320,26,1,65,16 Mains/18 Crosses,Head Light,2,Classic
+574,Yonex,Yonex RDiS 200,98,27,11.7,7pts HL,326,22,0,61,16 Mains/19 Crosses,Head Light,7,Classic
+575,Yonex,Yonex RDiS 200 Lite,98,27,11,4pts HL,315,22,1,62,16 Mains/19 Crosses,Head Light,4,Classic
+576,Yonex,Yonex Ultimum RD Ti 80,98,27,12.1,8pts HL,315,20.5,0,60,16 Mains/19 Crosses,Head Light,8,Classic
+577,Yonex,Yonex V-Con x18,100,27,10.5,3pts HH,313,26.5,1,62,16 Mains/18 Crosses,Head Heavy,3,Classic
+578,Yonex,Yonex EZONE 107,107,27,10.4,1pts HL,301,28.5,1,67,16 Mains/18 Crosses,Head Light,1,Classic
+579,Yonex,Yonex EZONE 100,100,27,11,6pts HL,300,27,0,68,16 Mains/18 Crosses,Head Light,6,Classic
+580,Yonex,Yonex EZONE 100 Lite,100,27,10.2,3pts HL,291,27,1,64,16 Mains/18 Crosses,Head Light,3,Classic
+581,Yonex,Yonex RD Ti 80 Lite,98,27,11.6,7pts HL,311,20.5,0,61,16 Mains/19 Crosses,Head Light,7,Classic
+582,Yonex,Yonex V Core 95 D,95,27,11.9,7pts HL,317,21.5,0,63,16 Mains/20 Crosses,Head Light,7,Classic
+583,Yonex,Yonex V Core 98 D,98,27,11.3,6pts HL,309,22.5,0,65,16 Mains/20 Crosses,Head Light,6,Classic
+584,Yonex,Yonex V Core 100 S,100,27,11.1,5pts HL,306,24.5,0,68,16 Mains/19 Crosses,Head Light,5,Classic
+585,Yonex,Yonex EZONE Team Plus 102,102,27.5,9.8,4pts HL,296,26.5,1,59,16 Mains/18 Crosses,Head Light,4,Classic
+586,Yonex,Yonex EZONE Team 102,102,27,9.7,1pts HH,295,26.5,2,60,16 Mains/18 Crosses,Head Heavy,1,Classic
+587,Yonex,Yonex EZONE Rally,107,27,10.1,1pts HH,293,26,2,63,16 Mains/19 Crosses,Head Heavy,1,Classic
+588,Yonex,Yonex V Core Team,98,27,10.4,1pts HL,299,24,1,64,16 Mains/20 Crosses,Head Light,1,Classic
+589,Yonex,Yonex EZONE Xi 98 - 2012,98,27,11.5,6pts HL,324,24.5,0,63,16 Mains/19 Crosses,Head Light,6,Classic
+590,Yonex,Yonex EZONE Xi 100 - 2012,100,27,11,3pts HL,312,27,0,67,16 Mains/18 Crosses,Head Light,3,Classic
+591,Yonex,Yonex EZONE Xi Lite - 2012,100,27,10.2,2pts HL,299,26.5,1,65,16 Mains/18 Crosses,Head Light,2,Classic
+592,Yonex,Yonex EZONE Xi 107 - 2012,107,27,10.5,1pts HL,307,29,1,68,16 Mains/18 Crosses,Head Light,1,Classic
+593,Yonex,Yonex EZONE Xi 115 - 2012,115,27.25,9.5,8pts HH,321,30,2,65,16 Mains/18 Crosses,Head Heavy,8,Classic
+594,Yonex,Yonex EZONE Xi Team+ 102 - 2012,102,27.5,10,5pts HL,298,26.5,1,61,16 Mains/18 Crosses,Head Light,5,Classic
+595,Yonex,Yonex EZONE Xi Rally - 2012,107,27,10.2,0pts EB,294,26,1,64,16 Mains/19 Crosses,Head Heavy,0,Classic
+596,Yonex,Yonex EZONE Xi Team 102 - 2012,102,27,9.7,0pts EB,292,26.5,1,64,16 Mains/18 Crosses,Head Heavy,0,Classic
+597,Yonex,Yonex VCORE Tour 97 - 2012,97,27,12.3,8pts HL,332,20.5,0,66,16 Mains/20 Crosses,Head Light,8,Classic
+598,Yonex,Yonex VCORE Tour 89 - 2012,89,27,12.1,8pts HL,335,20.5,0,64,16 Mains/20 Crosses,Head Light,8,Classic
+599,Yonex,Yonex VCORE Tour 97 (310g) - 2012,97,27,11.5,7pts HL,314,20.5,0,67,16 Mains/20 Crosses,Head Light,7,Classic
+601,Tecnifibre,Tecnifibre TFeel 305 XL,97,27.5,11.1,0pts EB,350,22,1,68,16 Mains/19 Crosses,Head Heavy,0,Classic
+602,Tecnifibre,Tecnifibre TFeel 305,97,27,11.3,2pts HL,329,22,0,68,16 Mains/19 Crosses,Head Light,2,Classic
+603,Tecnifibre,Tecnifibre TFeel 290 XL,102,27.5,10.5,0pts EB,331,23,1,70,14 Mains/18 Crosses,Head Heavy,0,Classic
+605,Tecnifibre,Tecnifibre TFeel 305 18x20,97,27,11.3,2pts HL,331,22,0,68,18 Mains/20 Crosses,Head Light,2,Classic
+606,Tecnifibre,Tecnifibre TFight 320 XL,97,27.5,11.9,5pts HL,336,20,0,63,18 Mains/20 Crosses,Head Light,5,Classic
+607,Tecnifibre,Tecnifibre TFight 325,98,27.4,12.2,12pts HL,335,20,0,59,18 Mains/20 Crosses,Head Light,1,Classic
+608,Tecnifibre,Tecnifibre TFight 315,97,27,11.5,6pts HL,318,22,0,65,16 Mains/19 Crosses,Head Light,6,Classic
+609,Tecnifibre,Tecnifibre TFlash 310,100,27,11.5,6pts HL,321,24,1,67,16 Mains/19 Crosses,Head Light,6,Classic
+610,Tecnifibre,Tecnifibre Tflash 270 OS,110,27.5,10.2,3pts HL,315,25,1,68,16 Mains/20 Crosses,Head Light,3,Classic
+611,Tecnifibre,Tecnifibre TFlash 310 18x20,100,27,11.5,6pts HL,321,24,1,67,18 Mains/20 Crosses,Head Light,6,Classic
+612,Tecnifibre,Tecnifibre TFight 320 16x20,97,27,11.7,8pts HL,307,20,0,64,16 Mains/20 Crosses,Head Light,8,Classic
+613,Tecnifibre,Tecnifibre Tfight 335 16x20,97,27,12.4,10pts HL,320,20,0,63,16 Mains/20 Crosses,Head Light,1,Classic
+614,Tecnifibre,Tecnifibre TFight 320 18x20,97,27,11.7,8pts HL,308,20,0,64,18 Mains/20 Crosses,Head Light,8,Classic
+615,Tecnifibre,Tecnifibre TFight 335 18x20,97,27,12.4,10pts HL,320,20,0,63,18 Mains/20 Crosses,Head Light,1,Classic
+616,Tecnifibre,Tecnifibre TFight 325 XL VO2 Max,95,27.5,12,14pts HL,340,22,0,69,18 Mains/19 Crosses,Head Light,1,Classic
+617,Tecnifibre,Tecnifibre TFight 325 VO2 Max,95,27,12.1,7pts HL,326,22,0,68,18 Mains/19 Crosses,Head Light,7,Classic
+618,Tecnifibre,Tecnifibre TFight 320 VO2 Max,95,27,11.9,7pts HL,324,22,0,66,16 Mains/19 Crosses,Head Light,7,Classic
+619,Tecnifibre,Tecnifibre TFlash 315 VO2 Max,100,27,11.6,6pts HL,322,25,0,61,16 Mains/20 Crosses,Head Light,6,Classic
+620,Tecnifibre,Tecnifibre TFight 295 VO2 Max,95,27,11,3pts HL,316,22,0,66,16 Mains/19 Crosses,Head Light,3,Classic
+621,Tecnifibre,Tecnifibre TFlash 290 VO2 Max,100,27,10.9,3pts HL,315,24,1,69,16 Mains/19 Crosses,Head Light,3,Classic
+622,Tecnifibre,Tecnifibre TFlash 315 SpeedFlex,100,27,11.7,7pts HL,325,24,1,70,16 Mains/19 Crosses,Head Light,7,Classic
+623,Tecnifibre,Tecnifibre TFlash 300 Speedflex,100,27,11.1,4pts HL,320,24,1,72,16 Mains/19 Crosses,Head Light,4,Classic
+624,Tecnifibre,Tecnifibre TFight 305 VO2 Max,95,27,11.3,3pts HL,323,22,0,69,18 Mains/19 Crosses,Head Light,3,Classic
+625,Tecnifibre,Tecnifibre Rebound Pro,95,27,11,3pts HL,300,22,0,69,16 Mains/19 Crosses,Head Light,3,Classic
+626,Tecnifibre,Tecnifibre TFight 320 VO2 Max 2012,95,27,11.9,7pts HL,324,22,0,66,16 Mains/19 Crosses,Head Light,7,Classic
+627,Tecnifibre,Tecnifibre TFight 255,100,27,9.9,0pts EB,296,23,1,68,16 Mains/20 Crosses,Head Heavy,0,Classic
+628,Tecnifibre,Tecnifibre TFight 315 Ltd. 18 Main,98,27,11.7,6pts HL,309,20,0,61,18 Mains/20 Crosses,Head Light,6,Classic
+629,Tecnifibre,Tecnifibre TFight 315 Ltd. 16 Main,98,27,11.6,7pts HL,301,20,0,59,16 Mains/19 Crosses,Head Light,7,Classic
+630,Tecnifibre,Tecnifibre TRebound 265 Pro\\Racquets 2013,105,27,10.1,3pts HH,313,25,1,72,16 Mains/19 Crosses,Head Heavy,3,Classic
+631,Tecnifibre,Tecnifibre TRebound 295 ProRacquets 2013,100,27,11.1,2pts HL,330,25,0,71,16 Mains/20 Crosses,Head Light,2,Classic
+632,Tecnifibre,2013/Tecnifibre TFight 295 MP,100,27,10.8,3pts HL,308,22.5,0,70,16 Mains/20 Crosses,Head Light,3,Classic
+633,Tecnifibre,2013/Tecnifibre TFight 295 TP,95,27,10.9,3pts HL,309,22.5,0,69,16 Mains/19 Crosses,Head Light,3,Classic
+634,Tecnifibre,Tecnifibre TFlash 300 ATP,100,27.1,11.2,4pts HL,314,24.5,1,72,16 Mains/19 Crosses,Head Light,4,Classic
+635,Tecnifibre,Tecnifibre TFlash 315 ATP,100,27,11.7,6pts HL,322,24.5,1,71,16 Mains/19 Crosses,Head Light,6,Classic
+636,Tecnifibre,Tecnifibre TRebound 295 Pro,100,27,11.1,4pts HL,314,23,0,71,16 Mains/20 Crosses,Head Light,4,Classic
+637,Tecnifibre,Tecnifibre TFight 295 DYNACORE,100,27,10.9,3pts HL,310,23,0,68,16 Mains/20 Crosses,Head Light,3,Classic
+638,Tecnifibre,Tecnifibre TFight 300 DYNACORE,98,27,11.2,4pts HL,316,22,0,68,16 Mains/19 Crosses,Head Light,4,Classic
+639,Tecnifibre,Tecnifibre TFight 305 DYNACORE,95,27,11.3,4pts HL,313,22,0,68,18 Mains/19 Crosses,Head Light,4,Classic
+640,Tecnifibre,Tecnifibre TFight 315 DYNACORE,98,27,11.7,7pts HL,311,22.5,0,67,16 Mains/19 Crosses,Head Light,7,Classic
+641,Tecnifibre,Tecnifibre TFight 325 DYNACORE ,95,27,12,7pts HL,316,22,0,68,18 Mains/19 Crosses,Head Light,7,Classic
+642,Tecnifibre,Tecnifibre TFlash 300 Dynacore ATP,100,27,11.2,4pts HL,318,24.5,1,71,16 Mains/19 Crosses,Head Light,4,Classic
+643,Tecnifibre,Tecnifibre TFlash 315 Dynacore ,100,27,11.7,7pts HL,319,24.5,0,71,16 Mains/19 Crosses,Head Light,7,Classic
+645,Tecnifibre,Tecnifibre TFight DC 315,98,27,11.7,7pts HL,310,22.5,0,67,19 Mains/19 Crosses,Head Light,7,Classic
+646,Tecnifibre,Tecnifibre TFight DC 320,98,27,11.9,7pts HL,326,22.5,0,68,18 Mains/19 Crosses,Head Light,7,Classic
+648,Tecnifibre,Tecnifibre TFlash 300 PS,100,27,11.2,4pts HL,313,25,0,71,16 Mains/19 Crosses,Head Light,4,Classic
+649,Tecnifibre,Tecnifibre TFlash 285 PS,100,27,10.7,1pts HL,307,25,0,68,16 Mains/19 Crosses,Head Light,1,Classic
+650,Tecnifibre,Tecnifibre TFlash 270 PS,100,27,10.2,0pts EB,301,25,1,68,16 Mains/19 Crosses,Head Heavy,0,Classic
+651,Tecnifibre,Tecnifibre TFight DC 315 Ltd. (16x19),98,27,11.7,7pts HL,308,20,0,62,16 Mains/19 Crosses,Head Light,7,Classic
+652,Tecnifibre,Tecnifibre TFight DC 315 Ltd. (18x20),98,27,11.7,7pts HL,310,20,0,62,18 Mains/20 Crosses,Head Light,7,Classic
+656,Tecnifibre,Tecnifibre T. Rebound Tempo 255,100,26.6,9.5,1pts HH,285,25,1,68,16 Mains/19 Crosses,Head Heavy,1,Classic
+657,Tecnifibre,Tecnifibre ATP TFight 265 XTC,100,27,9.9,1pts HL,308,23.5,0,66,16 Mains/19 Crosses,Head Light,1,Classic
+658,Tecnifibre,Tecnifibre ATP TFight 280 XTC,100,27,10.5,3pts HL,304,23.5,0,68,16 Mains/19 Crosses,Head Light,3,Classic
+659,Tecnifibre,Tecnifibre ATP TFight 295 XTC,100,27,11,3pts HL,317,23.5,0,69,16 Mains/19 Crosses,Head Light,3,Classic
+660,Tecnifibre,Tecnifibre ATP TFight 300 XTC,98,27,11.2,4pts HL,321,22.5,0,69,16 Mains/19 Crosses,Head Light,4,Classic
+661,Tecnifibre,Tecnifibre ATP TFight 305 XTC,98,27,11.4,3pts HL,329,22.5,0,65,18 Mains/19 Crosses,Head Light,3,Classic
+662,Tecnifibre,Tecnifibre ATP TFight 315 XTC,98,27,11.7,7pts HL,314,22.5,0,68,16 Mains/19 Crosses,Head Light,7,Classic
+664,Tecnifibre,Tecnifibre TFight 315 Ltd. XTC (18x20),98,27,11.7,7pts HL,318,20,0,64,18 Mains/20 Crosses,Head Light,7,Classic
+665,Tecnifibre,"Tecnifibre TFight 315 Ltd. XTC (16x19)	",98,27,11.7,7pts HL,324,20,0,64,16 Mains/19 Crosses,Head Light,7,Classic
+666,Tecnifibre,Tecnifibre T-Rebound 285 Tempo2 TourLite,100,26.6,10.5,2pts HL,294,25,0,68,16 Mains/19 Crosses,Head Light,2,Classic
+667,Tecnifibre,Tecnifibre T-Rebound 270 Tempo2 ProLite,100,26.6,10,0pts EB,290,25,1,68,16 Mains/19 Crosses,Head Heavy,0,Classic
+668,Tecnifibre,Tecnifibre T-Rebound 260 Tempo2 PowerLite,105,26.6,9.8,0pts EB,286,25,1,64,16 Mains/19 Crosses,Head Heavy,0,Classic
+669,Tecnifibre,Tecnifibre T-Rebound 275 Tempo2 PowerLite,105,26.6,10.3,1pts HL,282,25,0,58,16 Mains/19 Crosses,Head Light,1,Classic
+670,Tecnifibre,Tecnifibre T-Rebound 265 Tempo2 Fit,102,26.5,9.8,1pts HH,282,25,1,60,16 Mains/19 Crosses,Head Heavy,1,Classic
+671,Tecnifibre,Tecnifibre TF40 305 - 2019,98,27,11.3,3pts HL,326,22,0,64,18 Mains/20 Crosses,Head Light,3,Classic
+672,Tecnifibre,Tecnifibre TF40 315 - 2019,98,27,11.8,7pts HL,323,22,0,64,18 Mains/20 Crosses,Head Light,7,Classic
+673,Tecnifibre,Tecnifibre TFlash 300 CES,100,27,11.3,6pts HL,320,26,0,72,16 Mains/19 Crosses,Head Light,6,Classic
+674,Tecnifibre,Tecnifibre TFlash 285 CES,100,27,10.7,1pts HL,309,26,0,72,16 Mains/19 Crosses,Head Light,1,Classic
+675,Tecnifibre,Tecnifibre TFlash 270 CES,100,27,10.2,0pts EB,309,26,1,72,16 Mains/19 Crosses,Head Heavy,0,Classic
+676,Tecnifibre,Tecnifibre TFlash 255 CES,100,27,9.6,0pts EB,305,26,1,70,16 Mains/19 Crosses,Head Heavy,0,Classic
+677,Tecnifibre,Tecnifibre T-Rebound 285 Tempo3 TourLite,100,26.6,10.5,4pts HL,298,25,0,69,16 Mains/19 Crosses,Head Light,4,Classic
+678,Tecnifibre,Tecnifibre T-Rebound 270 Tempo3,100,26.6,10,0pts EB,285,25,1,71,16 Mains/19 Crosses,Head Heavy,0,Classic
+679,Tecnifibre,Tecnifibre T-Rebound 260 Tempo3,105,26.6,9.8,1pts HL,283,25,0,68,16 Mains/19 Crosses,Head Light,1,Classic
+680,Tecnifibre,Tecnifibre TFight 280 RS,100,27,10.5,3pts HL,307,23.5,0,69,16 Mains/19 Crosses,Head Light,3,Classic
+681,Tecnifibre,Tecnifibre TFight 295 RS - 2020,100,27,11,3pts HL,318,23.5,0,70,16 Mains/19 Crosses,Head Light,3,Classic
+682,Tecnifibre,Tecnifibre TFight 300 RS - 2020,98,27,11.2,4pts HL,319,23,0,66,16 Mains/19 Crosses,Head Light,4,Classic
+683,Tecnifibre,Tecnifibre TFight 305 RS - 2020,98,27,11.4,3pts HL,333,23,0,67,18 Mains/19 Crosses,Head Light,3,Classic
+684,Tecnifibre,Tecnifibre TFight 315 RS - 2020,98,27,11.7,7pts HL,321,23,0,69,16 Mains/19 Crosses,Head Light,7,Classic
+685,Tecnifibre,Tecnifibre T-Rebound 298 IGA - 2021,98,27,11,4pts HL,319,23,0,71,16 Mains/19 Crosses,Head Light,4,Classic
+686,Tecnifibre,Tecnifibre TF-X1 300 - 2021,100,27,11.1,4pts HL,323,24,0,71,16 Mains/19 Crosses,Head Light,4,Classic
+687,Tecnifibre,Tecnifibre TF-X1 285 - 2021,100,27,10.5,2pts HL,316,24,0,71,16 Mains/19 Crosses,Head Light,2,Classic
+688,Tecnifibre,Tecnifibre TF-X1 275 - 2021,105,27,10.2,1pts HL,310,25.5,0,69,16 Mains/19 Crosses,Head Light,1,Classic
+689,Tecnifibre,Tecnifibre TF40 315 (16x19) - 2022,98,27,11.7,8pts HL,313,22,0,64,16 Mains/19 Crosses,Head Light,8,Classic
+690,Tecnifibre,Tecnifibre TF40 305 (18x20) - 2022,98,27,11.4,3pts HL,328,22,0,64,18 Mains/20 Crosses,Head Light,3,Classic
+691,Tecnifibre,Tecnifibre TF40 305 16x19 - 2022,98,27,11.3,3pts HL,321,22,0,64,16 Mains/19 Crosses,Head Light,3,Classic
+692,Tecnifibre,Tecnifibre Tempo 298 IGA -2022,98,27,11,4pts HL,319,23,0,71,16 Mains/19 Crosses,Head Light,4,Classic
+693,Volkl,Volkl Boris Becker 10,100,27.6,11.1,5pts HL,322,23,1,65,16 Mains/18 Crosses,Head Light,5,Classic
+694,Volkl,Volkl DNX 10 Mid,93,27,12,12pts HL,331,19,0,58,16 Mains/19 Crosses,Head Light,1,Classic
+699,Volkl,Volkl DNX 4,105,27.6,10.3,3pts HL,309,25,1,65,16 Mains/19 Crosses,Head Light,3,Classic
+700,Volkl,Volkl Tour 8 V-Engine,100,27.6,10.9,6pts HL,315,24,0,69,16 Mains/18 Crosses,Head Light,6,Classic
+705,Volkl,Volkl Tour 6 Generation II,100,27,10.4,4pts HL,300,24,0,61,16 Mains/18 Crosses,Head Light,4,Classic
+706,Volkl,Volkl C10 Pro,98,27,12.2,8pts HL,323,20,0,63,16 Mains/19 Crosses,Head Light,8,Classic
+707,Volkl,Volkl Tour 10 Midplus Generation II,98,27,12,9pts HL,315,20,0,61,16 Mains/19 Crosses,Head Light,9,Classic
+708,Volkl,Volkl Boris Becker 1,112,27.25,9.6,5pts HH,313,29,2,66,16 Mains/19 Crosses,Head Heavy,5,Classic
+709,Volkl,Volkl Tour 9 V-Engine (16x19),98,27,11.5,5pts HL,308,22,0,64,16 Mains/19 Crosses,Head Light,5,Classic
+710,Volkl,Volkl DNX 10 Midplus,93,27,12,12pts HL,331,19,0,58,16 Mains/19 Crosses,Head Light,1,Classic
+712,Volkl,Volkl Boris Becker 5,105,27,10,0pts EB,300,25,1,64,16 Mains/19 Crosses,Head Heavy,0,Classic
+713,Volkl,Volkl Catapult 4 Generation II,105,27.5,10.2,4pts HL,300,25,1,65,16 Mains/19 Crosses,Head Light,4,Classic
+714,Volkl,Volkl Tour 9 V-Engine,98,27,11.4,6pts HL,306,22,0,63,18 Mains/20 Crosses,Head Light,6,Classic
+716,Volkl,Volkl Tour 10 V-Engine Mid,93,27,12.2,8pts HL,318,18,0,60,18 Mains/20 Crosses,Head Light,8,Classic
+720,Volkl,Volkl Tour 5,105,27,9.6,0pts EB,290,23,1,61,16 Mains/19 Crosses,Head Heavy,0,Classic
+724,Volkl,Volkl C-10 Pro Tour,93,27,12.4,6pts HL,339,20,0,61,16 Mains/19 Crosses,Head Light,6,Classic
+727,Volkl,Volkl C-8 ,98,27,11,3pts HL,315,21,0,62,16 Mains/19 Crosses,Head Light,3,Classic
+728,Volkl,Volkl C-9 Pro,98,27,11.5,5pts HL,309,20,0,60,16 Mains/19 Crosses,Head Light,5,Classic
+734,Volkl,Volkl Catapult 4,105,27.5,10.3,4pts HL,300,25,1,65,16 Mains/19 Crosses,Head Light,4,Classic
+735,Volkl,Volkl Catapult 6,100,27.25,10.5,3pts HL,305,24,1,62,16 Mains/18 Crosses,Head Light,3,Classic
+736,Volkl,Volkl Catapult 7,100,27.6,11,3pts HL,310,24,1,64,16 Mains/18 Crosses,Head Light,3,Classic
+747,Volkl,Volkl Quantum 10 Tour,98,27,11.5,6pts HL,306,20,0,64,18 Mains/20 Crosses,Head Light,6,Classic
+749,Volkl,Volkl Quantum 5,110,27.5,10.1,3pts HL,300,27,1,68,16 Mains/19 Crosses,Head Light,3,Classic
+750,Volkl,Volkl Quantum 8,102,27.6,10.3,2pts HL,318,24,0,65,16 Mains/19 Crosses,Head Light,2,Classic
+754,Volkl,Volkl Tour 10 Mid,93,27,12,6pts HL,327,20,0,59,18 Mains/20 Crosses,Head Light,6,Classic
+755,Volkl,Volkl Tour 10 Midplus,98,27,11.7,5pts HL,328,20,0,62,16 Mains/19 Crosses,Head Light,5,Classic
+756,Volkl,Volkl Tour 10 V-Engine Midplus,98,27,11.9,7pts HL,320,20,0,62,16 Mains/19 Crosses,Head Light,7,Classic
+758,Volkl,Volkl Tour 7,107,27,11.1,5pts HL,305,22,0,63,16 Mains/19 Crosses,Head Light,5,Classic
+759,Volkl,Volkl Tour 8,100,27.6,10.9,6pts HL,307,20,0,70,16 Mains/18 Crosses,Head Light,6,Classic
+761,Volkl,Volkl Tour 8 S.E.,100,27,10.3,4pts HL,290,20,0,62,16 Mains/18 Crosses,Head Light,4,Classic
+762,Volkl,Volkl Tour 9,98,27,11.3,6pts HL,300,20,0,68,16 Mains/19 Crosses,Head Light,6,Classic
+767,Volkl,Volkl X-10 Pro,98,27.5,11.4,11pts HL,307,20,0,61,16 Mains/19 Crosses,Head Light,1,Classic
+773,Volkl,Volkl Power Bridge 10 MP,98,27,12,7pts HL,320,19,0,64,18 Mains/20 Crosses,Head Light,7,Classic
+775,Volkl,Volkl Catapult V10 V-Engine,102,27,11.8,6pts HL,334,28,0,67,16 Mains/19 Crosses,Head Light,6,Classic
+776,Volkl,Volkl Power Bridge 3,110,27.8,10.2,1pts HL,339,27,2,68,16 Mains/19 Crosses,Head Light,1,Classic
+777,Volkl,Volkl Power Bridge V1 Midplus,102,27,10.5,2pts HL,310,25,1,68,16 Mains/19 Crosses,Head Light,2,Classic
+778,Volkl,Volkl Power Bridge V1 Oversize,110,27.6,10.5,3pts HL,320,26,1,68,16 Mains/19 Crosses,Head Light,3,Classic
+779,Volkl,Volkl Quantum Scorcher,102,27,10,6pts HL,285,25,0,61,16 Mains/19 Crosses,Head Light,6,Classic
+780,Volkl,Volkl Power Bridge 10 Mid,93,27,12.1,10pts HL,320,19,0,59,16 Mains/19 Crosses,Head Light,1,Classic
+781,Volkl,Volkl C10 Pro,98,27,12.2,8pts HL,323,20,0,63,16 Mains/19 Crosses,Head Light,8,Classic
+782,Volkl,Volkl Power Bridge 2,115,27.6,10,2pts HH,325,28,2,70,16 Mains/19 Crosses,Head Heavy,2,Classic
+783,Volkl,Volkl Power Bridge 9,98,27,11.3,6pts HL,306,21,0,66,16 Mains/19 Crosses,Head Light,6,Classic
+784,Volkl,Volkl Power Bridge 5,102,27,10.6,4pts HL,302,25,1,65,16 Mains/19 Crosses,Head Light,4,Classic
+785,Volkl,Volkl Tour Scorcher,100,27,9.9,2pts HH,293,23,1,60,16 Mains/18 Crosses,Head Heavy,2,Classic
+786,Volkl,Volkl Power Bridge 8 315,100,27,11.4,8pts HL,302,24,0,70,16 Mains/18 Crosses,Head Light,8,Classic
+787,Volkl,Volkl Power Bridge 7,107,27.3,10.5,1pts HL,309,23,1,67,16 Mains/19 Crosses,Head Light,1,Classic
+788,Volkl,Volkl Power Bridge 9 Junior 26,102,26,9.5,3pts HH,240,24,1,58,16 Mains/19 Crosses,Head Heavy,3,Classic
+789,Volkl,Volkl Organix 8 (300g) - 2011,100,27,11.4,4pts HL,330,23.5,1,68,16 Mains/18 Crosses,Head Light,4,Classic
+790,Volkl,Volkl Organix 6 - 2011,100,27,10.22,0pts EB,306,24,2,65,16 Mains/18 Crosses,Head Heavy,0,Classic
+791,Volkl,Volkl Organix 4 - 2011,105,27.6,10.2,5pts HL,306,25,1,65,16 Mains/19 Crosses,Head Light,5,Classic
+792,Volkl,Volkl Organix 10 325g - 2011,98,27,12.1,7pts HL,317,20,0,64,16 Mains/19 Crosses,Head Light,7,Classic
+793,Babolat,Babolat Boost Drive (2021),105,27,9.6,3pts HH,312,26,1,65,16 Mains/19 Crosses,Head Heavy,3,Modern
+794,Babolat,Babolat Boost Aero Yellow,102,27,9.8,2pts HH,306,26,1,67,16 Mains/19 Crosses,Head Heavy,2,Modern
+795,Babolat,Babolat Drive 115 (2018),115,27.6,9.1,5pts HH,314,28,1,66,16 Mains/20 Crosses,Head Heavy,5,Modern
+796,Babolat,Babolat Pure Aero - 2019,100,27,11.2,4pts HL,324,26,0,67,16 Mains/19 Crosses,Head Light,4,Modern
+799,Babolat, Babolat Pure Drive VS - 2019,98,27,11.2,4pts HL,317,23,0,68,16 Mains/19 Crosses,Head Light,4,Modern
+800,Babolat,Babolat Pure Aero Tour - 2019,100,27,11.8,6pts HL,327,26,0,68,16 Mains/19 Crosses,Head Light,6,Modern
+801,Babolat,Babolat Pure Aero Plus - 2019,100,27.5,11.3,6pts HL,330,26,0,68,16 Mains/19 Crosses,Head Light,6,Modern
+802,Babolat,Babolat Drive G,102,27,10.1,4pts HL,298,26,0,67,16 Mains/19 Crosses,Head Light,4,Modern
+803,Babolat,Babolat Pure Strike Tour 3rd Gen - 2019,98,27,12,6pts HL,333,23,0,65,16 Mains/19 Crosses,Head Light,6,Modern
+804,Babolat,Babolat Pure Strike 100 3rd Gen - 2019,100,27,11.1,4pts HL,319,23,0,69,16 Mains/19 Crosses,Head Light,4,Modern
+805,Babolat,Babolat Pure Strike Team 3rd Gen - 2019,100,27,10.7,1pts HL,309,23,0,69,16 Mains/19 Crosses,Head Light,1,Modern
+806,Babolat,Babolat Pure Strike 16x19 3rd Gen - 2019,98,27,11.4,4pts HL,327,23,0,66,16 Mains/19 Crosses,Head Light,4,Modern
+807,Babolat,Babolat Pure Strike 18x20 3rd Gen - 2019,98,27,11.4,4pts HL,334,23,0,66,18 Mains/20 Crosses,Head Light,4,Modern
+808,Babolat,Babolat Pure Strike EVO - 2020,102,27,10.4,4pts HL,308,25,0,65,16 Mains/19 Crosses,Head Light,4,Modern
+809,Babolat,Babolat Boost S (Strike),102,27,10.4,3pts HL,312,26,0,68,16 Mains/19 Crosses,Head Light,3,Modern
+810,Babolat,Babolat Pure Aero VS -2020,98,27,11.3,6pts HL,321,23,0,67,16 Mains/20 Crosses,Head Light,6,Modern
+811,Babolat,Babolat Pure Drive - 2021,100,27,11.2,4pts HL,320,26,0,71,16 Mains/19 Crosses,Head Light,4,Modern
+812,Babolat,Babolat Pure Drive Lite - 2021,100,27,10,1pts HL,299,26,0,69,16 Mains/19 Crosses,Head Light,1,Modern
+813,Babolat,Babolat Pure Drive 107 - 2021,107,27.2,10.6,5pts HL,309,26,1,69,16 Mains/19 Crosses,Head Light,5,Modern
+814,Babolat,Babolat Pure Drive 110 - 2021,110,27.6,9.5,3pts HL,298,26.5,1,70,16 Mains/19 Crosses,Head Light,3,Modern
+815,Babolat,Babolat Pure Drive Team - 2021,100,27,10.6,5pts HL,313,26,0,69,16 Mains/19 Crosses,Head Light,5,Modern
+816,Babolat,Babolat Pure Drive Tour - 2021,100,27,11.8,6pts HL,326,26,0,70,16 Mains/19 Crosses,Head Light,6,Modern
+817,Babolat,Babolat Pure Drive Plus - 2021,100,27.5,11.2,6pts HL,324,26,0,69,16 Mains/19 Crosses,Head Light,6,Modern
+818,Babolat,Babolat EVO Drive,104,27,10,4pts HL,302,26,0,68,16 Mains/17 Crosses,Head Light,4,Modern
+819,Babolat,Babolat EVO Drive Lite,104,27,9.5,4pts HL,298,26,0,67,16 Mains/17 Crosses,Head Light,4,Modern
+820,Babolat,Babolat Pure Aero Rafa! - 2018,100,27,11.2,4pts HL,324,26,0,67,16 Mains/19 Crosses,Head Light,4,Modern
+821,Babolat,Babolat EVO Drive 115,115,27.6,9,0pts EB,313,28,1,67,16 Mains/17 Crosses,Head Heavy,0,Modern
+822,Babolat,Babolat Boost Drive W (2021),105,27,9.6,3pts HH,312,26,1,65,16 Mains/19 Crosses,Head Heavy,3,Modern
+823,Babolat,Babolat Pure Aero Rafa Lite - 2018,100,27,10.1,0pts EB,311,26,1,68,16 Mains/19 Crosses,Head Heavy,0,Modern
+824,Babolat,Babolat Pure Aero Rafa Team - 2018,100,27,10.6,4pts HL,307,26,0,69,16 Mains/19 Crosses,Head Light,4,Modern
+825,Babolat,Babolat Boost Aero Rafa,102,27,9.8,2pts HH,306,26,1,67,16 Mains/19 Crosses,Head Heavy,2,Modern
+826,Babolat,Babolat Pure Strike 103 - 2022,103,27,10.6,4pts HL,303,23,0,65,16 Mains/19 Crosses,Head Light,4,Modern
+827,Babolat,Babolat Pure Strike VS - 2022,97,27,11.7,7pts HL,322,22,0,63,16 Mains/20 Crosses,Head Light,7,Modern
+828,Babolat,Babolat EVO Drive Lite W - 2021,104,27,9.5,4pts HL,298,26,0,67,16 Mains/17 Crosses,Head Light,4,Modern
+829,Babolat,Babolat EVOKE 105 - 2021,105,27,10.2,3pts HH,292,22,1,57,16 Mains/19 Crosses,Head Heavy,3,Modern
+830,Babolat,Babolat EVOKE 102 - 2021,102,27,10.2,3pts HH,289,22,1,56,16 Mains/19 Crosses,Head Heavy,3,Modern
+831,Babolat,Babolat EVOKE 102 W - 2021,102,27,10.2,3pts HH,289,22,1,56,16 Mains/19 Crosses,Head Heavy,3,Modern
+832,Babolat,Babolat Boost Drive Wimbledon - 2022,105,27,9.6,3pts HH,312,26,1,65,16 Mains/19 Crosses,Head Heavy,3,Modern
+833,Babolat,Babolat EVO Drive 115 Wimbledon - 2022,115,27.6,9,0pts EB,313,28,1,67,16 Mains/17 Crosses,Head Heavy,0,Modern
+834,Babolat,Babolat Pure Aero - 2023,100,27,11.2,4pts HL,322,26,0,65,16 Mains/19 Crosses,Head Light,4,Modern
+835,Babolat,Babolat Pure Aero Lite - 2023,100,27,10,1pts HL,304,26,0,65,16 Mains/19 Crosses,Head Light,1,Modern
+836,Wilson,Wilson Hyper Hammer 5.3 Stretch Oversize,110,27.5,9,8pts HH,301,25,1,70,16 Mains/20 Crosses,Head Heavy,8,Modern
+837,Wilson,Wilson Blade 98 (18x20) v7 - 2019,98,27,11.4,4pts HL,334,21,0,62,18 Mains/20 Crosses,Head Light,4,Modern
+838,Wilson,Wilson Blade 98L (16x19) v6 - 2021,98,27,10.7,1pts HL,314,21,0,67,16 Mains/19 Crosses,Head Light,1,Modern
+839,Wilson,Wilson Pro Staff 97L v13 - 2020,97,27,10.8,3pts HL,311,23.5,0,69,16 Mains/19 Crosses,Head Light,3,Modern
+840,Wilson,Wilson Clash 100 Pro - 2019,100,27,11.5,9pts HL,322,24.5,0,55,16 Mains/19 Crosses,Head Light,9,Modern
+841,Wilson,Wilson Clash 100 - 2019,100,27,11,7pts HL,312,24.5,0,55,16 Mains/19 Crosses,Head Light,7,Modern
+842,Wilson,Wilson Clash 98 - 2019,98,27,11.5,9pts HL,326,24,0,55,16 Mains/19 Crosses,Head Light,9,Modern
+843,Wilson,Wilson Clash 100L - 2019,100,27,10.3,6pts HL,300,24.5,0,54,16 Mains/19 Crosses,Head Light,6,Modern
+844,Wilson,Wilson Blade 98 (16x19) v7 - 2019,98,27,11.4,4pts HL,328,21,0,62,16 Mains/19 Crosses,Head Light,4,Modern
+845,Wilson,Wilson Clash 100UL - 2019,100,27,9.9,1pts HL,299,24.5,0,60,16 Mains/19 Crosses,Head Light,1,Modern
+846,Wilson,Wilson Ultra 100 v3 - 2020,100,27,11.2,4pts HL,312,26,0,73,16 Mains/19 Crosses,Head Light,4,Modern
+847,Wilson,Wilson Ultra 100L v3 - 2020,100,27,10.4,4pts HL,296,26,0,68,16 Mains/19 Crosses,Head Light,4,Modern
+848,Wilson,Wilson Ultra 108 v3 - 2020,108,27.25,10,1pts HL,306,27.5,1,69,16 Mains/18 Crosses,Head Light,1,Modern
+849,Wilson,Wilson Ultra 100UL v3 - 2020,100,27,9.6,3pts HL,291,26,0,68,16 Mains/19 Crosses,Head Light,3,Modern
+850,Wilson,Wilson Pro Staff RF97 v13 - 2020,97,27,12.6,9pts HL,333,21.5,0,68,16 Mains/19 Crosses,Head Light,9,Modern
+851,Wilson,Wilson Pro Staff 97 v13 - 2020,97,27,11.7,7pts HL,321,21.5,0,66,16 Mains/19 Crosses,Head Light,7,Modern
+852,Wilson,Wilson Blade SW102 Autograph - 2020,102,28,11.4,7pts HL,349,22.5,0,69,18 Mains/19 Crosses,Head Light,7,Modern
+853,Wilson,Wilson Pro Staff 97UL v13 - 2020,97,27,10,4pts HL,296,23.5,0,66,16 Mains/19 Crosses,Head Light,4,Modern
+854,Wilson,Wilson Burn 100 v4 - 2020,100,27,11.2,3pts HL,328,25,0,71,16 Mains/19 Crosses,Head Light,3,Modern
+855,Wilson,Wilson Burn 100ULS v4 - 2020,100,27,9.7,1pts HL,304,25,0,67,18 Mains/16 Crosses,Head Light,1,Modern
+856,Wilson,Wilson Burn 100LS V4 - 2020,100,27,10.5,3pts HL,314,25,0,71,18 Mains/16 Crosses,Head Light,3,Modern
+857,Wilson,Wilson Burn 100S v4 - 2020,100,27,11.2,3pts HL,326,25,0,72,18 Mains/16 Crosses,Head Light,3,Modern
+860,Wilson,Wilson Blade 98 (16x19) v6 - 2021,98,27,11.3,3pts HL,327,21,0,67,16 Mains/19 Crosses,Head Light,3,Modern
+861,Wilson,Wilson Ultra 100 v2 - 2021,100,27,11.2,4pts HL,314,26.5,0,74,16 Mains/19 Crosses,Head Light,4,Modern
+862,Wilson,Wilson Ultra 100L v2 - 2021,100,27,10.3,3pts HL,302,26.5,0,68,16 Mains/19 Crosses,Head Light,3,Modern
+863,Wilson,Wilson Clash 100S - 2019,100,27,10.9,7pts HL,317,24.5,0,54,18 Mains/16 Crosses,Head Light,7,Modern
+864,Wilson,Wilson Pro Staff Six.One 100 v13 - 2021,100,27,11.4,5pts HL,323,22.5,0,64,16 Mains/19 Crosses,Head Light,5,Modern
+865,Wilson,Wilson Blade 98 16x19 v8 - 2021,98,27,11.3,5pts HL,317,21,0,61,16 Mains/19 Crosses,Head Light,5,Modern
+866,Wilson,Wilson Blade 98 18x20 v8 - 2021,98,27,11.4,4pts HL,327,21,0,60,18 Mains/20 Crosses,Head Light,4,Modern
+867,Wilson,Wilson Blade 100L v8 - 2021,100,27,10.6,1pts HL,314,22.5,0,69,16 Mains/19 Crosses,Head Light,1,Modern
+868,Wilson,Wilson Blade 104 v8 - 2021,104,27.5,10.8,6pts HL,317,22.5,0,60,16 Mains/19 Crosses,Head Light,6,Modern
+869,Wilson,Wilson Clash 100 v2 - 2022,100,27,11,7pts HL,313,24.5,0,57,16 Mains/19 Crosses,Head Light,7,Modern
+870,Wilson,Wilson Clash 100L v2 - 2022,100,27,10.4,6pts HL,303,24.5,0,55,16 Mains/19 Crosses,Head Light,6,Modern
+871,Wilson,Wilson Clash 100 Pro v2 - 2022,100,27,11.5,9pts HL,325,24.5,0,59,16 Mains/20 Crosses,Head Light,9,Modern
+872,Wilson,Wilson Clash 98 v2 - 2022,98,27,11.5,8pts HL,327,24,0,60,16 Mains/20 Crosses,Head Light,8,Modern
+873,Wilson,Wilson Clash 100UL v2 - 2022,100,27,9.9,1pts HL,300,24.5,0,63,16 Mains/19 Crosses,Head Light,1,Modern
+874,Wilson,Wilson Clash 108 v2 - 2022,108,27.25,10.4,0pts EB,325,24.5,1,63,16 Mains/19 Crosses,Head Heavy,0,Modern
+875,Wilson,Wilson Ultra 108 v4 - 2022,108,27.25,10,1pts HL,311,27.5,1,70,16 Mains/18 Crosses,Head Light,1,Modern
+876,Wilson,Wilson Ultra 100 v4 - 2022,100,27,11.2,4pts HL,317,26.5,0,70,16 Mains/19 Crosses,Head Light,4,Modern
+877,Wilson,Wilson Ultra 100UL v4 - 2022,100,27,9.7,1pts HL,286,26.5,0,68,16 Mains/19 Crosses,Head Light,1,Modern
+879,Head,Head Graphene XT Speed S - 2015,100,27,10.7,1pts HL,317,22.5,0,68,16 Mains/19 Crosses,Head Light,1,Modern
+880,Head,Head Graphene XT Instinct MP - 2014,100,27,11.1,5pts HL,319,25,0,66,16 Mains/19 Crosses,Head Light,5,Modern
+881,Head,Head Graphene XT Instinct S - 2014,102,27,10,2pts HH,302,26,1,71,16 Mains/19 Crosses,Head Heavy,2,Modern
+882,Head,Head Graphene XT Radical S - 2016,102,27,10.4,4pts HL,301,25,0,60,16 Mains/19 Crosses,Head Light,4,Modern
+883,Head,Head Graphene XT Speed MP - 2015,100,27,11.1,4pts HL,320,22,0,67,16 Mains/19 Crosses,Head Light,4,Modern
+884,Head,Head Graphene XT Radical MP - 2016,98,27,11,6pts HL,317,23,0,63,16 Mains/19 Crosses,Head Light,6,Modern
+887,Head,Head Graphene 360+ Speed MP - 2020,100,27,11.2,4pts HL,328,23,0,64,16 Mains/19 Crosses,Head Light,4,Modern
+888,Head,Head Graphene 360+ Speed Pro - 2020,100,27,11.6,6pts HL,329,23,0,62,18 Mains/20 Crosses,Head Light,6,Modern
+889,Head,Head Pro Tour 2.0 - 2020,98,27,12.1,6pts HL,335,20,0,65,18 Mains/20 Crosses,Head Light,6,Modern
+890,Head,Head Graphene 360+ Extreme Tour - 2020,98,27,11.4,6pts HL,318,23,0,65,16 Mains/19 Crosses,Head Light,6,Modern
+891,Head,Head Graphene 360+ Extreme MP - 2020,100,27,11.2,3pts HL,325,26,0,66,16 Mains/19 Crosses,Head Light,3,Modern
+892,Head,Head Graphene 360+ Radical Pro - 2021,98,27,11.7,6pts HL,330,21.5,0,65,16 Mains/19 Crosses,Head Light,6,Modern
+893,Head,Head Graphene 360+ Radical MP - 2021,98,27,11.2,4pts HL,326,23,0,65,16 Mains/19 Crosses,Head Light,4,Modern
+894,Head,Head Graphene 360+ Radical S - 2021,102,27,10.4,4pts HL,309,25,0,63,16 Mains/19 Crosses,Head Light,4,Modern
+895,Head,Head Gravity Lite Graphene 360+ - 2019,104,27,10.1,0pts EB,298,24,1,60,16 Mains/20 Crosses,Head Heavy,0,Modern
+896,Head,Head Gravity MP Graphene 360+ - 2019,100,27,11,3pts HL,323,22,0,62,16 Mains/20 Crosses,Head Light,3,Modern
+897,Head,Head Gravity Pro Graphene 360+ - 2019,100,27,11.7,6pts HL,332,20,0,62,18 Mains/20 Crosses,Head Light,6,Modern
+898,Head,Head Gravity S Graphene 360+ - 2019,104,27,10.6,3pts HL,307,24,0,61,16 Mains/20 Crosses,Head Light,3,Modern
+899,Head,Head Gravity Tour Graphene 360+ - 2019,100,27,11.4,4pts HL,325,22,0,61,18 Mains/20 Crosses,Head Light,4,Modern
+900,Head,Head Prestige Pro - 2021,98,27,11.9,6pts HL,325,20,0,60,18 Mains/20 Crosses,Head Light,6,Modern
+901,Head,Head Prestige MP - 2021,99,27,11.5,3pts HL,334,21.5,0,66,18 Mains/19 Crosses,Head Light,3,Modern
+902,Head,Head Prestige Tour - 2021,95,27,11.8,5pts HL,338,22,0,65,16 Mains/19 Crosses,Head Light,5,Modern
+903,Head,Head Boom MP - 2022,100,27,11.1,5pts HL,318,24.5,0,64,16 Mains/19 Crosses,Head Light,5,Modern
+904,Head,Head Boom Pro - 2022,98,27,11.6,6pts HL,325,22.5,0,66,16 Mains/19 Crosses,Head Light,6,Modern
+905,Head,Head Instinct MP - 2022,100,27,11.2,4pts HL,313,26,0,64,16 Mains/19 Crosses,Head Light,4,Modern
+906,Head,Head Instinct PWR 115 - 2022,115,27.7,8.7,9pts HH,314,29,2,70,16 Mains/19 Crosses,Head Heavy,9,Modern
+907,Head,Head Instinct Team L - 2022,107,27.2,10,1pts HH,301,26,1,63,16 Mains/19 Crosses,Head Heavy,1,Modern
+908,Head,Head Instinct PWR 110 - 2022,110,27.4,9.7,1pts HH,307,25,2,67,16 Mains/19 Crosses,Head Heavy,1,Modern
+909,Head,Head Speed Pro - 2022,100,27,11.5,6pts HL,326,23,0,62,18 Mains/20 Crosses,Head Light,6,Modern
+910,Head,Head Speed MP - 2022,100,27,11.1,4pts HL,323,23,0,62,16 Mains/19 Crosses,Head Light,4,Modern
+911,Head,Head Speed Team - 2022,100,27,10.5,2pts HL,306,25,0,66,16 Mains/19 Crosses,Head Light,2,Modern
+912,Head,Head Speed Team L - 2022,100,27,9.7,1pts HH,302,25,1,66,16 Mains/19 Crosses,Head Heavy,1,Modern
+913,Head,Head Boom Team - 2022,102,27,10.2,1pts HL,316,25,0,66,16 Mains/19 Crosses,Head Light,1,Modern
+914,Head,Head Boom Team L - 2022,107,27.4,9.7,0pts EB,306,26,1,66,16 Mains/19 Crosses,Head Heavy,0,Modern
+915,Head,Head Graphene XT Instinct PWR - 2014,115,27.7,8.6,14pts HL,316,29,1,70,16 Mains/19 Crosses,Head Light,1,Modern
+916,Prince,Prince Textreme Warrior 100 - 2016,100,27,11.14,6pts HL,320,25.5,0,66,16 Mains/18 Crosses,Head Light,6,Modern
+917,Prince,Prince Twistpower X100 - 2020,100,27,10.8,4pts HL,314,24.5,0,66,16 Mains/18 Crosses,Head Light,4,Modern
+918,Prince,Prince Phantom Pro 100 - 2017,100,27,11.4,6pts HL,320,19.5,0,54,16 Mains/18 Crosses,Head Light,6,Modern
+919,Prince,Prince Classic Graphite 107 - 2017,107,27,12.2,6pts HL,336,19,0,65,16 Mains/19 Crosses,Head Light,6,Modern
+920,Prince,Prince Textreme Tour 95 - 2019,95,27,11.9,8pts HL,325,22,0,64,16 Mains/19 Crosses,Head Light,8,Modern
+921,Prince,Prince Textreme Tour 100 (290) - 2019,100,27,10.8,3pts HL,324,23,0,65,16 Mains/18 Crosses,Head Light,3,Modern
+922,Prince,Prince ATS Textreme Tour 100 (290) - 2022,100,27,10.8,4pts HL,318,23,0,62,16 Mains/18 Crosses,Head Light,4,Modern
+923,Prince,Prince Textreme Tour 100P - 2019,100,27,11.5,7pts HL,324,23,0,66,18 Mains/20 Crosses,Head Light,7,Modern
+924,Prince,Prince Phantom Pro 100 (18x20) - 2019,100,27,11.9,9pts HL,326,19.5,0,55,18 Mains/20 Crosses,Head Light,9,Modern
+925,Prince,Prince ATS Textreme Tour 98 - 2022,98,27,11.4,6pts HL,325,23,0,62,16 Mains/19 Crosses,Head Light,6,Modern
+926,Prince,Prince Phantom O3 100X - 2020,100,27,11.5,7pts HL,325,19.5,0,60,16 Mains/18 Crosses,Head Light,7,Modern
+927,Prince,Prince Phantom 97P - 2020,97,27,11.8,8pts HL,320,19.5,0,58,16 Mains/18 Crosses,Head Light,8,Modern
+928,Prince,Prince Phantom 100X (305g) - 2020,100,27,11.4,6pts HL,321,20.5,0,58,16 Mains/18 Crosses,Head Light,6,Modern
+929,Prince,Prince Phantom 100X (290g) - 2020,100,27,10.8,4pts HL,319,20.5,0,58,16 Mains/18 Crosses,Head Light,4,Modern
+930,Prince,Prince Phantom 100X (18x20) - 2020,100,27,11.8,9pts HL,324,20.5,0,59,18 Mains/20 Crosses,Head Light,9,Modern
+931,Prince,Prince Phantom 93P (18x20) - 2020,93,27,12.2,9pts HL,329,19.5,0,60,18 Mains/20 Crosses,Head Light,9,Modern
+932,Prince,Prince Phantom 93P (14x18) - 2020,93,27,12.1,7pts HL,329,19.5,0,62,14 Mains/18 Crosses,Head Light,7,Modern
+933,Prince,Prince O3 Legacy120 - 2020,120,27.25,9.7,5pts HH,328,29.5,2,72,16 Mains/19 Crosses,Head Heavy,5,Modern
+934,Prince,Prince O3 Legacy110 - 2020,110,27.25,10.1,3pts HH,327,27,1,73,16 Mains/19 Crosses,Head Heavy,3,Modern
+935,Prince,Prince O3 Legacy 105 - 2020,105,27.25,10.4,0pts EB,321,25,2,67,16 Mains/19 Crosses,Head Heavy,0,Modern
+936,Prince,Prince Phantom 100G - 2020,100,27,11.5,7pts HL,318,18.5,0,59,16 Mains/18 Crosses,Head Light,7,Modern
+937,Prince,Prince CTS Synergy DB26 - 2020,97,27,12.2,7pts HL,326,24,0,65,16 Mains/18 Crosses,Head Light,7,Modern
+938,Prince,Prince Phantom 107G - 2020,107,27,11.4,7pts HL,319,20,0,63,16 Mains/19 Crosses,Head Light,7,Modern
+939,Prince,Prince Phantom 100G LB - 2020,100,28,11.6,9pts HL,335,18.5,0,59,16 Mains/18 Crosses,Head Light,9,Modern
+940,Prince,Prince Ripstick 300 - 2021,100,27,11.2,4pts HL,325,25.5,0,64,16 Mains/18 Crosses,Head Light,4,Modern
+941,Prince,Prince Ripstick 280 - 2021,100,27,10.4,2pts HH,319,25.5,1,63,16 Mains/18 Crosses,Head Heavy,2,Modern
+942,Prince,Prince Synergy 98 - 2021,98,27,11.4,4pts HL,334,23,0,60,18 Mains/18 Crosses,Head Light,4,Modern
+943,Prince,Prince Warrior 100 (300) - 2021,100,27,11.2,6pts HL,311,26,0,65,16 Mains/19 Crosses,Head Light,6,Modern
+944,Prince,Prince Warrior 107 - 2021,107,27,10.2,0pts EB,313,27,1,68,16 Mains/19 Crosses,Head Heavy,0,Modern
+945,Prince,Prince Legacy120 - 2021,120,27.25,9.4,8pts HH,317,29,2,73,16 Mains/19 Crosses,Head Heavy,8,Modern
+946,Prince,Prince Warrior 100 (285g) - 2021,100,27,10.6,3pts HL,313,26,0,65,16 Mains/19 Crosses,Head Light,3,Modern
+947,Prince,Prince Vortex 300g - 2021,100,27,11.2,6pts HL,321,22,0,65,14 Mains/21 Crosses,Head Light,6,Modern
+948,Prince,Prince Vortex 310g - 2021,100,27,11.5,9pts HL,320,22,0,63,14 Mains/21 Crosses,Head Light,9,Modern
+949,Prince,Prince Twistpower X105 (290) - 2021,105,27,10.7,7pts HL,312,25,0,63,16 Mains/19 Crosses,Head Light,7,Modern
+950,Prince,Prince Tour Diablo MP - 2022,100,27.25,11.5,8pts HL,317,19.5,0,60,16 Mains/18 Crosses,Head Light,8,Modern
+951,Prince,Prince Twistpower X100 Tour - 2021,100,27,11.2,4pts HL,324,24.5,0,66,16 Mains/18 Crosses,Head Light,4,Modern
+952,Prince,Prince ATS Textreme Tour 95 - 2022,95,27,11.9,8pts HL,324,22,0,61,16 Mains/19 Crosses,Head Light,8,Modern
+953,Prince,Prince ATS Textreme Tour 100P - 2022,100,27,11.4,7pts HL,322,23,0,61,18 Mains/20 Crosses,Head Light,7,Modern
+954,Prince,Prince ATS Textreme Tour 100 (310) - 2022,100,27,11.5,7pts HL,323,23,0,62,16 Mains/18 Crosses,Head Light,7,Modern
+955,Prince,Prince Textreme Tour 100 (310) - 2019,100,27,11.5,7pts HL,322,23,0,65,16 Mains/18 Crosses,Head Light,7,Modern
+956,Dunlop,Dunlop FX 500 - 2020,100,27,11.2,4pts HL,314,26,0,71,16 Mains/19 Crosses,Head Light,4,Modern
+957,Dunlop,Dunlop FX 500 Tour - 2020,98,27,11.4,6pts HL,318,23,0,69,16 Mains/19 Crosses,Head Light,6,Modern
+958,Dunlop,Dunlop FX 500 Lite - 2020,100,27,10,1pts HL,293,26,0,70,16 Mains/19 Crosses,Head Light,1,Modern
+959,Dunlop,Dunlop FX 700 - 2020,107,27.5,9.8,0pts EB,321,27,1,68,16 Mains/19 Crosses,Head Heavy,0,Modern
+960,Dunlop,Dunlop CX 200 - 2021,98,27,11.4,6pts HL,317,21.5,0,64,16 Mains/19 Crosses,Head Light,6,Modern
+961,Dunlop,Dunlop CX 200 Tour 16x19 - 2021,95,27,11.5,7pts HL,318,20.5,0,63,16 Mains/19 Crosses,Head Light,7,Modern
+962,Dunlop,Dunlop CX 400 Tour - 2021,100,27,11.2,4pts HL,322,23,0,66,16 Mains/19 Crosses,Head Light,4,Modern
+963,Dunlop,Dunlop CX 200 Tour 18x20 - 2021,95,27,11.7,7pts HL,319,20.5,0,62,18 Mains/20 Crosses,Head Light,7,Modern
+964,Dunlop,Dunlop CX 200 OS - 2021,105,27,11,3pts HL,313,21.5,0,61,16 Mains/19 Crosses,Head Light,3,Modern
+965,Dunlop,Dunlop CX 400 - 2021,100,27,10.7,1pts HL,319,24.5,0,71,16 Mains/19 Crosses,Head Light,1,Modern
+966,Dunlop,Dunlop Srixon LX 1000 - 2021,115,27.5,9.5,6pts HH,321,28,2,75,16 Mains/18 Crosses,Head Heavy,6,Modern
+967,Dunlop,Dunlop Srixon LX 800 - 2021,110,27.5,9.6,5pts HH,312,27,2,76,16 Mains/18 Crosses,Head Heavy,5,Modern
+968,Dunlop,Dunlop SX 300 Tour - 2022,98,27,11.4,6pts HL,324,26,0,66,16 Mains/19 Crosses,Head Light,6,Modern
+969,Dunlop,Dunlop SX 300 - 2022,100,27,11.2,4pts HL,322,26,0,68,16 Mains/19 Crosses,Head Light,4,Modern
+970,Dunlop,Dunlop SX 300 Lite - 2022,100,27,10,2pts HL,299,26,0,63,16 Mains/18 Crosses,Head Light,2,Modern
+971,Dunlop,Dunlop SX 300 LS - 2022,100,27,10.6,3pts HL,314,26,0,67,16 Mains/19 Crosses,Head Light,3,Modern
+972,Dunlop,Dunlop CX 200 Limited Edition - 2022,98,27,11.4,6pts HL,317,21.5,0,64,16 Mains/19 Crosses,Head Light,6,Modern
+974,Yonex,Yonex VCORE PRO 100 (280) - 2019,100,27,10.4,0pts EB,316,21,1,65,16 Mains/19 Crosses,Head Heavy,0,Modern
+975,Yonex,Yonex EZONE 108 - 2020,108,27.25,9.6,1pts HL,305,29,1,68,16 Mains/18 Crosses,Head Light,1,Modern
+976,Yonex,Yonex EZONE Feel - 2020,102,27,9.4,4pts HH,298,27,1,68,16 Mains/18 Crosses,Head Heavy,4,Modern
+977,Yonex,Yonex EZONE 98L -2020,98,27,10.6,1pts HL,312,24,0,64,16 Mains/19 Crosses,Head Light,1,Modern
+978,Yonex,Yonex EZONE 98 - 2020,98,27,11.3,6pts HL,317,24,0,64,16 Mains/19 Crosses,Head Light,6,Modern
+979,Yonex,Yonex EZONE 100 - 2020,100,27,11.2,4pts HL,322,26,0,69,16 Mains/19 Crosses,Head Light,4,Modern
+980,Yonex,Yonex EZONE 98+ - 2020,98,27.5,11.4,5pts HL,334,24,0,64,16 Mains/19 Crosses,Head Light,5,Modern
+981,Yonex,Yonex EZONE 100+ - 2020,100,27.5,11.1,3pts HL,335,26,0,70,16 Mains/19 Crosses,Head Light,3,Modern
+982,Yonex,Yonex Astrel 100 - 2020,100,27,10.4,4pts HL,297,27.5,0,68,16 Mains/18 Crosses,Head Light,4,Modern
+983,Yonex,Yonex Astrel 105 - 2020,105,27,9.8,1pts HL,298,28.5,1,68,16 Mains/18 Crosses,Head Light,1,Modern
+984,Yonex,Yonex Astrel 115 - 2020,115,26.75,9.7,2pts HH,292,28.5,2,68,16 Mains/17 Crosses,Head Heavy,2,Modern
+985,Yonex,Yonex EZONE Tour - 2020,98,27,11.7,4pts HL,330,24,0,62,16 Mains/19 Crosses,Head Light,4,Modern
+986,Yonex,Yonex VCORE 98L - 2021,98,27,10.6,4pts HL,307,23,0,65,16 Mains/19 Crosses,Head Light,4,Modern
+987,Yonex,Yonex VCORE 100L - 2021,100,27,10.5,2pts HL,306,25,0,66,16 Mains/19 Crosses,Head Light,2,Modern
+988,Yonex,Yonex VCORE 95 - 2021,95,27,11.5,7pts HL,316,22,0,64,16 Mains/20 Crosses,Head Light,7,Modern
+989,Yonex,Yonex VCORE 98 - 2021,98,27,11.4,6pts HL,321,23,0,66,16 Mains/19 Crosses,Head Light,6,Modern
+990,Yonex,Yonex VCORE 100 - 2021,100,27,11.3,4pts HL,324,25,0,66,16 Mains/19 Crosses,Head Light,4,Modern
+991,Yonex,Yonex VCORE Feel - 2020,100,27,9.3,3pts HH,290,26,1,64,16 Mains/18 Crosses,Head Heavy,3,Modern
+992,Yonex,Yonex VCORE 98+ - 2021,98,27.5,11.4,5pts HL,334,23,0,66,16 Mains/19 Crosses,Head Light,5,Modern
+993,Yonex,Yonex VCORE 100+ - 2021,100,27.5,11.2,3pts HL,333,25,0,66,16 Mains/19 Crosses,Head Light,3,Modern
+994,Yonex,Yonex VCORE PRO 97D - 2021,97,27,12,7pts HL,330,21,0,61,18 Mains/20 Crosses,Head Light,7,Modern
+995,Yonex,Yonex VCORE PRO 97 - 2021,97,27,11.5,7pts HL,318,21,0,60,16 Mains/19 Crosses,Head Light,7,Modern
+996,Yonex,Yonex VCORE PRO 97H - 2021,97,27,12.3,7pts HL,337,21,0,61,16 Mains/19 Crosses,Head Light,7,Modern
+997,Yonex,Yonex VCORE PRO 100 - 2021,100,27,11.2,4pts HL,321,23,0,63,16 Mains/19 Crosses,Head Light,4,Modern
+998,Yonex,Yonex EZONE 98 - 2022,98,27,11.4,6pts HL,318,24.5,0,65,16 Mains/19 Crosses,Head Light,6,Modern
+999,Yonex,Yonex EZONE 100 - 2022,100,27,11.2,4pts HL,317,26.5,0,67,16 Mains/19 Crosses,Head Light,4,Modern
+1000,Yonex,Yonex EZONE 100SL - 2022,100,27,10,1pts HL,303,26.5,0,68,16 Mains/18 Crosses,Head Light,1,Modern
+1001,Yonex,Yonex EZONE Feel - 2022,102,27,9.3,4pts HH,301,27,1,69,16 Mains/18 Crosses,Head Heavy,4,Modern
+1002,Yonex,Yonex EZONE Ace - 2022,102,27,9.7,3pts HH,309,26.5,1,66,16 Mains/19 Crosses,Head Heavy,3,Modern
+1003,Yonex,Yonex EZONE Game - 2022,98,27,10,1pts HL,299,25,0,69,16 Mains/19 Crosses,Head Light,1,Modern
+1004,Yonex,Yonex EZONE 98L - 2022,98,27,10.6,1pts HL,310,24.5,0,65,16 Mains/19 Crosses,Head Light,1,Modern
+1005,Yonex,Yonex EZONE 100L - 2022,100,27,10.5,3pts HL,308,26.5,0,69,16 Mains/19 Crosses,Head Light,3,Modern
+1006,Yonex,Yonex EZONE 105 - 2022,105,27,10.2,1pts HL,303,26.5,1,67,16 Mains/19 Crosses,Head Light,1,Modern
+1007,Yonex,Yonex EZONE 110 - 2022,110,27.25,9.6,1pts HL,302,29,1,66,16 Mains/18 Crosses,Head Light,1,Modern
+1008,Yonex,Yonex Osaka EZONE 100 - 2022,100,27,11.2,4pts HL,317,26.5,0,67,16 Mains/19 Crosses,Head Light,4,Modern
+1009,Yonex,Yonex Osaka EZONE 100L - 2022,100,27,10.5,3pts HL,308,26.5,0,69,16 Mains/19 Crosses,Head Light,3,Modern
+1010,Tecnifibre,Tecnifibre TFight 295 RS - 2020,100,27,11,3pts HL,318,23.5,0,70,16 Mains/19 Crosses,Head Light,3,Modern
+1011,Tecnifibre,Tecnifibre TFight 300 RS - 2020,98,27,11.2,4pts HL,319,23,0,66,16 Mains/19 Crosses,Head Light,4,Modern
+1012,Tecnifibre,Tecnifibre TFight 305 RS - 2020,98,27,11.4,3pts HL,333,23,0,67,18 Mains/19 Crosses,Head Light,3,Modern
+1013,Tecnifibre,Tecnifibre TFight 315 RS - 2020,98,27,11.7,7pts HL,321,23,0,69,16 Mains/19 Crosses,Head Light,7,Modern
+1014,Tecnifibre,Tecnifibre TF-X1 300 - 2021,100,27,11.1,4pts HL,323,24,0,71,16 Mains/19 Crosses,Head Light,4,Modern
+1015,Tecnifibre,Tecnifibre TF-X1 285 - 2021,100,27,10.5,2pts HL,316,24,0,71,16 Mains/19 Crosses,Head Light,2,Modern
+1016,Tecnifibre,Tecnifibre TF-X1 275 - 2021,105,27,10.2,1pts HL,310,25.5,0,69,16 Mains/19 Crosses,Head Light,1,Modern
+1017,Tecnifibre,Tecnifibre TF40 315 (16x19) - 2022,98,27,11.7,8pts HL,313,22,0,64,16 Mains/19 Crosses,Head Light,8,Modern
+1018,Tecnifibre,Tecnifibre TF40 305 (18x20) - 2022,98,27,11.4,3pts HL,328,22,0,64,18 Mains/20 Crosses,Head Light,3,Modern
+1019,Tecnifibre,Tecnifibre TF40 305 16x19 - 2022,98,27,11.3,3pts HL,321,22,0,64,16 Mains/19 Crosses,Head Light,3,Modern
+1020,Tecnifibre,Tecnifibre Tempo 298 IGA -2022,98,27,11,4pts HL,319,23,0,71,16 Mains/19 Crosses,Head Light,4,Modern
+1021,Volkl,Volkl V1 Classic - 2018,102,27,10.8,1pts HL,318,25,0,69,16 Mains/19 Crosses,Head Light,1,Modern
+1022,Volkl,Volkl V-Feel V8 Pro - 2019,100,27,11.2,6pts HL,316,24,0,67,18 Mains/20 Crosses,Head Light,6,Modern
+1023,Volkl,Volkl V-Cell 4 - 2020,105,27.6,10.2,5pts HL,304,25,1,68,16 Mains/19 Crosses,Head Light,5,Modern
+1024,Volkl,Volkl V-Cell 6 - 2020,100,27,10.2,2pts HL,303,26,0,69,16 Mains/19 Crosses,Head Light,2,Modern
+1025,Volkl,Volkl V-Cell 8 285g - 2020,100,27,10.5,4pts HL,303,24,0,70,16 Mains/18 Crosses,Head Light,4,Modern
+1026,Volkl,Volkl V-Cell 8 300g - 2020,100,27,11,5pts HL,312,24,0,67,16 Mains/18 Crosses,Head Light,5,Modern
+1027,Volkl,Volkl V-Cell 8 315g - 2020,100,27,11.5,7pts HL,315,24,0,67,16 Mains/18 Crosses,Head Light,7,Modern
+1028,Volkl,Volkl V-Cell 9 - 2020,100,27,11.5,6pts HL,317,26,0,68,16 Mains/19 Crosses,Head Light,6,Modern
+1029,Volkl,Volkl V-Cell 10 300g - 2021,98,27,11.1,3pts HL,311,22.5,0,68,16 Mains/19 Crosses,Head Light,3,Modern
+1030,Volkl,Volkl V-Cell 10 320g - 2021,98,27,11.8,7pts HL,319,22.5,0,67,16 Mains/19 Crosses,Head Light,7,Modern
+1031,Volkl,Volkl V-Cell 2 - 2021,115,27.6,10,2pts HH,322,27,2,71,16 Mains/19 Crosses,Head Heavy,2,Modern
+1032,Volkl,Volkl V-Cell 1 - 2021,115,27.8,9.6,4pts HH,312,27.5,2,70,16 Mains/17 Crosses,Head Heavy,4,Modern
+1033,Volkl,Volkl V-Cell 3 - 2021,110,27.8,10,2pts HL,313,27,1,69,16 Mains/19 Crosses,Head Light,2,Modern
+1034,Volkl, Volkl V-Cell 5 - 2021,100,27,9.8,1pts HL,287,24.5,0,69,16 Mains/18 Crosses,Head Light,1,Modern
+1035,Volkl,Volkl V-Cell V1 OS - 2021,110,27.6,10.5,5pts HL,310,23,1,68,16 Mains/19 Crosses,Head Light,5,Modern
+1036,Volkl,Volkl V-Cell V1 MP - 2021,102,27,10.6,4pts HL,302,22,0,68,16 Mains/19 Crosses,Head Light,4,Modern
+1037,Volkl,Volkl V-Cell V1 Pro - 2021,99,27,11.1,4pts HL,316,20,0,68,16 Mains/19 Crosses,Head Light,4,Modern

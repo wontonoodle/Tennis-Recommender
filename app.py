@@ -4,14 +4,15 @@ import numpy as np
 import joblib
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
+from pathlib import Path
 
 MODEL_PATH = 'model_jlib'
 NORM_PATH = 'scaler_jlib'
 PCA_PATH = 'pca_jlib'
 
-model = joblib.load(MODEL_PATH)
-normalizer = joblib.load(NORM_PATH)
-pca = joblib.load(PCA_PATH)
+model = joblib.load(Path(__file__).parent / 'model_jlib')
+normalizer = joblib.load(Path(__file__).parent / 'scaler_jlib')
+pca = joblib.load(Path(__file__).parent/ 'pca_jlib')
 
 # UI section starts from here 
 app_ui = ui.page_fluid(
